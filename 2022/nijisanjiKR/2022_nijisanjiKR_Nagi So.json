@@ -1,0 +1,66 @@
+{
+    "Name": "Nagi So",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 196,
+            "average": 196,
+            "streams": 1
+        },
+        "02": {
+            "median": 447,
+            "average": 520,
+            "streams": 5
+        },
+        "03": {
+            "median": 324,
+            "average": 689,
+            "streams": 15
+        },
+        "04": {
+            "median": 491,
+            "average": 520,
+            "streams": 6
+        },
+        "05": {
+            "median": 508,
+            "average": 521,
+            "streams": 11
+        },
+        "06": {
+            "median": 341,
+            "average": 479,
+            "streams": 9
+        },
+        "07": {
+            "median": 268,
+            "average": 307,
+            "streams": 7
+        },
+        "08": {
+            "median": 415,
+            "average": 425,
+            "streams": 3
+        },
+        "09": {
+            "median": 417,
+            "average": 392,
+            "streams": 5
+        },
+        "10": {
+            "median": 317,
+            "average": 312,
+            "streams": 9
+        },
+        "11": {
+            "median": 377,
+            "average": 500,
+            "streams": 12
+        },
+        "12": {
+            "median": 412,
+            "average": 479,
+            "streams": 16
+        }
+    }
+}

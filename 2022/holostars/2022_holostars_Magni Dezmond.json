@@ -1,0 +1,36 @@
+{
+    "Name": "Magni Dezmond",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 8825,
+            "average": 15792,
+            "streams": 8
+        },
+        "02": {
+            "median": 4670,
+            "average": 5144,
+            "streams": 31
+        },
+        "03": {
+            "median": 4056,
+            "average": 5111,
+            "streams": 30
+        },
+        "04": {
+            "median": 3604,
+            "average": 5774,
+            "streams": 20
+        },
+        "05": {
+            "median": 2578,
+            "average": 3370,
+            "streams": 20
+        },
+        "06": {
+            "median": 2213,
+            "average": 2802,
+            "streams": 23
+        }
+    }
+}

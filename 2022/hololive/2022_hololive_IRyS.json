@@ -1,0 +1,66 @@
+{
+    "Name": "IRyS",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 5845,
+            "average": 7117,
+            "streams": 13
+        },
+        "02": {
+            "median": 6687,
+            "average": 7526,
+            "streams": 16
+        },
+        "03": {
+            "median": 8457,
+            "average": 9424,
+            "streams": 17
+        },
+        "04": {
+            "median": 7478,
+            "average": 8495,
+            "streams": 18
+        },
+        "05": {
+            "median": 7459,
+            "average": 7817,
+            "streams": 10
+        },
+        "06": {
+            "median": 10925,
+            "average": 9280,
+            "streams": 5
+        },
+        "07": {
+            "median": 9774,
+            "average": 11395,
+            "streams": 9
+        },
+        "08": {
+            "median": 9120,
+            "average": 9216,
+            "streams": 10
+        },
+        "09": {
+            "median": 6574,
+            "average": 7150,
+            "streams": 12
+        },
+        "10": {
+            "median": 8660,
+            "average": 8665,
+            "streams": 11
+        },
+        "11": {
+            "median": 14713,
+            "average": 26824,
+            "streams": 6
+        },
+        "12": {
+            "median": 7372,
+            "average": 7750,
+            "streams": 13
+        }
+    }
+}

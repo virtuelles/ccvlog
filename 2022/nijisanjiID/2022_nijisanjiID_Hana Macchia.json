@@ -1,0 +1,66 @@
+{
+    "Name": "Hana Macchia",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 381,
+            "average": 394,
+            "streams": 7
+        },
+        "02": {
+            "median": 688,
+            "average": 637,
+            "streams": 9
+        },
+        "03": {
+            "median": 424,
+            "average": 537,
+            "streams": 15
+        },
+        "04": {
+            "median": 461,
+            "average": 643,
+            "streams": 19
+        },
+        "05": {
+            "median": 361,
+            "average": 426,
+            "streams": 9
+        },
+        "06": {
+            "median": 519,
+            "average": 509,
+            "streams": 11
+        },
+        "07": {
+            "median": 485,
+            "average": 694,
+            "streams": 8
+        },
+        "08": {
+            "median": 457,
+            "average": 1569,
+            "streams": 15
+        },
+        "09": {
+            "median": 324,
+            "average": 369,
+            "streams": 16
+        },
+        "10": {
+            "median": 399,
+            "average": 499,
+            "streams": 10
+        },
+        "11": {
+            "median": 446,
+            "average": 560,
+            "streams": 27
+        },
+        "12": {
+            "median": 429,
+            "average": 558,
+            "streams": 10
+        }
+    }
+}

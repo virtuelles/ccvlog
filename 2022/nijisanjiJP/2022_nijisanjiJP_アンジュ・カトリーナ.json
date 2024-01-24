@@ -1,0 +1,66 @@
+{
+    "Name": "アンジュ・カトリーナ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 9032,
+            "average": 8957,
+            "streams": 15
+        },
+        "02": {
+            "median": 12635,
+            "average": 12105,
+            "streams": 9
+        },
+        "03": {
+            "median": 11868,
+            "average": 20675,
+            "streams": 9
+        },
+        "04": {
+            "median": 11397,
+            "average": 11662,
+            "streams": 7
+        },
+        "05": {
+            "median": 13216,
+            "average": 13151,
+            "streams": 10
+        },
+        "06": {
+            "median": 12039,
+            "average": 12654,
+            "streams": 11
+        },
+        "07": {
+            "median": 12436,
+            "average": 12189,
+            "streams": 7
+        },
+        "08": {
+            "median": 10952,
+            "average": 14127,
+            "streams": 8
+        },
+        "09": {
+            "median": 10872,
+            "average": 12165,
+            "streams": 8
+        },
+        "10": {
+            "median": 10790,
+            "average": 10276,
+            "streams": 21
+        },
+        "11": {
+            "median": 11240,
+            "average": 12690,
+            "streams": 14
+        },
+        "12": {
+            "median": 11465,
+            "average": 11011,
+            "streams": 16
+        }
+    }
+}

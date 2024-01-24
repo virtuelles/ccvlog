@@ -1,0 +1,36 @@
+{
+    "Name": "Kyo Kaneko",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 4136,
+            "average": 13716,
+            "streams": 7
+        },
+        "02": {
+            "median": 3597,
+            "average": 3434,
+            "streams": 30
+        },
+        "03": {
+            "median": 2468,
+            "average": 2676,
+            "streams": 30
+        },
+        "04": {
+            "median": 2160,
+            "average": 2608,
+            "streams": 25
+        },
+        "05": {
+            "median": 1772,
+            "average": 2505,
+            "streams": 22
+        },
+        "06": {
+            "median": 2495,
+            "average": 3095,
+            "streams": 20
+        }
+    }
+}

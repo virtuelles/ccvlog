@@ -1,0 +1,66 @@
+{
+    "Name": "Ray Akira",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 132,
+            "average": 120,
+            "streams": 3
+        },
+        "02": {
+            "median": 296,
+            "average": 510,
+            "streams": 7
+        },
+        "03": {
+            "median": 250,
+            "average": 300,
+            "streams": 11
+        },
+        "04": {
+            "median": 437,
+            "average": 626,
+            "streams": 9
+        },
+        "05": {
+            "median": 292,
+            "average": 351,
+            "streams": 10
+        },
+        "06": {
+            "median": 320,
+            "average": 310,
+            "streams": 10
+        },
+        "07": {
+            "median": 389,
+            "average": 374,
+            "streams": 7
+        },
+        "08": {
+            "median": 353,
+            "average": 352,
+            "streams": 4
+        },
+        "09": {
+            "median": 157,
+            "average": 157,
+            "streams": 1
+        },
+        "10": {
+            "median": 317,
+            "average": 317,
+            "streams": 1
+        },
+        "11": {
+            "median": 358,
+            "average": 358,
+            "streams": 1
+        },
+        "12": {
+            "median": 414,
+            "average": 405,
+            "streams": 5
+        }
+    }
+}

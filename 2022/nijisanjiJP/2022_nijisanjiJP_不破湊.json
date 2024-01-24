@@ -1,0 +1,66 @@
+{
+    "Name": "不破湊",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 9591,
+            "average": 11999,
+            "streams": 15
+        },
+        "02": {
+            "median": 10453,
+            "average": 13747,
+            "streams": 17
+        },
+        "03": {
+            "median": 10201,
+            "average": 10061,
+            "streams": 24
+        },
+        "04": {
+            "median": 8649,
+            "average": 9807,
+            "streams": 23
+        },
+        "05": {
+            "median": 10103,
+            "average": 13785,
+            "streams": 23
+        },
+        "06": {
+            "median": 10184,
+            "average": 10658,
+            "streams": 23
+        },
+        "07": {
+            "median": 9825,
+            "average": 11112,
+            "streams": 17
+        },
+        "08": {
+            "median": 25879,
+            "average": 25367,
+            "streams": 47
+        },
+        "09": {
+            "median": 17618,
+            "average": 20056,
+            "streams": 33
+        },
+        "10": {
+            "median": 16516,
+            "average": 21633,
+            "streams": 21
+        },
+        "11": {
+            "median": 13273,
+            "average": 13407,
+            "streams": 23
+        },
+        "12": {
+            "median": 13720,
+            "average": 17327,
+            "streams": 18
+        }
+    }
+}

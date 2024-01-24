@@ -1,0 +1,66 @@
+{
+    "Name": "Reza Avanluna",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 90,
+            "average": 115,
+            "streams": 20
+        },
+        "02": {
+            "median": 112,
+            "average": 184,
+            "streams": 17
+        },
+        "03": {
+            "median": 140,
+            "average": 227,
+            "streams": 16
+        },
+        "04": {
+            "median": 110,
+            "average": 171,
+            "streams": 26
+        },
+        "05": {
+            "median": 256,
+            "average": 1128,
+            "streams": 21
+        },
+        "06": {
+            "median": 210,
+            "average": 338,
+            "streams": 21
+        },
+        "07": {
+            "median": 234,
+            "average": 646,
+            "streams": 20
+        },
+        "08": {
+            "median": 175,
+            "average": 998,
+            "streams": 18
+        },
+        "09": {
+            "median": 181,
+            "average": 323,
+            "streams": 21
+        },
+        "10": {
+            "median": 137,
+            "average": 256,
+            "streams": 19
+        },
+        "11": {
+            "median": 160,
+            "average": 223,
+            "streams": 22
+        },
+        "12": {
+            "median": 133,
+            "average": 168,
+            "streams": 26
+        }
+    }
+}

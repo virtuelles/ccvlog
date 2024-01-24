@@ -1,0 +1,66 @@
+{
+    "Name": "胡桃のあ",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 3524,
+            "average": 4180,
+            "streams": 35
+        },
+        "02": {
+            "median": 4355,
+            "average": 4510,
+            "streams": 37
+        },
+        "03": {
+            "median": 4632,
+            "average": 4872,
+            "streams": 44
+        },
+        "04": {
+            "median": 4762,
+            "average": 5235,
+            "streams": 33
+        },
+        "05": {
+            "median": 5241,
+            "average": 5575,
+            "streams": 35
+        },
+        "06": {
+            "median": 3909,
+            "average": 6423,
+            "streams": 15
+        },
+        "07": {
+            "median": 3347,
+            "average": 3453,
+            "streams": 26
+        },
+        "08": {
+            "median": 4710,
+            "average": 4844,
+            "streams": 25
+        },
+        "09": {
+            "median": 4011,
+            "average": 3972,
+            "streams": 35
+        },
+        "10": {
+            "median": 2626,
+            "average": 3018,
+            "streams": 24
+        },
+        "11": {
+            "median": 2474,
+            "average": 2725,
+            "streams": 23
+        },
+        "12": {
+            "median": 2771,
+            "average": 2883,
+            "streams": 24
+        }
+    }
+}

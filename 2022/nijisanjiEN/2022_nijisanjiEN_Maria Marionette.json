@@ -1,0 +1,36 @@
+{
+    "Name": "Maria Marionette",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 5900,
+            "average": 12432,
+            "streams": 9
+        },
+        "02": {
+            "median": 2581,
+            "average": 3010,
+            "streams": 26
+        },
+        "03": {
+            "median": 1628,
+            "average": 2277,
+            "streams": 28
+        },
+        "04": {
+            "median": 1634,
+            "average": 2876,
+            "streams": 25
+        },
+        "05": {
+            "median": 1492,
+            "average": 1733,
+            "streams": 32
+        },
+        "06": {
+            "median": 1475,
+            "average": 2292,
+            "streams": 28
+        }
+    }
+}

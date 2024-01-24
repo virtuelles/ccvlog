@@ -1,0 +1,66 @@
+{
+    "Name": "Shu Yamino",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2789,
+            "average": 3186,
+            "streams": 28
+        },
+        "02": {
+            "median": 3574,
+            "average": 4081,
+            "streams": 19
+        },
+        "03": {
+            "median": 5270,
+            "average": 6420,
+            "streams": 27
+        },
+        "04": {
+            "median": 5304,
+            "average": 6284,
+            "streams": 22
+        },
+        "05": {
+            "median": 9849,
+            "average": 9763,
+            "streams": 14
+        },
+        "06": {
+            "median": 7767,
+            "average": 8898,
+            "streams": 19
+        },
+        "07": {
+            "median": 7324,
+            "average": 8292,
+            "streams": 18
+        },
+        "08": {
+            "median": 6466,
+            "average": 8534,
+            "streams": 21
+        },
+        "09": {
+            "median": 6766,
+            "average": 7233,
+            "streams": 16
+        },
+        "10": {
+            "median": 5168,
+            "average": 5356,
+            "streams": 22
+        },
+        "11": {
+            "median": 5570,
+            "average": 5965,
+            "streams": 16
+        },
+        "12": {
+            "median": 4616,
+            "average": 8041,
+            "streams": 11
+        }
+    }
+}

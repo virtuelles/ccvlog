@@ -1,0 +1,66 @@
+{
+    "Name": "姫森ルーナ",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 4246,
+            "average": 4657,
+            "streams": 28
+        },
+        "02": {
+            "median": 6883,
+            "average": 7209,
+            "streams": 17
+        },
+        "03": {
+            "median": 6155,
+            "average": 6541,
+            "streams": 16
+        },
+        "04": {
+            "median": 5972,
+            "average": 6001,
+            "streams": 16
+        },
+        "05": {
+            "median": 7737,
+            "average": 9841,
+            "streams": 24
+        },
+        "06": {
+            "median": 7102,
+            "average": 8067,
+            "streams": 24
+        },
+        "07": {
+            "median": 7738,
+            "average": 11039,
+            "streams": 24
+        },
+        "08": {
+            "median": 8812,
+            "average": 9514,
+            "streams": 28
+        },
+        "09": {
+            "median": 8875,
+            "average": 9667,
+            "streams": 27
+        },
+        "10": {
+            "median": 8923,
+            "average": 10771,
+            "streams": 33
+        },
+        "11": {
+            "median": 7859,
+            "average": 8058,
+            "streams": 25
+        },
+        "12": {
+            "median": 8485,
+            "average": 11574,
+            "streams": 18
+        }
+    }
+}

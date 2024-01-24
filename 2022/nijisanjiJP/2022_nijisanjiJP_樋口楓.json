@@ -1,0 +1,66 @@
+{
+    "Name": "樋口楓",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1755,
+            "average": 2076,
+            "streams": 18
+        },
+        "02": {
+            "median": 2326,
+            "average": 3114,
+            "streams": 15
+        },
+        "03": {
+            "median": 1784,
+            "average": 3253,
+            "streams": 13
+        },
+        "04": {
+            "median": 3226,
+            "average": 3858,
+            "streams": 21
+        },
+        "05": {
+            "median": 1827,
+            "average": 2202,
+            "streams": 15
+        },
+        "06": {
+            "median": 2921,
+            "average": 3260,
+            "streams": 21
+        },
+        "07": {
+            "median": 1628,
+            "average": 1806,
+            "streams": 13
+        },
+        "08": {
+            "median": 1868,
+            "average": 2425,
+            "streams": 12
+        },
+        "09": {
+            "median": 2828,
+            "average": 3083,
+            "streams": 21
+        },
+        "10": {
+            "median": 3243,
+            "average": 3014,
+            "streams": 20
+        },
+        "11": {
+            "median": 2933,
+            "average": 3340,
+            "streams": 26
+        },
+        "12": {
+            "median": 2077,
+            "average": 6026,
+            "streams": 15
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "赤羽葉子",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 554,
+            "average": 605,
+            "streams": 3
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "04": {
+            "median": 1245,
+            "average": 1245,
+            "streams": 2
+        },
+        "05": {
+            "median": 2216,
+            "average": 2216,
+            "streams": 1
+        },
+        "06": {
+            "median": 2495,
+            "average": 2404,
+            "streams": 3
+        },
+        "07": {
+            "median": 1245,
+            "average": 1430,
+            "streams": 15
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": 825,
+            "average": 1008,
+            "streams": 3
+        },
+        "10": {
+            "median": 1614,
+            "average": 1584,
+            "streams": 3
+        },
+        "11": {
+            "median": 122903,
+            "average": 122903,
+            "streams": 1
+        },
+        "12": {
+            "median": 2398,
+            "average": 2256,
+            "streams": 6
+        }
+    }
+}

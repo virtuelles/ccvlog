@@ -1,0 +1,66 @@
+{
+    "Name": "ラプラス・ダークネス",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 14216,
+            "average": 13708,
+            "streams": 24
+        },
+        "02": {
+            "median": 15779,
+            "average": 14726,
+            "streams": 11
+        },
+        "03": {
+            "median": 12432,
+            "average": 13325,
+            "streams": 21
+        },
+        "04": {
+            "median": 10954,
+            "average": 11165,
+            "streams": 24
+        },
+        "05": {
+            "median": 13349,
+            "average": 15733,
+            "streams": 13
+        },
+        "06": {
+            "median": 13315,
+            "average": 22774,
+            "streams": 15
+        },
+        "07": {
+            "median": 11423,
+            "average": 13886,
+            "streams": 12
+        },
+        "08": {
+            "median": 10277,
+            "average": 10194,
+            "streams": 7
+        },
+        "09": {
+            "median": 9775,
+            "average": 9587,
+            "streams": 4
+        },
+        "10": {
+            "median": 7572,
+            "average": 9551,
+            "streams": 20
+        },
+        "11": {
+            "median": 6298,
+            "average": 12647,
+            "streams": 13
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

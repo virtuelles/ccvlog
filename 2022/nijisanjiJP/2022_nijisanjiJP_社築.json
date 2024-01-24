@@ -1,0 +1,66 @@
+{
+    "Name": "社築",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 11153,
+            "average": 11419,
+            "streams": 15
+        },
+        "02": {
+            "median": 9346,
+            "average": 10800,
+            "streams": 17
+        },
+        "03": {
+            "median": 9890,
+            "average": 10870,
+            "streams": 22
+        },
+        "04": {
+            "median": 6461,
+            "average": 6924,
+            "streams": 21
+        },
+        "05": {
+            "median": 8653,
+            "average": 9898,
+            "streams": 17
+        },
+        "06": {
+            "median": 7806,
+            "average": 13898,
+            "streams": 19
+        },
+        "07": {
+            "median": 8412,
+            "average": 9984,
+            "streams": 19
+        },
+        "08": {
+            "median": 7120,
+            "average": 7779,
+            "streams": 20
+        },
+        "09": {
+            "median": 10454,
+            "average": 12062,
+            "streams": 17
+        },
+        "10": {
+            "median": 10433,
+            "average": 10920,
+            "streams": 18
+        },
+        "11": {
+            "median": 12001,
+            "average": 13328,
+            "streams": 22
+        },
+        "12": {
+            "median": 8084,
+            "average": 9438,
+            "streams": 22
+        }
+    }
+}

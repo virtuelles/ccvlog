@@ -1,0 +1,66 @@
+{
+    "Name": "シェリン・バーガンディ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2228,
+            "average": 2109,
+            "streams": 4
+        },
+        "02": {
+            "median": 1983,
+            "average": 2103,
+            "streams": 6
+        },
+        "03": {
+            "median": 2544,
+            "average": 2718,
+            "streams": 11
+        },
+        "04": {
+            "median": 2236,
+            "average": 2469,
+            "streams": 18
+        },
+        "05": {
+            "median": 1978,
+            "average": 2049,
+            "streams": 20
+        },
+        "06": {
+            "median": 4207,
+            "average": 4093,
+            "streams": 17
+        },
+        "07": {
+            "median": 2433,
+            "average": 2650,
+            "streams": 21
+        },
+        "08": {
+            "median": 2788,
+            "average": 2911,
+            "streams": 21
+        },
+        "09": {
+            "median": 2745,
+            "average": 3205,
+            "streams": 15
+        },
+        "10": {
+            "median": 1906,
+            "average": 2792,
+            "streams": 12
+        },
+        "11": {
+            "median": 2712,
+            "average": 2684,
+            "streams": 11
+        },
+        "12": {
+            "median": 3577,
+            "average": 7338,
+            "streams": 19
+        }
+    }
+}

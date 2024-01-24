@@ -1,0 +1,36 @@
+{
+    "Name": "セラフ・ダズルガーデン",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2837,
+            "average": 6145,
+            "streams": 20
+        },
+        "02": {
+            "median": 2395,
+            "average": 2381,
+            "streams": 36
+        },
+        "03": {
+            "median": 1909,
+            "average": 1885,
+            "streams": 26
+        },
+        "04": {
+            "median": 2194,
+            "average": 2363,
+            "streams": 24
+        },
+        "05": {
+            "median": 1504,
+            "average": 1663,
+            "streams": 22
+        },
+        "06": {
+            "median": 1288,
+            "average": 1529,
+            "streams": 19
+        }
+    }
+}

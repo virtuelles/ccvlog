@@ -1,0 +1,36 @@
+{
+    "Name": "四季凪アキラ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 5897,
+            "average": 11115,
+            "streams": 12
+        },
+        "02": {
+            "median": 2414,
+            "average": 2654,
+            "streams": 18
+        },
+        "03": {
+            "median": 1928,
+            "average": 1936,
+            "streams": 17
+        },
+        "04": {
+            "median": 1443,
+            "average": 2381,
+            "streams": 13
+        },
+        "05": {
+            "median": 1231,
+            "average": 1286,
+            "streams": 12
+        },
+        "06": {
+            "median": 1927,
+            "average": 3293,
+            "streams": 14
+        }
+    }
+}

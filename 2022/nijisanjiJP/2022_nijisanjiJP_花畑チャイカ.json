@@ -1,0 +1,66 @@
+{
+    "Name": "花畑チャイカ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3764,
+            "average": 5105,
+            "streams": 16
+        },
+        "02": {
+            "median": 3116,
+            "average": 4307,
+            "streams": 12
+        },
+        "03": {
+            "median": 2410,
+            "average": 3403,
+            "streams": 11
+        },
+        "04": {
+            "median": 2307,
+            "average": 2465,
+            "streams": 16
+        },
+        "05": {
+            "median": 2444,
+            "average": 2786,
+            "streams": 13
+        },
+        "06": {
+            "median": 3731,
+            "average": 12086,
+            "streams": 14
+        },
+        "07": {
+            "median": 3798,
+            "average": 4792,
+            "streams": 14
+        },
+        "08": {
+            "median": 2742,
+            "average": 3078,
+            "streams": 15
+        },
+        "09": {
+            "median": 5111,
+            "average": 4891,
+            "streams": 14
+        },
+        "10": {
+            "median": 5071,
+            "average": 5899,
+            "streams": 14
+        },
+        "11": {
+            "median": 4766,
+            "average": 5158,
+            "streams": 14
+        },
+        "12": {
+            "median": 4795,
+            "average": 5288,
+            "streams": 19
+        }
+    }
+}

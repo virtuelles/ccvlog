@@ -1,0 +1,66 @@
+{
+    "Name": "花芽なずな",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 1522,
+            "average": 2444,
+            "streams": 30
+        },
+        "02": {
+            "median": 1589,
+            "average": 1726,
+            "streams": 37
+        },
+        "03": {
+            "median": 2438,
+            "average": 4522,
+            "streams": 24
+        },
+        "04": {
+            "median": 1819,
+            "average": 2149,
+            "streams": 29
+        },
+        "05": {
+            "median": 1954,
+            "average": 2219,
+            "streams": 33
+        },
+        "06": {
+            "median": 2338,
+            "average": 2784,
+            "streams": 32
+        },
+        "07": {
+            "median": 2405,
+            "average": 2650,
+            "streams": 39
+        },
+        "08": {
+            "median": 3239,
+            "average": 3667,
+            "streams": 40
+        },
+        "09": {
+            "median": 2342,
+            "average": 2785,
+            "streams": 33
+        },
+        "10": {
+            "median": 2085,
+            "average": 2305,
+            "streams": 31
+        },
+        "11": {
+            "median": 1853,
+            "average": 2067,
+            "streams": 25
+        },
+        "12": {
+            "median": 2203,
+            "average": 2197,
+            "streams": 32
+        }
+    }
+}

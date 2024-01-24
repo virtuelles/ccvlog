@@ -1,0 +1,66 @@
+{
+    "Name": "小野町春香",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 502,
+            "average": 966,
+            "streams": 15
+        },
+        "02": {
+            "median": 644,
+            "average": 1183,
+            "streams": 25
+        },
+        "03": {
+            "median": 724,
+            "average": 1006,
+            "streams": 27
+        },
+        "04": {
+            "median": 726,
+            "average": 1169,
+            "streams": 27
+        },
+        "05": {
+            "median": 1198,
+            "average": 1972,
+            "streams": 26
+        },
+        "06": {
+            "median": 998,
+            "average": 1062,
+            "streams": 29
+        },
+        "07": {
+            "median": 2735,
+            "average": 2866,
+            "streams": 31
+        },
+        "08": {
+            "median": 906,
+            "average": 2168,
+            "streams": 28
+        },
+        "09": {
+            "median": 510,
+            "average": 603,
+            "streams": 21
+        },
+        "10": {
+            "median": 636,
+            "average": 745,
+            "streams": 20
+        },
+        "11": {
+            "median": 495,
+            "average": 584,
+            "streams": 22
+        },
+        "12": {
+            "median": 477,
+            "average": 660,
+            "streams": 31
+        }
+    }
+}

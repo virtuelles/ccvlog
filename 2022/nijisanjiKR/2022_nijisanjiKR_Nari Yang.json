@@ -1,0 +1,66 @@
+{
+    "Name": "Nari Yang",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 217,
+            "average": 240,
+            "streams": 22
+        },
+        "02": {
+            "median": 382,
+            "average": 790,
+            "streams": 20
+        },
+        "03": {
+            "median": 1214,
+            "average": 1295,
+            "streams": 23
+        },
+        "04": {
+            "median": 851,
+            "average": 908,
+            "streams": 21
+        },
+        "05": {
+            "median": 967,
+            "average": 1015,
+            "streams": 21
+        },
+        "06": {
+            "median": 1709,
+            "average": 2860,
+            "streams": 24
+        },
+        "07": {
+            "median": 1286,
+            "average": 1538,
+            "streams": 24
+        },
+        "08": {
+            "median": 1414,
+            "average": 2977,
+            "streams": 20
+        },
+        "09": {
+            "median": 1244,
+            "average": 1379,
+            "streams": 23
+        },
+        "10": {
+            "median": 2071,
+            "average": 3922,
+            "streams": 25
+        },
+        "11": {
+            "median": 1503,
+            "average": 1835,
+            "streams": 19
+        },
+        "12": {
+            "median": 1208,
+            "average": 1353,
+            "streams": 23
+        }
+    }
+}

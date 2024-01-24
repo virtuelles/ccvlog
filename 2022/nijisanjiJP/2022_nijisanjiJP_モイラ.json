@@ -1,0 +1,66 @@
+{
+    "Name": "モイラ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 692,
+            "average": 796,
+            "streams": 6
+        },
+        "02": {
+            "median": 348,
+            "average": 402,
+            "streams": 40
+        },
+        "03": {
+            "median": 555,
+            "average": 637,
+            "streams": 15
+        },
+        "04": {
+            "median": 310,
+            "average": 431,
+            "streams": 15
+        },
+        "05": {
+            "median": 308,
+            "average": 504,
+            "streams": 13
+        },
+        "06": {
+            "median": 627,
+            "average": 683,
+            "streams": 15
+        },
+        "07": {
+            "median": 448,
+            "average": 628,
+            "streams": 8
+        },
+        "08": {
+            "median": 786,
+            "average": 783,
+            "streams": 10
+        },
+        "09": {
+            "median": 701,
+            "average": 832,
+            "streams": 5
+        },
+        "10": {
+            "median": 1127,
+            "average": 1127,
+            "streams": 2
+        },
+        "11": {
+            "median": 464,
+            "average": 574,
+            "streams": 10
+        },
+        "12": {
+            "median": 329,
+            "average": 414,
+            "streams": 7
+        }
+    }
+}

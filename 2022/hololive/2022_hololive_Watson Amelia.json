@@ -1,0 +1,66 @@
+{
+    "Name": "Watson Amelia",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 6039,
+            "average": 8920,
+            "streams": 19
+        },
+        "02": {
+            "median": 8880,
+            "average": 10662,
+            "streams": 19
+        },
+        "03": {
+            "median": 7192,
+            "average": 7509,
+            "streams": 15
+        },
+        "04": {
+            "median": 7887,
+            "average": 7631,
+            "streams": 26
+        },
+        "05": {
+            "median": 7526,
+            "average": 7937,
+            "streams": 26
+        },
+        "06": {
+            "median": 7930,
+            "average": 10082,
+            "streams": 15
+        },
+        "07": {
+            "median": 6752,
+            "average": 7823,
+            "streams": 20
+        },
+        "08": {
+            "median": 5951,
+            "average": 7045,
+            "streams": 23
+        },
+        "09": {
+            "median": 6741,
+            "average": 9101,
+            "streams": 29
+        },
+        "10": {
+            "median": 5917,
+            "average": 6780,
+            "streams": 22
+        },
+        "11": {
+            "median": 5912,
+            "average": 6341,
+            "streams": 16
+        },
+        "12": {
+            "median": 7558,
+            "average": 8012,
+            "streams": 10
+        }
+    }
+}

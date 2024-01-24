@@ -1,0 +1,36 @@
+{
+    "Name": "風楽奏斗",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2171,
+            "average": 5633,
+            "streams": 14
+        },
+        "02": {
+            "median": 1483,
+            "average": 1683,
+            "streams": 26
+        },
+        "03": {
+            "median": 1181,
+            "average": 1332,
+            "streams": 28
+        },
+        "04": {
+            "median": 1153,
+            "average": 1268,
+            "streams": 25
+        },
+        "05": {
+            "median": 1137,
+            "average": 1506,
+            "streams": 28
+        },
+        "06": {
+            "median": 1356,
+            "average": 1564,
+            "streams": 19
+        }
+    }
+}

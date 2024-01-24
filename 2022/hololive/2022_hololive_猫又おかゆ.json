@@ -1,0 +1,66 @@
+{
+    "Name": "猫又おかゆ",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 6580,
+            "average": 7268,
+            "streams": 24
+        },
+        "02": {
+            "median": 14861,
+            "average": 20595,
+            "streams": 16
+        },
+        "03": {
+            "median": 13378,
+            "average": 15710,
+            "streams": 17
+        },
+        "04": {
+            "median": 8823,
+            "average": 12819,
+            "streams": 22
+        },
+        "05": {
+            "median": 10301,
+            "average": 10460,
+            "streams": 18
+        },
+        "06": {
+            "median": 9404,
+            "average": 10557,
+            "streams": 19
+        },
+        "07": {
+            "median": 8045,
+            "average": 12222,
+            "streams": 21
+        },
+        "08": {
+            "median": 6610,
+            "average": 8088,
+            "streams": 21
+        },
+        "09": {
+            "median": 8921,
+            "average": 10127,
+            "streams": 24
+        },
+        "10": {
+            "median": 8881,
+            "average": 10146,
+            "streams": 9
+        },
+        "11": {
+            "median": 9724,
+            "average": 11754,
+            "streams": 12
+        },
+        "12": {
+            "median": 12047,
+            "average": 14968,
+            "streams": 21
+        }
+    }
+}

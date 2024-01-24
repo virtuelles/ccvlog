@@ -1,0 +1,66 @@
+{
+    "Name": "赤井はあと",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 3912,
+            "average": 6273,
+            "streams": 15
+        },
+        "02": {
+            "median": 4128,
+            "average": 4768,
+            "streams": 25
+        },
+        "03": {
+            "median": 5008,
+            "average": 5744,
+            "streams": 27
+        },
+        "04": {
+            "median": 5540,
+            "average": 7000,
+            "streams": 21
+        },
+        "05": {
+            "median": 6281,
+            "average": 8941,
+            "streams": 22
+        },
+        "06": {
+            "median": 9804,
+            "average": 15600,
+            "streams": 16
+        },
+        "07": {
+            "median": 4882,
+            "average": 8378,
+            "streams": 14
+        },
+        "08": {
+            "median": 6522,
+            "average": 9996,
+            "streams": 13
+        },
+        "09": {
+            "median": 5474,
+            "average": 6807,
+            "streams": 30
+        },
+        "10": {
+            "median": 4458,
+            "average": 4652,
+            "streams": 23
+        },
+        "11": {
+            "median": 3763,
+            "average": 3889,
+            "streams": 20
+        },
+        "12": {
+            "median": 3395,
+            "average": 4155,
+            "streams": 21
+        }
+    }
+}

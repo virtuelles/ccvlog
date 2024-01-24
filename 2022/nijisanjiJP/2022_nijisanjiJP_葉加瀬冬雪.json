@@ -1,0 +1,66 @@
+{
+    "Name": "葉加瀬冬雪",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3476,
+            "average": 3281,
+            "streams": 26
+        },
+        "02": {
+            "median": 3167,
+            "average": 3343,
+            "streams": 16
+        },
+        "03": {
+            "median": 3378,
+            "average": 3699,
+            "streams": 23
+        },
+        "04": {
+            "median": 4202,
+            "average": 5103,
+            "streams": 21
+        },
+        "05": {
+            "median": 4291,
+            "average": 4192,
+            "streams": 22
+        },
+        "06": {
+            "median": 4392,
+            "average": 4212,
+            "streams": 20
+        },
+        "07": {
+            "median": 3816,
+            "average": 4148,
+            "streams": 21
+        },
+        "08": {
+            "median": 4833,
+            "average": 6044,
+            "streams": 21
+        },
+        "09": {
+            "median": 4430,
+            "average": 5151,
+            "streams": 19
+        },
+        "10": {
+            "median": 3909,
+            "average": 4011,
+            "streams": 24
+        },
+        "11": {
+            "median": 3754,
+            "average": 3930,
+            "streams": 15
+        },
+        "12": {
+            "median": 3630,
+            "average": 5559,
+            "streams": 22
+        }
+    }
+}

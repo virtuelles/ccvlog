@@ -1,0 +1,66 @@
+{
+    "Name": "Petra Gurin",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1241,
+            "average": 1575,
+            "streams": 24
+        },
+        "02": {
+            "median": 1424,
+            "average": 1711,
+            "streams": 16
+        },
+        "03": {
+            "median": 1324,
+            "average": 2243,
+            "streams": 22
+        },
+        "04": {
+            "median": 1553,
+            "average": 2187,
+            "streams": 22
+        },
+        "05": {
+            "median": 1900,
+            "average": 2095,
+            "streams": 20
+        },
+        "06": {
+            "median": 1755,
+            "average": 2193,
+            "streams": 18
+        },
+        "07": {
+            "median": 2166,
+            "average": 2943,
+            "streams": 16
+        },
+        "08": {
+            "median": 2751,
+            "average": 6513,
+            "streams": 22
+        },
+        "09": {
+            "median": 2577,
+            "average": 5224,
+            "streams": 8
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": 1855,
+            "average": 2675,
+            "streams": 9
+        },
+        "12": {
+            "median": 1588,
+            "average": 2472,
+            "streams": 19
+        }
+    }
+}

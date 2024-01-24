@@ -1,0 +1,66 @@
+{
+    "Name": "Anya Melfissa",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 693,
+            "average": 835,
+            "streams": 19
+        },
+        "02": {
+            "median": 996,
+            "average": 1146,
+            "streams": 13
+        },
+        "03": {
+            "median": 1715,
+            "average": 1950,
+            "streams": 20
+        },
+        "04": {
+            "median": 1439,
+            "average": 1603,
+            "streams": 17
+        },
+        "05": {
+            "median": 1273,
+            "average": 1370,
+            "streams": 21
+        },
+        "06": {
+            "median": 1604,
+            "average": 1978,
+            "streams": 16
+        },
+        "07": {
+            "median": 2090,
+            "average": 2696,
+            "streams": 17
+        },
+        "08": {
+            "median": 2943,
+            "average": 4755,
+            "streams": 23
+        },
+        "09": {
+            "median": 1564,
+            "average": 2557,
+            "streams": 24
+        },
+        "10": {
+            "median": 1544,
+            "average": 1638,
+            "streams": 18
+        },
+        "11": {
+            "median": 1066,
+            "average": 1265,
+            "streams": 19
+        },
+        "12": {
+            "median": 1409,
+            "average": 1487,
+            "streams": 27
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "白波らむね",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 5641,
+            "average": 11164,
+            "streams": 9
+        },
+        "02": {
+            "median": 2926,
+            "average": 3330,
+            "streams": 41
+        },
+        "03": {
+            "median": 2831,
+            "average": 2858,
+            "streams": 34
+        },
+        "04": {
+            "median": 1893,
+            "average": 2018,
+            "streams": 27
+        },
+        "05": {
+            "median": 2051,
+            "average": 2337,
+            "streams": 30
+        }
+    }
+}

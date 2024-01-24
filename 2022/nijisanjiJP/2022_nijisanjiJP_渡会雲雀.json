@@ -1,0 +1,36 @@
+{
+    "Name": "渡会雲雀",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2800,
+            "average": 7908,
+            "streams": 16
+        },
+        "02": {
+            "median": 1873,
+            "average": 2243,
+            "streams": 31
+        },
+        "03": {
+            "median": 2013,
+            "average": 2571,
+            "streams": 23
+        },
+        "04": {
+            "median": 1797,
+            "average": 1854,
+            "streams": 23
+        },
+        "05": {
+            "median": 1671,
+            "average": 1736,
+            "streams": 19
+        },
+        "06": {
+            "median": 2546,
+            "average": 3448,
+            "streams": 24
+        }
+    }
+}

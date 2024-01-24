@@ -1,0 +1,66 @@
+{
+    "Name": "朝日南アカネ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 803,
+            "average": 691,
+            "streams": 3
+        },
+        "02": {
+            "median": 880,
+            "average": 938,
+            "streams": 7
+        },
+        "03": {
+            "median": 1050,
+            "average": 1074,
+            "streams": 5
+        },
+        "04": {
+            "median": 1058,
+            "average": 872,
+            "streams": 7
+        },
+        "05": {
+            "median": 1035,
+            "average": 2372,
+            "streams": 7
+        },
+        "06": {
+            "median": 1117,
+            "average": 1025,
+            "streams": 6
+        },
+        "07": {
+            "median": 678,
+            "average": 713,
+            "streams": 7
+        },
+        "08": {
+            "median": 1149,
+            "average": 4217,
+            "streams": 8
+        },
+        "09": {
+            "median": 794,
+            "average": 933,
+            "streams": 4
+        },
+        "10": {
+            "median": 1301,
+            "average": 1301,
+            "streams": 1
+        },
+        "11": {
+            "median": 886,
+            "average": 928,
+            "streams": 8
+        },
+        "12": {
+            "median": 779,
+            "average": 791,
+            "streams": 7
+        }
+    }
+}

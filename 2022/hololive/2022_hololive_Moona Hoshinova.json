@@ -1,0 +1,66 @@
+{
+    "Name": "Moona Hoshinova",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 2149,
+            "average": 2668,
+            "streams": 12
+        },
+        "02": {
+            "median": 2122,
+            "average": 2734,
+            "streams": 24
+        },
+        "03": {
+            "median": 1707,
+            "average": 3751,
+            "streams": 18
+        },
+        "04": {
+            "median": 5159,
+            "average": 4914,
+            "streams": 17
+        },
+        "05": {
+            "median": 4294,
+            "average": 5094,
+            "streams": 18
+        },
+        "06": {
+            "median": 3234,
+            "average": 4699,
+            "streams": 16
+        },
+        "07": {
+            "median": 5297,
+            "average": 5236,
+            "streams": 25
+        },
+        "08": {
+            "median": 7210,
+            "average": 8655,
+            "streams": 14
+        },
+        "09": {
+            "median": 4816,
+            "average": 10310,
+            "streams": 15
+        },
+        "10": {
+            "median": 3584,
+            "average": 5055,
+            "streams": 16
+        },
+        "11": {
+            "median": 2382,
+            "average": 2718,
+            "streams": 25
+        },
+        "12": {
+            "median": 2460,
+            "average": 3658,
+            "streams": 15
+        }
+    }
+}

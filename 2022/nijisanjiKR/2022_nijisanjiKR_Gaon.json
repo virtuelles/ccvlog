@@ -1,0 +1,66 @@
+{
+    "Name": "Gaon",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 49,
+            "average": 76,
+            "streams": 13
+        },
+        "02": {
+            "median": 83,
+            "average": 131,
+            "streams": 16
+        },
+        "03": {
+            "median": 79,
+            "average": 84,
+            "streams": 9
+        },
+        "04": {
+            "median": 75,
+            "average": 101,
+            "streams": 11
+        },
+        "05": {
+            "median": 107,
+            "average": 123,
+            "streams": 7
+        },
+        "06": {
+            "median": 142,
+            "average": 171,
+            "streams": 12
+        },
+        "07": {
+            "median": 133,
+            "average": 166,
+            "streams": 7
+        },
+        "08": {
+            "median": 220,
+            "average": 2303,
+            "streams": 5
+        },
+        "09": {
+            "median": 207,
+            "average": 222,
+            "streams": 13
+        },
+        "10": {
+            "median": 186,
+            "average": 198,
+            "streams": 17
+        },
+        "11": {
+            "median": 130,
+            "average": 145,
+            "streams": 12
+        },
+        "12": {
+            "median": 175,
+            "average": 260,
+            "streams": 11
+        }
+    }
+}

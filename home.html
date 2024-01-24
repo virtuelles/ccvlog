@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>美化側邊欄示例</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link href="/styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <!-- 側邊欄 -->
+    <div id="mySidebar" class="sidebar">
+        <a class="menu__item" href="home.html">回到首頁</a>
+        <a href="#" onclick="toggleSubmenu('submenu2022')">2022</a>
+        <ul id="submenu2022" class="sidebar-ul">
+            <li><a class="menu__item" href="2022/hololive/2022_hololive.html">hololive</a></li>
+            <li><a class="menu__item" href="#">holostars</a></li>
+            <li><a class="menu__item" href="#">NeoPorte</a></li>
+            <li><a class="menu__item" href="#">NijisanjiEN</a></li>
+            <li><a class="menu__item" href="#">NijisanjiID</a></li>
+            <li><a class="menu__item" href="#">NijisanjiJP</a></li>
+            <li><a class="menu__item" href="#">NijisanjiKR</a></li>
+            <li><a class="menu__item" href="#">vspo</a></li>
+        <!-- 以下是您原來的項目，保持不變 -->
+        </ul>
+        <a href="#" onclick="toggleSubmenu('submenu2023')">2023</a>
+        <ul id="submenu2023" class="sidebar-ul">
+            <li><a class="menu__item" href="#">hololiveEN</a></li>
+            <li><a class="menu__item" href="#">hololiveID</a></li>
+            <li><a class="menu__item" href="#">hololiveJP</a></li>
+            <li><a class="menu__item" href="#">holostarsEN</a></li>
+            <li><a class="menu__item" href="#">holostarsJP</a></li>
+            <li><a class="menu__item" href="#">NeoPorte</a></li>
+            <li><a class="menu__item" href="#">NijisanjiEN</a></li>
+            <li><a class="menu__item" href="#">NijisanjiID</a></li>
+            <li><a class="menu__item" href="#">NijisanjiJP</a></li>
+            <li><a class="menu__item" href="#">NijisanjiKR</a></li>
+            <li><a class="menu__item" href="#">vspo</a></li>
+        </ul>
+        <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
+    </div>
+
+    <!-- 遮罩背景 -->
+    <div class="overlay" onclick="closeSidebar()"></div>
+
+    <!-- 主要內容 -->
+    <div id="main">
+        <!-- 使用FontAwesome的漢堡包圖標來替換按鈕 -->
+        <button class="open-sidebar-btn" onclick="openSidebar()">
+            <i class="fas fa-bars"></i> <!-- FontAwesome的漢堡包圖標 -->
+            <span class="toggle-text">頁面切換</span> <!-- 新增的文字元素 -->
+        </button>
+        <!-- 新增的置中內容區域 -->
+        <div class="centered-content">
+            test
+        </div>
+    </div>
+
+<script>
+    function openSidebar() {
+    document.getElementById("mySidebar").style.transform = "translateX(250px)";
+    document.querySelector(".overlay").classList.add("active");
+    }
+
+    function closeSidebar() {
+        document.getElementById("mySidebar").style.transform = "translateX(0px)";
+        document.querySelector(".overlay").classList.remove("active");
+    }
+
+    function toggleSubmenu(id) {
+        const submenu = document.getElementById(id);
+        if (submenu.style.maxHeight) {
+            submenu.style.maxHeight = null; // 移除最大高度以收回
+        } else {
+            submenu.style.maxHeight = submenu.scrollHeight + "px"; // 設置最大高度以展開
+        }
+    }
+    async function updateMainContent(url) {
+        try {
+            const response = await fetch(url);  // 使用 fetch 進行網絡請求
+            if (!response.ok) {  // 確認網絡請求是否成功
+                throw new Error(`資料讀取失敗: ${response.statusText}`);
+            }
+            const data = await response.text();  // 解析 response 為文本
+            document.getElementById('main').innerHTML = data;  // 更新 main 的內容
+        } catch (error) {
+            console.error(error);  // 處理錯誤，並在控制台中打印錯誤信息
+        }
+    }
+</script>
+
+</body>
+</html>

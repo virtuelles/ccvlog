@@ -1,0 +1,66 @@
+{
+    "Name": "Amicia Michella",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 137,
+            "average": 145,
+            "streams": 18
+        },
+        "02": {
+            "median": 144,
+            "average": 264,
+            "streams": 10
+        },
+        "03": {
+            "median": 193,
+            "average": 226,
+            "streams": 17
+        },
+        "04": {
+            "median": 218,
+            "average": 330,
+            "streams": 20
+        },
+        "05": {
+            "median": 234,
+            "average": 259,
+            "streams": 19
+        },
+        "06": {
+            "median": 175,
+            "average": 208,
+            "streams": 14
+        },
+        "07": {
+            "median": 169,
+            "average": 225,
+            "streams": 16
+        },
+        "08": {
+            "median": 168,
+            "average": 2716,
+            "streams": 10
+        },
+        "09": {
+            "median": 147,
+            "average": 154,
+            "streams": 10
+        },
+        "10": {
+            "median": 176,
+            "average": 383,
+            "streams": 14
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

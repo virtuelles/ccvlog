@@ -1,0 +1,66 @@
+{
+    "Name": "グウェル・オス・ガール",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1574,
+            "average": 3626,
+            "streams": 17
+        },
+        "02": {
+            "median": 1691,
+            "average": 1644,
+            "streams": 6
+        },
+        "03": {
+            "median": 2620,
+            "average": 2825,
+            "streams": 11
+        },
+        "04": {
+            "median": 601,
+            "average": 1106,
+            "streams": 16
+        },
+        "05": {
+            "median": 1240,
+            "average": 11003,
+            "streams": 8
+        },
+        "06": {
+            "median": 1833,
+            "average": 6617,
+            "streams": 18
+        },
+        "07": {
+            "median": 4640,
+            "average": 14075,
+            "streams": 12
+        },
+        "08": {
+            "median": 1927,
+            "average": 4001,
+            "streams": 17
+        },
+        "09": {
+            "median": 1106,
+            "average": 1638,
+            "streams": 13
+        },
+        "10": {
+            "median": 1100,
+            "average": 2274,
+            "streams": 9
+        },
+        "11": {
+            "median": 1127,
+            "average": 3544,
+            "streams": 8
+        },
+        "12": {
+            "median": 1289,
+            "average": 2415,
+            "streams": 12
+        }
+    }
+}

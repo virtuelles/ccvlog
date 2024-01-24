@@ -1,0 +1,11 @@
+{
+    "Name": "Hex Haywire",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 4504,
+            "average": 7460,
+            "streams": 22
+        }
+    }
+}

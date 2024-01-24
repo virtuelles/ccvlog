@@ -1,0 +1,66 @@
+{
+    "Name": "三枝明那",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 5672,
+            "average": 6465,
+            "streams": 9
+        },
+        "02": {
+            "median": 5351,
+            "average": 5741,
+            "streams": 12
+        },
+        "03": {
+            "median": 8401,
+            "average": 9707,
+            "streams": 20
+        },
+        "04": {
+            "median": 2533,
+            "average": 3745,
+            "streams": 11
+        },
+        "05": {
+            "median": 8455,
+            "average": 11103,
+            "streams": 3
+        },
+        "06": {
+            "median": 7518,
+            "average": 7620,
+            "streams": 17
+        },
+        "07": {
+            "median": 6353,
+            "average": 7616,
+            "streams": 12
+        },
+        "08": {
+            "median": 9700,
+            "average": 10783,
+            "streams": 30
+        },
+        "09": {
+            "median": 8476,
+            "average": 9243,
+            "streams": 5
+        },
+        "10": {
+            "median": 8478,
+            "average": 9010,
+            "streams": 14
+        },
+        "11": {
+            "median": 5935,
+            "average": 6085,
+            "streams": 14
+        },
+        "12": {
+            "median": 10807,
+            "average": 12273,
+            "streams": 11
+        }
+    }
+}

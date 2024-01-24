@@ -1,0 +1,66 @@
+{
+    "Name": "勇気ちひろ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4771,
+            "average": 4990,
+            "streams": 29
+        },
+        "02": {
+            "median": 7112,
+            "average": 7280,
+            "streams": 30
+        },
+        "03": {
+            "median": 8869,
+            "average": 9118,
+            "streams": 23
+        },
+        "04": {
+            "median": 9806,
+            "average": 8558,
+            "streams": 9
+        },
+        "05": {
+            "median": 6284,
+            "average": 6629,
+            "streams": 22
+        },
+        "06": {
+            "median": 4562,
+            "average": 4862,
+            "streams": 32
+        },
+        "07": {
+            "median": 5957,
+            "average": 6814,
+            "streams": 39
+        },
+        "08": {
+            "median": 5490,
+            "average": 5889,
+            "streams": 37
+        },
+        "09": {
+            "median": 4472,
+            "average": 4644,
+            "streams": 36
+        },
+        "10": {
+            "median": 3681,
+            "average": 4291,
+            "streams": 31
+        },
+        "11": {
+            "median": 3843,
+            "average": 4500,
+            "streams": 24
+        },
+        "12": {
+            "median": 3027,
+            "average": 3238,
+            "streams": 13
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "アクシア・クローネ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3413,
+            "average": 3510,
+            "streams": 25
+        },
+        "02": {
+            "median": 3711,
+            "average": 3515,
+            "streams": 18
+        },
+        "03": {
+            "median": 4321,
+            "average": 4854,
+            "streams": 22
+        },
+        "04": {
+            "median": 3269,
+            "average": 3475,
+            "streams": 19
+        },
+        "05": {
+            "median": 3659,
+            "average": 5605,
+            "streams": 22
+        },
+        "06": {
+            "median": 3294,
+            "average": 3911,
+            "streams": 25
+        },
+        "07": {
+            "median": 3245,
+            "average": 3924,
+            "streams": 24
+        },
+        "08": {
+            "median": 1365,
+            "average": 1380,
+            "streams": 3
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "如月れん",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 777,
+            "average": 1085,
+            "streams": 30
+        },
+        "02": {
+            "median": 950,
+            "average": 1007,
+            "streams": 19
+        },
+        "03": {
+            "median": 892,
+            "average": 990,
+            "streams": 20
+        },
+        "04": {
+            "median": 665,
+            "average": 834,
+            "streams": 24
+        },
+        "05": {
+            "median": 1385,
+            "average": 1473,
+            "streams": 17
+        },
+        "06": {
+            "median": 1482,
+            "average": 1900,
+            "streams": 12
+        },
+        "07": {
+            "median": 1434,
+            "average": 1415,
+            "streams": 14
+        },
+        "08": {
+            "median": 1520,
+            "average": 2801,
+            "streams": 15
+        },
+        "09": {
+            "median": 1047,
+            "average": 1249,
+            "streams": 18
+        },
+        "10": {
+            "median": 1102,
+            "average": 1257,
+            "streams": 16
+        },
+        "11": {
+            "median": 1072,
+            "average": 1126,
+            "streams": 12
+        },
+        "12": {
+            "median": 1072,
+            "average": 1129,
+            "streams": 6
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "兎田ぺこら",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 21789,
+            "average": 26965,
+            "streams": 28
+        },
+        "02": {
+            "median": 27206,
+            "average": 34687,
+            "streams": 20
+        },
+        "03": {
+            "median": 28801,
+            "average": 29590,
+            "streams": 27
+        },
+        "04": {
+            "median": 28680,
+            "average": 31195,
+            "streams": 27
+        },
+        "05": {
+            "median": 31087,
+            "average": 31510,
+            "streams": 10
+        },
+        "06": {
+            "median": 43361,
+            "average": 48875,
+            "streams": 14
+        },
+        "07": {
+            "median": 43920,
+            "average": 49521,
+            "streams": 26
+        },
+        "08": {
+            "median": 42256,
+            "average": 40853,
+            "streams": 25
+        },
+        "09": {
+            "median": 35391,
+            "average": 39355,
+            "streams": 26
+        },
+        "10": {
+            "median": 37567,
+            "average": 39509,
+            "streams": 23
+        },
+        "11": {
+            "median": 36409,
+            "average": 40792,
+            "streams": 25
+        },
+        "12": {
+            "median": 34204,
+            "average": 41997,
+            "streams": 34
+        }
+    }
+}

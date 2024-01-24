@@ -1,0 +1,66 @@
+{
+    "Name": "律可",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 446,
+            "average": 499,
+            "streams": 11
+        },
+        "02": {
+            "median": 412,
+            "average": 506,
+            "streams": 14
+        },
+        "03": {
+            "median": 573,
+            "average": 815,
+            "streams": 14
+        },
+        "04": {
+            "median": 464,
+            "average": 828,
+            "streams": 14
+        },
+        "05": {
+            "median": 450,
+            "average": 678,
+            "streams": 12
+        },
+        "06": {
+            "median": 531,
+            "average": 663,
+            "streams": 12
+        },
+        "07": {
+            "median": 468,
+            "average": 570,
+            "streams": 16
+        },
+        "08": {
+            "median": 327,
+            "average": 430,
+            "streams": 14
+        },
+        "09": {
+            "median": 607,
+            "average": 607,
+            "streams": 10
+        },
+        "10": {
+            "median": 541,
+            "average": 861,
+            "streams": 13
+        },
+        "11": {
+            "median": 480,
+            "average": 908,
+            "streams": 14
+        },
+        "12": {
+            "median": 545,
+            "average": 522,
+            "streams": 14
+        }
+    }
+}

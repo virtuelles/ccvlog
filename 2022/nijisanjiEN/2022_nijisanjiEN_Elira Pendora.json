@@ -1,0 +1,66 @@
+{
+    "Name": "Elira Pendora",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1866,
+            "average": 2512,
+            "streams": 28
+        },
+        "02": {
+            "median": 2263,
+            "average": 2371,
+            "streams": 20
+        },
+        "03": {
+            "median": 2091,
+            "average": 2365,
+            "streams": 25
+        },
+        "04": {
+            "median": 2252,
+            "average": 3039,
+            "streams": 25
+        },
+        "05": {
+            "median": 2830,
+            "average": 3398,
+            "streams": 18
+        },
+        "06": {
+            "median": 3056,
+            "average": 4088,
+            "streams": 22
+        },
+        "07": {
+            "median": 3488,
+            "average": 3539,
+            "streams": 20
+        },
+        "08": {
+            "median": 3093,
+            "average": 6423,
+            "streams": 25
+        },
+        "09": {
+            "median": 2829,
+            "average": 3137,
+            "streams": 22
+        },
+        "10": {
+            "median": 2534,
+            "average": 4243,
+            "streams": 21
+        },
+        "11": {
+            "median": 2473,
+            "average": 2983,
+            "streams": 8
+        },
+        "12": {
+            "median": 3065,
+            "average": 3572,
+            "streams": 17
+        }
+    }
+}

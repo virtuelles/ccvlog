@@ -1,0 +1,135 @@
+.triangle {
+    margin-left: 5px;
+}
+/* 設置 DataTable 固定列中的單數行和雙數行的背景色 */
+/* 設置奇數行的背景色 */
+table.dataTable tbody tr:nth-child(odd) > .dtfc-fixed-left,
+table.dataTable tbody tr:nth-child(odd) > .dtfc-fixed-right {
+    background-color: #f9f9f9; 
+}
+/* 設置偶數行的背景色 */
+table.dataTable tbody tr:nth-child(even) > .dtfc-fixed-left,
+table.dataTable tbody tr:nth-child(even) > .dtfc-fixed-right {
+    background-color: #e6e6e6; 
+}
+/* 調整 DataTable 的第二列（索引為 1 的列）的寬度 */
+#dataTable tbody td:nth-child(2),
+#dataTable thead th:nth-child(2) {
+    /* width: 200px; /* 設置列寬度為 200 像素，您可以根據需要調整這個值 */
+    /* max-width: 200px; 設置最大寬度，以確保列不會超過此寬度 */
+    /* min-width: 200px; 設置最小寬度，以確保列不會小於此寬度 */
+    /* overflow: hidden; 隱藏超出部分 */
+    /* text-overflow: ellipsis; 超出部分顯示為省略號 */
+    white-space: nowrap; /* 避免文字換行 */
+}
+
+/* 基本樣式 */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+/* 側邊欄樣式 */
+.sidebar {
+    position: fixed;
+    left: -250px; /* Start with the sidebar off-screen to the left */
+    top: 0;
+    height: 90vh;
+    width: 250px;
+    background-color: #ECEFF1;
+    overflow-x: hidden;
+    overflow-y: auto;
+    transition: transform 0.3s; /* Use transform for animation */
+    padding-top: 60px;
+    z-index: 1000;
+}
+.sidebar a {
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #333;
+    display: block;
+    transition: 0.3s;
+}
+.sidebar a:hover {
+    background-color: #CFD8DC;
+}
+.sidebar .close-btn {
+    position: absolute;
+    top: 5px;
+    left: 50px;
+    font-size: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.open-sidebar-btn {
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #333;
+    background-color: #ECEFF1;
+    transition: background-color 0.3s;
+}
+.open-sidebar-btn:hover {
+    background-color: #c2c4c5; /* 將#YourClickedColorCode替換為單擊時的顏色代碼 */
+}
+.open-sidebar-btn:active {
+    background-color: #8d8d8d; /* 將#YourClickedColorCode替換為單擊時的顏色代碼 */
+}
+.toggle-text {
+    margin-left: 10px; /* 調整文字和圖標之間的距離 */
+    font-size: 16px;   /* 調整文字大小 */
+}
+/* 側邊欄樣式 */
+.menu__box {
+    /* ... 其他樣式不變 ... */
+    max-height: 90svh;  /* 設置側邊欄的最大高度為視口的90% */
+    overflow-y: auto;  /* 如果內容超過側邊欄的高度，允許滾動 */
+}
+
+/* 遮罩背景樣式 */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 999; /* 確保遮罩在側邊欄之下 */
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+}
+.overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+.sidebar-ul {
+transition: max-height 0.3s ease-out;
+overflow: hidden;
+max-height: 0;
+}
+.sidebar-ul.active {
+    max-height: 2000px;  /* 設定一個足夠大的值，以便子菜單完全展開 */
+}
+.centered-content {
+    text-align: center;  /* 文字置中 */
+    margin-top: 50px;   /* 上方邊距，根據需要調整 */
+    font-size: 24px;    /* 文字大小，根據需要調整 */
+    color: #333;        /* 文字顏色，可以根據需求調整 */
+}
+#toggle {
+    position: absolute;
+    right: 0;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    transition: background-color 0.3s;
+    background-color: #ECEFF1;
+}
+
+#toggle:hover {
+    background-color: #c2c4c5;
+}
+#toggle:active {
+    background-color: #8d8d8d;
+}

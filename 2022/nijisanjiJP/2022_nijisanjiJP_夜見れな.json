@@ -1,0 +1,66 @@
+{
+    "Name": "夜見れな",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3726,
+            "average": 4982,
+            "streams": 21
+        },
+        "02": {
+            "median": 2913,
+            "average": 4647,
+            "streams": 27
+        },
+        "03": {
+            "median": 4372,
+            "average": 4400,
+            "streams": 31
+        },
+        "04": {
+            "median": 2994,
+            "average": 3277,
+            "streams": 33
+        },
+        "05": {
+            "median": 3184,
+            "average": 3425,
+            "streams": 26
+        },
+        "06": {
+            "median": 3002,
+            "average": 3088,
+            "streams": 25
+        },
+        "07": {
+            "median": 3291,
+            "average": 6403,
+            "streams": 27
+        },
+        "08": {
+            "median": 3383,
+            "average": 3207,
+            "streams": 18
+        },
+        "09": {
+            "median": 2564,
+            "average": 2500,
+            "streams": 18
+        },
+        "10": {
+            "median": 3167,
+            "average": 3204,
+            "streams": 27
+        },
+        "11": {
+            "median": 3461,
+            "average": 4150,
+            "streams": 26
+        },
+        "12": {
+            "median": 2744,
+            "average": 3728,
+            "streams": 32
+        }
+    }
+}

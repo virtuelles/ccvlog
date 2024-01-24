@@ -1,0 +1,51 @@
+{
+    "Name": "夜絆ニウ",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 757,
+            "average": 934,
+            "streams": 18
+        },
+        "02": {
+            "median": 400,
+            "average": 427,
+            "streams": 36
+        },
+        "03": {
+            "median": 582,
+            "average": 600,
+            "streams": 29
+        },
+        "04": {
+            "median": 371,
+            "average": 387,
+            "streams": 23
+        },
+        "05": {
+            "median": 453,
+            "average": 506,
+            "streams": 28
+        },
+        "06": {
+            "median": 413,
+            "average": 468,
+            "streams": 27
+        },
+        "07": {
+            "median": 596,
+            "average": 668,
+            "streams": 29
+        },
+        "08": {
+            "median": 423,
+            "average": 449,
+            "streams": 25
+        },
+        "09": {
+            "median": 654,
+            "average": 746,
+            "streams": 21
+        }
+    }
+}

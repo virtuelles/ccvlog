@@ -1,0 +1,66 @@
+{
+    "Name": "Na Sera",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 97,
+            "average": 134,
+            "streams": 10
+        },
+        "02": {
+            "median": 139,
+            "average": 159,
+            "streams": 10
+        },
+        "03": {
+            "median": 143,
+            "average": 161,
+            "streams": 6
+        },
+        "04": {
+            "median": 236,
+            "average": 257,
+            "streams": 4
+        },
+        "05": {
+            "median": 268,
+            "average": 334,
+            "streams": 21
+        },
+        "06": {
+            "median": 347,
+            "average": 419,
+            "streams": 44
+        },
+        "07": {
+            "median": 280,
+            "average": 292,
+            "streams": 36
+        },
+        "08": {
+            "median": 256,
+            "average": 1148,
+            "streams": 28
+        },
+        "09": {
+            "median": 254,
+            "average": 308,
+            "streams": 38
+        },
+        "10": {
+            "median": 295,
+            "average": 316,
+            "streams": 16
+        },
+        "11": {
+            "median": 238,
+            "average": 269,
+            "streams": 17
+        },
+        "12": {
+            "median": 213,
+            "average": 287,
+            "streams": 12
+        }
+    }
+}

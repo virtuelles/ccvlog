@@ -1,0 +1,66 @@
+{
+    "Name": "不知火フレア",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 6080,
+            "average": 6624,
+            "streams": 26
+        },
+        "02": {
+            "median": 8509,
+            "average": 11661,
+            "streams": 26
+        },
+        "03": {
+            "median": 8037,
+            "average": 8442,
+            "streams": 27
+        },
+        "04": {
+            "median": 8534,
+            "average": 9778,
+            "streams": 23
+        },
+        "05": {
+            "median": 7847,
+            "average": 9072,
+            "streams": 20
+        },
+        "06": {
+            "median": 9035,
+            "average": 15690,
+            "streams": 20
+        },
+        "07": {
+            "median": 9599,
+            "average": 10792,
+            "streams": 20
+        },
+        "08": {
+            "median": 9750,
+            "average": 17028,
+            "streams": 23
+        },
+        "09": {
+            "median": 11342,
+            "average": 13156,
+            "streams": 12
+        },
+        "10": {
+            "median": 7996,
+            "average": 8928,
+            "streams": 28
+        },
+        "11": {
+            "median": 8713,
+            "average": 12155,
+            "streams": 21
+        },
+        "12": {
+            "median": 7289,
+            "average": 11263,
+            "streams": 24
+        }
+    }
+}

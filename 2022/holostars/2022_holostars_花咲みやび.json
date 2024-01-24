@@ -1,0 +1,66 @@
+{
+    "Name": "花咲みやび",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 399,
+            "average": 456,
+            "streams": 13
+        },
+        "02": {
+            "median": 1031,
+            "average": 1347,
+            "streams": 6
+        },
+        "03": {
+            "median": 478,
+            "average": 597,
+            "streams": 26
+        },
+        "04": {
+            "median": 522,
+            "average": 542,
+            "streams": 18
+        },
+        "05": {
+            "median": 510,
+            "average": 583,
+            "streams": 14
+        },
+        "06": {
+            "median": 562,
+            "average": 790,
+            "streams": 14
+        },
+        "07": {
+            "median": 558,
+            "average": 680,
+            "streams": 12
+        },
+        "08": {
+            "median": 475,
+            "average": 482,
+            "streams": 14
+        },
+        "09": {
+            "median": 440,
+            "average": 448,
+            "streams": 13
+        },
+        "10": {
+            "median": 530,
+            "average": 593,
+            "streams": 16
+        },
+        "11": {
+            "median": 437,
+            "average": 642,
+            "streams": 19
+        },
+        "12": {
+            "median": 458,
+            "average": 524,
+            "streams": 19
+        }
+    }
+}

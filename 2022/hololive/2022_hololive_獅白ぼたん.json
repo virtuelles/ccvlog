@@ -1,0 +1,66 @@
+{
+    "Name": "獅白ぼたん",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 12686,
+            "average": 11645,
+            "streams": 21
+        },
+        "02": {
+            "median": 14272,
+            "average": 14160,
+            "streams": 18
+        },
+        "03": {
+            "median": 15069,
+            "average": 18906,
+            "streams": 21
+        },
+        "04": {
+            "median": 13100,
+            "average": 12275,
+            "streams": 20
+        },
+        "05": {
+            "median": 16973,
+            "average": 16452,
+            "streams": 18
+        },
+        "06": {
+            "median": 12641,
+            "average": 13419,
+            "streams": 19
+        },
+        "07": {
+            "median": 11828,
+            "average": 13863,
+            "streams": 17
+        },
+        "08": {
+            "median": 13675,
+            "average": 18147,
+            "streams": 22
+        },
+        "09": {
+            "median": 14946,
+            "average": 23517,
+            "streams": 16
+        },
+        "10": {
+            "median": 15828,
+            "average": 15385,
+            "streams": 11
+        },
+        "11": {
+            "median": 12433,
+            "average": 17854,
+            "streams": 15
+        },
+        "12": {
+            "median": 10810,
+            "average": 12057,
+            "streams": 14
+        }
+    }
+}

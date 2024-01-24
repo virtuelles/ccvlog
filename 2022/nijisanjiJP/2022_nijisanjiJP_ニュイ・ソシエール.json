@@ -1,0 +1,66 @@
+{
+    "Name": "ニュイ・ソシエール",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4570,
+            "average": 4336,
+            "streams": 21
+        },
+        "02": {
+            "median": 4972,
+            "average": 5381,
+            "streams": 20
+        },
+        "03": {
+            "median": 6043,
+            "average": 6034,
+            "streams": 19
+        },
+        "04": {
+            "median": 6283,
+            "average": 7023,
+            "streams": 23
+        },
+        "05": {
+            "median": 6275,
+            "average": 8531,
+            "streams": 21
+        },
+        "06": {
+            "median": 5741,
+            "average": 6548,
+            "streams": 18
+        },
+        "07": {
+            "median": 8453,
+            "average": 18491,
+            "streams": 19
+        },
+        "08": {
+            "median": 7355,
+            "average": 9963,
+            "streams": 14
+        },
+        "09": {
+            "median": 6029,
+            "average": 6049,
+            "streams": 18
+        },
+        "10": {
+            "median": 7307,
+            "average": 7974,
+            "streams": 23
+        },
+        "11": {
+            "median": 8354,
+            "average": 8546,
+            "streams": 16
+        },
+        "12": {
+            "median": 5986,
+            "average": 6809,
+            "streams": 19
+        }
+    }
+}

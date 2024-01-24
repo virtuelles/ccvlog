@@ -1,0 +1,66 @@
+{
+    "Name": "湊あくあ",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 31201,
+            "average": 27382,
+            "streams": 11
+        },
+        "02": {
+            "median": 34283,
+            "average": 36022,
+            "streams": 11
+        },
+        "03": {
+            "median": 23699,
+            "average": 33827,
+            "streams": 4
+        },
+        "04": {
+            "median": 70458,
+            "average": 74259,
+            "streams": 7
+        },
+        "05": {
+            "median": 31270,
+            "average": 31270,
+            "streams": 2
+        },
+        "06": {
+            "median": 37525,
+            "average": 37525,
+            "streams": 2
+        },
+        "07": {
+            "median": 25684,
+            "average": 25684,
+            "streams": 1
+        },
+        "08": {
+            "median": 33248,
+            "average": 45326,
+            "streams": 4
+        },
+        "09": {
+            "median": 28174,
+            "average": 28174,
+            "streams": 2
+        },
+        "10": {
+            "median": 26134,
+            "average": 25153,
+            "streams": 5
+        },
+        "11": {
+            "median": 25468,
+            "average": 29192,
+            "streams": 8
+        },
+        "12": {
+            "median": 29669,
+            "average": 45141,
+            "streams": 5
+        }
+    }
+}

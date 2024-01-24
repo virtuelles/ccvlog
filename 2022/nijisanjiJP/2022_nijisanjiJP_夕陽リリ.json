@@ -1,0 +1,66 @@
+{
+    "Name": "夕陽リリ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1125,
+            "average": 1166,
+            "streams": 15
+        },
+        "02": {
+            "median": 862,
+            "average": 1201,
+            "streams": 11
+        },
+        "03": {
+            "median": 1327,
+            "average": 3817,
+            "streams": 17
+        },
+        "04": {
+            "median": 505,
+            "average": 1864,
+            "streams": 14
+        },
+        "05": {
+            "median": 1369,
+            "average": 1542,
+            "streams": 9
+        },
+        "06": {
+            "median": 1296,
+            "average": 1485,
+            "streams": 16
+        },
+        "07": {
+            "median": 1590,
+            "average": 3498,
+            "streams": 15
+        },
+        "08": {
+            "median": 1039,
+            "average": 1100,
+            "streams": 16
+        },
+        "09": {
+            "median": 732,
+            "average": 737,
+            "streams": 19
+        },
+        "10": {
+            "median": 939,
+            "average": 939,
+            "streams": 8
+        },
+        "11": {
+            "median": 890,
+            "average": 936,
+            "streams": 18
+        },
+        "12": {
+            "median": 833,
+            "average": 1336,
+            "streams": 11
+        }
+    }
+}

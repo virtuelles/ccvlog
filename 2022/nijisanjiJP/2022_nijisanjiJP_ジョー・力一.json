@@ -1,0 +1,66 @@
+{
+    "Name": "ジョー・力一",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3249,
+            "average": 4152,
+            "streams": 11
+        },
+        "02": {
+            "median": 5235,
+            "average": 5363,
+            "streams": 6
+        },
+        "03": {
+            "median": 4556,
+            "average": 4634,
+            "streams": 7
+        },
+        "04": {
+            "median": 3711,
+            "average": 5492,
+            "streams": 9
+        },
+        "05": {
+            "median": 4384,
+            "average": 5167,
+            "streams": 12
+        },
+        "06": {
+            "median": 3828,
+            "average": 5727,
+            "streams": 12
+        },
+        "07": {
+            "median": 3928,
+            "average": 4998,
+            "streams": 8
+        },
+        "08": {
+            "median": 5488,
+            "average": 11721,
+            "streams": 7
+        },
+        "09": {
+            "median": 6571,
+            "average": 8061,
+            "streams": 7
+        },
+        "10": {
+            "median": 4015,
+            "average": 12150,
+            "streams": 6
+        },
+        "11": {
+            "median": 3544,
+            "average": 4807,
+            "streams": 8
+        },
+        "12": {
+            "median": 4736,
+            "average": 5803,
+            "streams": 8
+        }
+    }
+}

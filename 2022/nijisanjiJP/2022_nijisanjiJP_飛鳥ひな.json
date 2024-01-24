@@ -1,0 +1,66 @@
+{
+    "Name": "飛鳥ひな",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 435,
+            "average": 435,
+            "streams": 2
+        },
+        "02": {
+            "median": 464,
+            "average": 464,
+            "streams": 2
+        },
+        "03": {
+            "median": 598,
+            "average": 598,
+            "streams": 2
+        },
+        "04": {
+            "median": 346,
+            "average": 339,
+            "streams": 4
+        },
+        "05": {
+            "median": 428,
+            "average": 630,
+            "streams": 3
+        },
+        "06": {
+            "median": 518,
+            "average": 518,
+            "streams": 1
+        },
+        "07": {
+            "median": 370,
+            "average": 370,
+            "streams": 1
+        },
+        "08": {
+            "median": 448,
+            "average": 492,
+            "streams": 5
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": 400,
+            "average": 400,
+            "streams": 2
+        },
+        "11": {
+            "median": 617,
+            "average": 617,
+            "streams": 1
+        },
+        "12": {
+            "median": 392,
+            "average": 446,
+            "streams": 6
+        }
+    }
+}

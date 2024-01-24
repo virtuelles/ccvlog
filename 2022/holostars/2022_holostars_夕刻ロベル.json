@@ -1,0 +1,66 @@
+{
+    "Name": "夕刻ロベル",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 1012,
+            "average": 1169,
+            "streams": 32
+        },
+        "02": {
+            "median": 1111,
+            "average": 1211,
+            "streams": 34
+        },
+        "03": {
+            "median": 1523,
+            "average": 1687,
+            "streams": 23
+        },
+        "04": {
+            "median": 1446,
+            "average": 1493,
+            "streams": 24
+        },
+        "05": {
+            "median": 1632,
+            "average": 1913,
+            "streams": 27
+        },
+        "06": {
+            "median": 1600,
+            "average": 2308,
+            "streams": 21
+        },
+        "07": {
+            "median": 1861,
+            "average": 1916,
+            "streams": 19
+        },
+        "08": {
+            "median": 1433,
+            "average": 1483,
+            "streams": 17
+        },
+        "09": {
+            "median": 1672,
+            "average": 2126,
+            "streams": 27
+        },
+        "10": {
+            "median": 1748,
+            "average": 2049,
+            "streams": 18
+        },
+        "11": {
+            "median": 1431,
+            "average": 1643,
+            "streams": 24
+        },
+        "12": {
+            "median": 1635,
+            "average": 2193,
+            "streams": 21
+        }
+    }
+}

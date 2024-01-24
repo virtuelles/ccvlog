@@ -1,0 +1,66 @@
+{
+    "Name": "瀬戸美夜子",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 393,
+            "average": 392,
+            "streams": 23
+        },
+        "02": {
+            "median": 459,
+            "average": 508,
+            "streams": 19
+        },
+        "03": {
+            "median": 377,
+            "average": 394,
+            "streams": 9
+        },
+        "04": {
+            "median": 530,
+            "average": 602,
+            "streams": 23
+        },
+        "05": {
+            "median": 647,
+            "average": 704,
+            "streams": 14
+        },
+        "06": {
+            "median": 560,
+            "average": 501,
+            "streams": 14
+        },
+        "07": {
+            "median": 598,
+            "average": 602,
+            "streams": 8
+        },
+        "08": {
+            "median": 642,
+            "average": 619,
+            "streams": 18
+        },
+        "09": {
+            "median": 798,
+            "average": 882,
+            "streams": 19
+        },
+        "10": {
+            "median": 510,
+            "average": 528,
+            "streams": 9
+        },
+        "11": {
+            "median": 648,
+            "average": 659,
+            "streams": 3
+        },
+        "12": {
+            "median": 450,
+            "average": 450,
+            "streams": 2
+        }
+    }
+}

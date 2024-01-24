@@ -1,0 +1,66 @@
+{
+    "Name": "シスター・クレア",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1426,
+            "average": 1563,
+            "streams": 16
+        },
+        "02": {
+            "median": 1544,
+            "average": 1459,
+            "streams": 13
+        },
+        "03": {
+            "median": 1843,
+            "average": 2094,
+            "streams": 29
+        },
+        "04": {
+            "median": 1682,
+            "average": 1924,
+            "streams": 20
+        },
+        "05": {
+            "median": 1762,
+            "average": 1824,
+            "streams": 13
+        },
+        "06": {
+            "median": 1934,
+            "average": 5286,
+            "streams": 21
+        },
+        "07": {
+            "median": 1668,
+            "average": 1627,
+            "streams": 22
+        },
+        "08": {
+            "median": 1913,
+            "average": 3537,
+            "streams": 21
+        },
+        "09": {
+            "median": 2891,
+            "average": 3950,
+            "streams": 21
+        },
+        "10": {
+            "median": 2222,
+            "average": 2261,
+            "streams": 18
+        },
+        "11": {
+            "median": 2269,
+            "average": 2262,
+            "streams": 26
+        },
+        "12": {
+            "median": 2002,
+            "average": 2734,
+            "streams": 20
+        }
+    }
+}

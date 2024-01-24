@@ -1,0 +1,66 @@
+{
+    "Name": "Kureiji Ollie",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 1476,
+            "average": 1675,
+            "streams": 30
+        },
+        "02": {
+            "median": 1556,
+            "average": 1591,
+            "streams": 22
+        },
+        "03": {
+            "median": 2257,
+            "average": 2597,
+            "streams": 26
+        },
+        "04": {
+            "median": 2107,
+            "average": 2547,
+            "streams": 27
+        },
+        "05": {
+            "median": 2410,
+            "average": 2754,
+            "streams": 17
+        },
+        "06": {
+            "median": 1799,
+            "average": 2160,
+            "streams": 38
+        },
+        "07": {
+            "median": 2660,
+            "average": 3056,
+            "streams": 21
+        },
+        "08": {
+            "median": 1974,
+            "average": 3608,
+            "streams": 24
+        },
+        "09": {
+            "median": 1825,
+            "average": 2459,
+            "streams": 24
+        },
+        "10": {
+            "median": 1538,
+            "average": 2071,
+            "streams": 31
+        },
+        "11": {
+            "median": 1392,
+            "average": 1498,
+            "streams": 36
+        },
+        "12": {
+            "median": 1221,
+            "average": 1479,
+            "streams": 30
+        }
+    }
+}

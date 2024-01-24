@@ -1,0 +1,66 @@
+{
+    "Name": "西園チグサ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1520,
+            "average": 1745,
+            "streams": 45
+        },
+        "02": {
+            "median": 1190,
+            "average": 1485,
+            "streams": 43
+        },
+        "03": {
+            "median": 1347,
+            "average": 1539,
+            "streams": 33
+        },
+        "04": {
+            "median": 1376,
+            "average": 1718,
+            "streams": 34
+        },
+        "05": {
+            "median": 1741,
+            "average": 2066,
+            "streams": 32
+        },
+        "06": {
+            "median": 1567,
+            "average": 1662,
+            "streams": 25
+        },
+        "07": {
+            "median": 1202,
+            "average": 1456,
+            "streams": 21
+        },
+        "08": {
+            "median": 1790,
+            "average": 1782,
+            "streams": 23
+        },
+        "09": {
+            "median": 1363,
+            "average": 1546,
+            "streams": 19
+        },
+        "10": {
+            "median": 1199,
+            "average": 1270,
+            "streams": 18
+        },
+        "11": {
+            "median": 1712,
+            "average": 1762,
+            "streams": 18
+        },
+        "12": {
+            "median": 2162,
+            "average": 1958,
+            "streams": 13
+        }
+    }
+}

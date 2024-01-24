@@ -1,0 +1,66 @@
+{
+    "Name": "Seffyna",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 186,
+            "average": 272,
+            "streams": 23
+        },
+        "02": {
+            "median": 229,
+            "average": 266,
+            "streams": 20
+        },
+        "03": {
+            "median": 264,
+            "average": 380,
+            "streams": 26
+        },
+        "04": {
+            "median": 431,
+            "average": 514,
+            "streams": 26
+        },
+        "05": {
+            "median": 615,
+            "average": 909,
+            "streams": 35
+        },
+        "06": {
+            "median": 831,
+            "average": 929,
+            "streams": 26
+        },
+        "07": {
+            "median": 753,
+            "average": 895,
+            "streams": 24
+        },
+        "08": {
+            "median": 605,
+            "average": 2079,
+            "streams": 21
+        },
+        "09": {
+            "median": 626,
+            "average": 832,
+            "streams": 22
+        },
+        "10": {
+            "median": 1165,
+            "average": 1413,
+            "streams": 22
+        },
+        "11": {
+            "median": 539,
+            "average": 653,
+            "streams": 27
+        },
+        "12": {
+            "median": 594,
+            "average": 681,
+            "streams": 24
+        }
+    }
+}

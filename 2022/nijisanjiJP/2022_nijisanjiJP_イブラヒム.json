@@ -1,0 +1,66 @@
+{
+    "Name": "イブラヒム",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 8942,
+            "average": 9557,
+            "streams": 23
+        },
+        "02": {
+            "median": 6500,
+            "average": 7201,
+            "streams": 30
+        },
+        "03": {
+            "median": 6575,
+            "average": 7421,
+            "streams": 24
+        },
+        "04": {
+            "median": 11430,
+            "average": 11075,
+            "streams": 27
+        },
+        "05": {
+            "median": 9246,
+            "average": 8799,
+            "streams": 20
+        },
+        "06": {
+            "median": 7694,
+            "average": 8817,
+            "streams": 20
+        },
+        "07": {
+            "median": 9651,
+            "average": 17011,
+            "streams": 21
+        },
+        "08": {
+            "median": 8107,
+            "average": 10718,
+            "streams": 19
+        },
+        "09": {
+            "median": 6346,
+            "average": 7448,
+            "streams": 20
+        },
+        "10": {
+            "median": 6335,
+            "average": 6845,
+            "streams": 23
+        },
+        "11": {
+            "median": 6783,
+            "average": 8341,
+            "streams": 28
+        },
+        "12": {
+            "median": 8173,
+            "average": 10768,
+            "streams": 25
+        }
+    }
+}

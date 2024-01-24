@@ -1,0 +1,66 @@
+{
+    "Name": "Mika Melatika",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 517,
+            "average": 730,
+            "streams": 16
+        },
+        "02": {
+            "median": 892,
+            "average": 1499,
+            "streams": 20
+        },
+        "03": {
+            "median": 1360,
+            "average": 1715,
+            "streams": 19
+        },
+        "04": {
+            "median": 1973,
+            "average": 2791,
+            "streams": 20
+        },
+        "05": {
+            "median": 1404,
+            "average": 2488,
+            "streams": 16
+        },
+        "06": {
+            "median": 1110,
+            "average": 1751,
+            "streams": 29
+        },
+        "07": {
+            "median": 1075,
+            "average": 1196,
+            "streams": 31
+        },
+        "08": {
+            "median": 1017,
+            "average": 1570,
+            "streams": 22
+        },
+        "09": {
+            "median": 978,
+            "average": 1387,
+            "streams": 24
+        },
+        "10": {
+            "median": 1182,
+            "average": 1651,
+            "streams": 26
+        },
+        "11": {
+            "median": 1261,
+            "average": 1243,
+            "streams": 13
+        },
+        "12": {
+            "median": 920,
+            "average": 997,
+            "streams": 23
+        }
+    }
+}

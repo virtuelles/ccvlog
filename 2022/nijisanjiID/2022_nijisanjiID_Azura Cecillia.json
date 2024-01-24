@@ -1,0 +1,66 @@
+{
+    "Name": "Azura Cecillia",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 111,
+            "average": 122,
+            "streams": 16
+        },
+        "02": {
+            "median": 123,
+            "average": 125,
+            "streams": 12
+        },
+        "03": {
+            "median": 107,
+            "average": 174,
+            "streams": 18
+        },
+        "04": {
+            "median": 138,
+            "average": 248,
+            "streams": 15
+        },
+        "05": {
+            "median": 177,
+            "average": 201,
+            "streams": 14
+        },
+        "06": {
+            "median": 163,
+            "average": 168,
+            "streams": 17
+        },
+        "07": {
+            "median": 248,
+            "average": 214,
+            "streams": 3
+        },
+        "08": {
+            "median": 109,
+            "average": 137,
+            "streams": 12
+        },
+        "09": {
+            "median": 147,
+            "average": 143,
+            "streams": 6
+        },
+        "10": {
+            "median": 114,
+            "average": 112,
+            "streams": 8
+        },
+        "11": {
+            "median": 100,
+            "average": 136,
+            "streams": 11
+        },
+        "12": {
+            "median": 122,
+            "average": 124,
+            "streams": 4
+        }
+    }
+}

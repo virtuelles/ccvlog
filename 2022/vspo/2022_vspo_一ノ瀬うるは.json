@@ -1,0 +1,66 @@
+{
+    "Name": "一ノ瀬うるは",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 4393,
+            "average": 4801,
+            "streams": 26
+        },
+        "02": {
+            "median": 5310,
+            "average": 7828,
+            "streams": 16
+        },
+        "03": {
+            "median": 5519,
+            "average": 6677,
+            "streams": 19
+        },
+        "04": {
+            "median": 5874,
+            "average": 5949,
+            "streams": 37
+        },
+        "05": {
+            "median": 7015,
+            "average": 6752,
+            "streams": 30
+        },
+        "06": {
+            "median": 6686,
+            "average": 7055,
+            "streams": 23
+        },
+        "07": {
+            "median": 6607,
+            "average": 8340,
+            "streams": 33
+        },
+        "08": {
+            "median": 7823,
+            "average": 8582,
+            "streams": 19
+        },
+        "09": {
+            "median": 7424,
+            "average": 8070,
+            "streams": 26
+        },
+        "10": {
+            "median": 5703,
+            "average": 5907,
+            "streams": 26
+        },
+        "11": {
+            "median": 7174,
+            "average": 8430,
+            "streams": 30
+        },
+        "12": {
+            "median": 7212,
+            "average": 7686,
+            "streams": 19
+        }
+    }
+}

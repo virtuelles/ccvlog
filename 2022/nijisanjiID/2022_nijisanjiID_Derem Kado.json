@@ -1,0 +1,66 @@
+{
+    "Name": "Derem Kado",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 50,
+            "average": 56,
+            "streams": 18
+        },
+        "02": {
+            "median": 61,
+            "average": 59,
+            "streams": 22
+        },
+        "03": {
+            "median": 112,
+            "average": 188,
+            "streams": 21
+        },
+        "04": {
+            "median": 129,
+            "average": 166,
+            "streams": 15
+        },
+        "05": {
+            "median": 159,
+            "average": 152,
+            "streams": 20
+        },
+        "06": {
+            "median": 126,
+            "average": 148,
+            "streams": 18
+        },
+        "07": {
+            "median": 154,
+            "average": 240,
+            "streams": 20
+        },
+        "08": {
+            "median": 120,
+            "average": 1365,
+            "streams": 17
+        },
+        "09": {
+            "median": 159,
+            "average": 201,
+            "streams": 27
+        },
+        "10": {
+            "median": 119,
+            "average": 117,
+            "streams": 19
+        },
+        "11": {
+            "median": 117,
+            "average": 138,
+            "streams": 18
+        },
+        "12": {
+            "median": 92,
+            "average": 132,
+            "streams": 15
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Ayunda Risu",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 1126,
+            "average": 1742,
+            "streams": 14
+        },
+        "02": {
+            "median": 1135,
+            "average": 1262,
+            "streams": 11
+        },
+        "03": {
+            "median": 1502,
+            "average": 2323,
+            "streams": 12
+        },
+        "04": {
+            "median": 1699,
+            "average": 2255,
+            "streams": 15
+        },
+        "05": {
+            "median": 2308,
+            "average": 2142,
+            "streams": 11
+        },
+        "06": {
+            "median": 2046,
+            "average": 2723,
+            "streams": 12
+        },
+        "07": {
+            "median": 2262,
+            "average": 2069,
+            "streams": 15
+        },
+        "08": {
+            "median": 1642,
+            "average": 1718,
+            "streams": 8
+        },
+        "09": {
+            "median": 3201,
+            "average": 11436,
+            "streams": 8
+        },
+        "10": {
+            "median": 1825,
+            "average": 3098,
+            "streams": 19
+        },
+        "11": {
+            "median": 1558,
+            "average": 1698,
+            "streams": 9
+        },
+        "12": {
+            "median": 1571,
+            "average": 1977,
+            "streams": 5
+        }
+    }
+}

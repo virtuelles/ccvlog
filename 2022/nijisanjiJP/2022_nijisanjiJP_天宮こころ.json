@@ -1,0 +1,66 @@
+{
+    "Name": "天宮こころ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2622,
+            "average": 3244,
+            "streams": 31
+        },
+        "02": {
+            "median": 3175,
+            "average": 4466,
+            "streams": 23
+        },
+        "03": {
+            "median": 3723,
+            "average": 3533,
+            "streams": 18
+        },
+        "04": {
+            "median": 2516,
+            "average": 2823,
+            "streams": 18
+        },
+        "05": {
+            "median": 2597,
+            "average": 3107,
+            "streams": 28
+        },
+        "06": {
+            "median": 4632,
+            "average": 5016,
+            "streams": 31
+        },
+        "07": {
+            "median": 4449,
+            "average": 4873,
+            "streams": 26
+        },
+        "08": {
+            "median": 3704,
+            "average": 3717,
+            "streams": 19
+        },
+        "09": {
+            "median": 3968,
+            "average": 4303,
+            "streams": 25
+        },
+        "10": {
+            "median": 2794,
+            "average": 2949,
+            "streams": 20
+        },
+        "11": {
+            "median": 3918,
+            "average": 4127,
+            "streams": 19
+        },
+        "12": {
+            "median": 4942,
+            "average": 5075,
+            "streams": 20
+        }
+    }
+}

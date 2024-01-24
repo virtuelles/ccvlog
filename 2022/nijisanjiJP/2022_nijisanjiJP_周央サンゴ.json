@@ -1,0 +1,66 @@
+{
+    "Name": "周央サンゴ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2376,
+            "average": 3401,
+            "streams": 23
+        },
+        "02": {
+            "median": 1719,
+            "average": 1829,
+            "streams": 21
+        },
+        "03": {
+            "median": 2190,
+            "average": 2463,
+            "streams": 13
+        },
+        "04": {
+            "median": 2216,
+            "average": 2672,
+            "streams": 17
+        },
+        "05": {
+            "median": 3565,
+            "average": 4242,
+            "streams": 15
+        },
+        "06": {
+            "median": 3634,
+            "average": 11724,
+            "streams": 14
+        },
+        "07": {
+            "median": 3105,
+            "average": 3436,
+            "streams": 13
+        },
+        "08": {
+            "median": 3675,
+            "average": 7158,
+            "streams": 19
+        },
+        "09": {
+            "median": 2204,
+            "average": 2905,
+            "streams": 22
+        },
+        "10": {
+            "median": 2153,
+            "average": 2612,
+            "streams": 16
+        },
+        "11": {
+            "median": 1666,
+            "average": 1738,
+            "streams": 16
+        },
+        "12": {
+            "median": 2106,
+            "average": 3134,
+            "streams": 18
+        }
+    }
+}

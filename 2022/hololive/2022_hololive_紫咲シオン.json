@@ -1,0 +1,66 @@
+{
+    "Name": "紫咲シオン",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 15393,
+            "average": 15877,
+            "streams": 3
+        },
+        "02": {
+            "median": 16753,
+            "average": 16753,
+            "streams": 2
+        },
+        "03": {
+            "median": 20566,
+            "average": 26788,
+            "streams": 3
+        },
+        "04": {
+            "median": 16075,
+            "average": 17843,
+            "streams": 5
+        },
+        "05": {
+            "median": 29876,
+            "average": 29876,
+            "streams": 2
+        },
+        "06": {
+            "median": 18075,
+            "average": 17368,
+            "streams": 11
+        },
+        "07": {
+            "median": 17459,
+            "average": 22731,
+            "streams": 10
+        },
+        "08": {
+            "median": 57121,
+            "average": 57121,
+            "streams": 2
+        },
+        "09": {
+            "median": 18283,
+            "average": 17629,
+            "streams": 3
+        },
+        "10": {
+            "median": 12069,
+            "average": 12629,
+            "streams": 3
+        },
+        "11": {
+            "median": 13248,
+            "average": 14346,
+            "streams": 8
+        },
+        "12": {
+            "median": 15128,
+            "average": 24900,
+            "streams": 6
+        }
+    }
+}

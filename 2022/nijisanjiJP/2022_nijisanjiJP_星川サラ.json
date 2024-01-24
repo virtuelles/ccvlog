@@ -1,0 +1,66 @@
+{
+    "Name": "星川サラ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 5816,
+            "average": 6560,
+            "streams": 31
+        },
+        "02": {
+            "median": 6623,
+            "average": 9338,
+            "streams": 20
+        },
+        "03": {
+            "median": 5429,
+            "average": 5696,
+            "streams": 15
+        },
+        "04": {
+            "median": 4672,
+            "average": 4908,
+            "streams": 20
+        },
+        "05": {
+            "median": 5929,
+            "average": 6396,
+            "streams": 18
+        },
+        "06": {
+            "median": 3869,
+            "average": 4685,
+            "streams": 17
+        },
+        "07": {
+            "median": 5586,
+            "average": 5239,
+            "streams": 25
+        },
+        "08": {
+            "median": 5718,
+            "average": 7046,
+            "streams": 24
+        },
+        "09": {
+            "median": 4852,
+            "average": 5268,
+            "streams": 25
+        },
+        "10": {
+            "median": 3427,
+            "average": 3614,
+            "streams": 8
+        },
+        "11": {
+            "median": 7081,
+            "average": 9028,
+            "streams": 25
+        },
+        "12": {
+            "median": 6469,
+            "average": 7633,
+            "streams": 22
+        }
+    }
+}

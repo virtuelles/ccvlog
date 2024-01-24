@@ -1,0 +1,61 @@
+{
+    "Name": "Kiru Shin",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 52,
+            "average": 50,
+            "streams": 4
+        },
+        "02": {
+            "median": 52,
+            "average": 52,
+            "streams": 2
+        },
+        "03": {
+            "median": 167,
+            "average": 294,
+            "streams": 6
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

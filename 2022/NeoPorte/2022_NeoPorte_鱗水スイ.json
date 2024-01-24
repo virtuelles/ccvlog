@@ -1,0 +1,11 @@
+{
+    "Name": "鱗水スイ",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 270,
+            "average": 607,
+            "streams": 21
+        }
+    }
+}

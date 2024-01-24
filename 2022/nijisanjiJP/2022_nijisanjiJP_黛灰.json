@@ -1,0 +1,66 @@
+{
+    "Name": "黛灰",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 14325,
+            "average": 14325,
+            "streams": 1
+        },
+        "02": {
+            "median": 6342,
+            "average": 8087,
+            "streams": 10
+        },
+        "03": {
+            "median": 7319,
+            "average": 7296,
+            "streams": 10
+        },
+        "04": {
+            "median": 4257,
+            "average": 4283,
+            "streams": 17
+        },
+        "05": {
+            "median": 6135,
+            "average": 6411,
+            "streams": 10
+        },
+        "06": {
+            "median": 5894,
+            "average": 8927,
+            "streams": 9
+        },
+        "07": {
+            "median": 22089,
+            "average": 35704,
+            "streams": 30
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

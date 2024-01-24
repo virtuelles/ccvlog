@@ -1,0 +1,66 @@
+{
+    "Name": "愛園愛美",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 422,
+            "average": 503,
+            "streams": 14
+        },
+        "02": {
+            "median": 291,
+            "average": 303,
+            "streams": 8
+        },
+        "03": {
+            "median": 540,
+            "average": 562,
+            "streams": 10
+        },
+        "04": {
+            "median": 529,
+            "average": 507,
+            "streams": 7
+        },
+        "05": {
+            "median": 475,
+            "average": 549,
+            "streams": 5
+        },
+        "06": {
+            "median": 507,
+            "average": 731,
+            "streams": 8
+        },
+        "07": {
+            "median": 812,
+            "average": 988,
+            "streams": 15
+        },
+        "08": {
+            "median": 557,
+            "average": 578,
+            "streams": 6
+        },
+        "09": {
+            "median": 362,
+            "average": 422,
+            "streams": 11
+        },
+        "10": {
+            "median": 367,
+            "average": 359,
+            "streams": 8
+        },
+        "11": {
+            "median": 398,
+            "average": 893,
+            "streams": 8
+        },
+        "12": {
+            "median": 727,
+            "average": 1682,
+            "streams": 8
+        }
+    }
+}

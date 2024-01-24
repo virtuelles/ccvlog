@@ -1,0 +1,36 @@
+{
+    "Name": "Axel Syrios",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 4489,
+            "average": 9485,
+            "streams": 7
+        },
+        "02": {
+            "median": 3793,
+            "average": 4161,
+            "streams": 29
+        },
+        "03": {
+            "median": 2102,
+            "average": 2686,
+            "streams": 32
+        },
+        "04": {
+            "median": 2046,
+            "average": 2283,
+            "streams": 40
+        },
+        "05": {
+            "median": 1741,
+            "average": 2362,
+            "streams": 25
+        },
+        "06": {
+            "median": 1624,
+            "average": 1747,
+            "streams": 18
+        }
+    }
+}

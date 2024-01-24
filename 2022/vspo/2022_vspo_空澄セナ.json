@@ -1,0 +1,66 @@
+{
+    "Name": "空澄セナ",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 914,
+            "average": 1316,
+            "streams": 27
+        },
+        "02": {
+            "median": 1792,
+            "average": 1814,
+            "streams": 24
+        },
+        "03": {
+            "median": 1397,
+            "average": 1594,
+            "streams": 27
+        },
+        "04": {
+            "median": 1452,
+            "average": 1867,
+            "streams": 29
+        },
+        "05": {
+            "median": 2029,
+            "average": 2654,
+            "streams": 26
+        },
+        "06": {
+            "median": 1783,
+            "average": 1806,
+            "streams": 23
+        },
+        "07": {
+            "median": 2446,
+            "average": 2978,
+            "streams": 28
+        },
+        "08": {
+            "median": 2671,
+            "average": 2649,
+            "streams": 26
+        },
+        "09": {
+            "median": 2189,
+            "average": 2290,
+            "streams": 29
+        },
+        "10": {
+            "median": 2423,
+            "average": 2608,
+            "streams": 24
+        },
+        "11": {
+            "median": 2200,
+            "average": 2400,
+            "streams": 21
+        },
+        "12": {
+            "median": 2465,
+            "average": 2798,
+            "streams": 21
+        }
+    }
+}

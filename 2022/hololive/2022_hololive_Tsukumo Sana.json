@@ -1,0 +1,66 @@
+{
+    "Name": "Tsukumo Sana",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 3879,
+            "average": 6472,
+            "streams": 11
+        },
+        "02": {
+            "median": 2958,
+            "average": 2958,
+            "streams": 2
+        },
+        "03": {
+            "median": 4978,
+            "average": 4665,
+            "streams": 5
+        },
+        "04": {
+            "median": 3842,
+            "average": 5330,
+            "streams": 9
+        },
+        "05": {
+            "median": 3731,
+            "average": 3970,
+            "streams": 6
+        },
+        "06": {
+            "median": 3783,
+            "average": 5306,
+            "streams": 6
+        },
+        "07": {
+            "median": 10257,
+            "average": 20553,
+            "streams": 9
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

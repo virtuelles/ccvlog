@@ -1,0 +1,66 @@
+{
+    "Name": "レイン・パターソン",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1664,
+            "average": 1678,
+            "streams": 27
+        },
+        "02": {
+            "median": 1719,
+            "average": 2484,
+            "streams": 24
+        },
+        "03": {
+            "median": 1632,
+            "average": 1916,
+            "streams": 29
+        },
+        "04": {
+            "median": 1805,
+            "average": 2427,
+            "streams": 25
+        },
+        "05": {
+            "median": 1252,
+            "average": 1370,
+            "streams": 33
+        },
+        "06": {
+            "median": 1429,
+            "average": 2311,
+            "streams": 26
+        },
+        "07": {
+            "median": 1555,
+            "average": 2954,
+            "streams": 26
+        },
+        "08": {
+            "median": 1898,
+            "average": 7577,
+            "streams": 25
+        },
+        "09": {
+            "median": 1259,
+            "average": 1466,
+            "streams": 27
+        },
+        "10": {
+            "median": 1422,
+            "average": 2428,
+            "streams": 28
+        },
+        "11": {
+            "median": 1366,
+            "average": 1533,
+            "streams": 18
+        },
+        "12": {
+            "median": 1636,
+            "average": 3032,
+            "streams": 20
+        }
+    }
+}

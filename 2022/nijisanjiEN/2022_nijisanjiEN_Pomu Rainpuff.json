@@ -1,0 +1,66 @@
+{
+    "Name": "Pomu Rainpuff",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2051,
+            "average": 2651,
+            "streams": 27
+        },
+        "02": {
+            "median": 2530,
+            "average": 3067,
+            "streams": 25
+        },
+        "03": {
+            "median": 2936,
+            "average": 3071,
+            "streams": 23
+        },
+        "04": {
+            "median": 2743,
+            "average": 2798,
+            "streams": 24
+        },
+        "05": {
+            "median": 3517,
+            "average": 3910,
+            "streams": 27
+        },
+        "06": {
+            "median": 4068,
+            "average": 3963,
+            "streams": 24
+        },
+        "07": {
+            "median": 3557,
+            "average": 3764,
+            "streams": 26
+        },
+        "08": {
+            "median": 3290,
+            "average": 4634,
+            "streams": 28
+        },
+        "09": {
+            "median": 3946,
+            "average": 4361,
+            "streams": 25
+        },
+        "10": {
+            "median": 3861,
+            "average": 4211,
+            "streams": 23
+        },
+        "11": {
+            "median": 3192,
+            "average": 3443,
+            "streams": 16
+        },
+        "12": {
+            "median": 2902,
+            "average": 3533,
+            "streams": 22
+        }
+    }
+}

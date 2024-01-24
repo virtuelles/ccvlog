@@ -1,0 +1,66 @@
+{
+    "Name": "椎名唯華",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4692,
+            "average": 7031,
+            "streams": 20
+        },
+        "02": {
+            "median": 7700,
+            "average": 10035,
+            "streams": 17
+        },
+        "03": {
+            "median": 4187,
+            "average": 4653,
+            "streams": 10
+        },
+        "04": {
+            "median": 3050,
+            "average": 3471,
+            "streams": 18
+        },
+        "05": {
+            "median": 3928,
+            "average": 4171,
+            "streams": 20
+        },
+        "06": {
+            "median": 5178,
+            "average": 5442,
+            "streams": 18
+        },
+        "07": {
+            "median": 6202,
+            "average": 16519,
+            "streams": 16
+        },
+        "08": {
+            "median": 6918,
+            "average": 17284,
+            "streams": 14
+        },
+        "09": {
+            "median": 6691,
+            "average": 7603,
+            "streams": 23
+        },
+        "10": {
+            "median": 5973,
+            "average": 6210,
+            "streams": 21
+        },
+        "11": {
+            "median": 5935,
+            "average": 5494,
+            "streams": 15
+        },
+        "12": {
+            "median": 6506,
+            "average": 6474,
+            "streams": 20
+        }
+    }
+}

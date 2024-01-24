@@ -1,0 +1,66 @@
+{
+    "Name": "白上フブキ",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 11708,
+            "average": 11906,
+            "streams": 45
+        },
+        "02": {
+            "median": 13114,
+            "average": 14058,
+            "streams": 29
+        },
+        "03": {
+            "median": 10540,
+            "average": 11096,
+            "streams": 40
+        },
+        "04": {
+            "median": 4796,
+            "average": 5516,
+            "streams": 40
+        },
+        "05": {
+            "median": 9098,
+            "average": 9742,
+            "streams": 38
+        },
+        "06": {
+            "median": 9446,
+            "average": 11585,
+            "streams": 43
+        },
+        "07": {
+            "median": 13144,
+            "average": 13980,
+            "streams": 32
+        },
+        "08": {
+            "median": 15492,
+            "average": 14916,
+            "streams": 32
+        },
+        "09": {
+            "median": 12117,
+            "average": 13415,
+            "streams": 37
+        },
+        "10": {
+            "median": 10324,
+            "average": 13662,
+            "streams": 38
+        },
+        "11": {
+            "median": 14626,
+            "average": 18111,
+            "streams": 40
+        },
+        "12": {
+            "median": 11513,
+            "average": 14877,
+            "streams": 34
+        }
+    }
+}

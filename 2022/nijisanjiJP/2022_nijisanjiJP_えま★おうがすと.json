@@ -1,0 +1,66 @@
+{
+    "Name": "えま★おうがすと",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 551,
+            "average": 532,
+            "streams": 17
+        },
+        "02": {
+            "median": 526,
+            "average": 506,
+            "streams": 5
+        },
+        "03": {
+            "median": 533,
+            "average": 666,
+            "streams": 13
+        },
+        "04": {
+            "median": 503,
+            "average": 580,
+            "streams": 6
+        },
+        "05": {
+            "median": 531,
+            "average": 504,
+            "streams": 6
+        },
+        "06": {
+            "median": 698,
+            "average": 656,
+            "streams": 6
+        },
+        "07": {
+            "median": 917,
+            "average": 1155,
+            "streams": 8
+        },
+        "08": {
+            "median": 647,
+            "average": 601,
+            "streams": 12
+        },
+        "09": {
+            "median": 503,
+            "average": 487,
+            "streams": 13
+        },
+        "10": {
+            "median": 467,
+            "average": 845,
+            "streams": 15
+        },
+        "11": {
+            "median": 519,
+            "average": 587,
+            "streams": 14
+        },
+        "12": {
+            "median": 722,
+            "average": 801,
+            "streams": 12
+        }
+    }
+}

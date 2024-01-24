@@ -1,0 +1,66 @@
+{
+    "Name": "Taka Radjiman",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 153,
+            "average": 160,
+            "streams": 25
+        },
+        "02": {
+            "median": 148,
+            "average": 200,
+            "streams": 17
+        },
+        "03": {
+            "median": 200,
+            "average": 294,
+            "streams": 22
+        },
+        "04": {
+            "median": 189,
+            "average": 227,
+            "streams": 22
+        },
+        "05": {
+            "median": 241,
+            "average": 274,
+            "streams": 20
+        },
+        "06": {
+            "median": 230,
+            "average": 584,
+            "streams": 21
+        },
+        "07": {
+            "median": 170,
+            "average": 201,
+            "streams": 24
+        },
+        "08": {
+            "median": 157,
+            "average": 1239,
+            "streams": 24
+        },
+        "09": {
+            "median": 141,
+            "average": 323,
+            "streams": 17
+        },
+        "10": {
+            "median": 172,
+            "average": 199,
+            "streams": 20
+        },
+        "11": {
+            "median": 156,
+            "average": 173,
+            "streams": 9
+        },
+        "12": {
+            "median": 148,
+            "average": 180,
+            "streams": 22
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "鷹宮リオン",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1431,
+            "average": 1610,
+            "streams": 22
+        },
+        "02": {
+            "median": 1708,
+            "average": 2218,
+            "streams": 23
+        },
+        "03": {
+            "median": 3560,
+            "average": 3500,
+            "streams": 29
+        },
+        "04": {
+            "median": 1562,
+            "average": 1804,
+            "streams": 24
+        },
+        "05": {
+            "median": 2454,
+            "average": 2909,
+            "streams": 25
+        },
+        "06": {
+            "median": 2543,
+            "average": 2823,
+            "streams": 24
+        },
+        "07": {
+            "median": 2145,
+            "average": 3807,
+            "streams": 23
+        },
+        "08": {
+            "median": 2086,
+            "average": 2857,
+            "streams": 22
+        },
+        "09": {
+            "median": 1974,
+            "average": 3501,
+            "streams": 23
+        },
+        "10": {
+            "median": 2328,
+            "average": 2503,
+            "streams": 21
+        },
+        "11": {
+            "median": 1949,
+            "average": 2050,
+            "streams": 17
+        },
+        "12": {
+            "median": 2376,
+            "average": 3554,
+            "streams": 23
+        }
+    }
+}

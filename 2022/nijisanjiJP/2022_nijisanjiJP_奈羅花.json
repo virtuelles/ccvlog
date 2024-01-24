@@ -1,0 +1,66 @@
+{
+    "Name": "奈羅花",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3315,
+            "average": 3435,
+            "streams": 18
+        },
+        "02": {
+            "median": 3166,
+            "average": 4465,
+            "streams": 25
+        },
+        "03": {
+            "median": 2425,
+            "average": 3199,
+            "streams": 10
+        },
+        "04": {
+            "median": 2238,
+            "average": 2521,
+            "streams": 17
+        },
+        "05": {
+            "median": 2808,
+            "average": 3117,
+            "streams": 14
+        },
+        "06": {
+            "median": 2773,
+            "average": 3021,
+            "streams": 15
+        },
+        "07": {
+            "median": 2482,
+            "average": 2762,
+            "streams": 19
+        },
+        "08": {
+            "median": 2695,
+            "average": 3658,
+            "streams": 13
+        },
+        "09": {
+            "median": 2697,
+            "average": 3216,
+            "streams": 18
+        },
+        "10": {
+            "median": 4144,
+            "average": 4589,
+            "streams": 24
+        },
+        "11": {
+            "median": 3216,
+            "average": 3185,
+            "streams": 18
+        },
+        "12": {
+            "median": 1536,
+            "average": 2001,
+            "streams": 13
+        }
+    }
+}

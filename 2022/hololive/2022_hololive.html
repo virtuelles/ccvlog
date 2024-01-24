@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title> </title> -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.8/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/fixedcolumns/4.3.0/css/fixedColumns.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/fixedheader/3.4.0/css/fixedHeader.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css" rel="stylesheet">
+    <link href="/styles.css" rel="stylesheet">
+    
+</head>
+<body>
+    <!-- 側邊欄 -->
+    <div id="mySidebar" class="sidebar">
+        <a class="menu__item" href="/home.html">回到首頁</a>
+        <a href="#" onclick="toggleSubmenu('submenu2022')">2022</a>
+        <ul id="submenu2022" class="sidebar-ul">
+            <li><a class="menu__item" >hololive</a></li>
+            <li><a class="menu__item" href="#">holostars</a></li>
+            <li><a class="menu__item" href="#">NeoPorte</a></li>
+            <li><a class="menu__item" href="#">NijisanjiEN</a></li>
+            <li><a class="menu__item" href="#">NijisanjiID</a></li>
+            <li><a class="menu__item" href="#">NijisanjiJP</a></li>
+            <li><a class="menu__item" href="#">NijisanjiKR</a></li>
+            <li><a class="menu__item" href="#">vspo</a></li>
+            <!-- 以下是您原來的項目，保持不變 -->
+        </ul>
+        <a href="#" onclick="toggleSubmenu('submenu2023')">2023</a>
+        <ul id="submenu2023" class="sidebar-ul">
+            <li><a class="menu__item" href="#">hololiveEN</a></li>
+            <li><a class="menu__item" href="#">hololiveID</a></li>
+            <li><a class="menu__item" href="#">hololiveJP</a></li>
+            <li><a class="menu__item" href="#">holostarsEN</a></li>
+            <li><a class="menu__item" href="#">holostarsJP</a></li>
+            <li><a class="menu__item" href="#">NeoPorte</a></li>
+            <li><a class="menu__item" href="#">NijisanjiEN</a></li>
+            <li><a class="menu__item" href="#">NijisanjiID</a></li>
+            <li><a class="menu__item" href="#">NijisanjiJP</a></li>
+            <li><a class="menu__item" href="#">NijisanjiKR</a></li>
+            <li><a class="menu__item" href="#">vspo</a></li>
+        </ul>
+        <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
+    </div>
+    
+    <!-- 遮罩背景 -->
+    <div class="overlay" onclick="closeSidebar()"></div>
+
+    <!-- 主要內容 -->
+    <div id="main">
+        <!-- 使用FontAwesome的漢堡包圖標來替換按鈕 -->
+        <button class="open-sidebar-btn" onclick="openSidebar()">
+            <i class="fas fa-bars"></i> <!-- FontAwesome的漢堡包圖標 -->
+            <span class="toggle-text">頁面切換</span> <!-- 新增的文字元素 -->
+        </button>
+        <!-- 新增的置中內容區域
+        <div class="centered-content">
+            test
+        </div> -->
+        <button id="toggle">
+            <i class="fa-solid fa-filter"></i>
+            <span class="toggle-text">顯示/隱藏全部</span>
+        </button>
+    </div>
+    <!-- Highcharts Line Chart Container -->
+    <canvas id="container" style="width: 100%; height: 700px; border: 1px solid #000;"></canvas>
+    
+    <!-- Bootstrap Table Container -->
+    <div class="container mt-5">
+        <table id="dataTable" class="table table-bordered" style="width:100%">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <!-- ... Dynamic header columns ... -->
+                </tr>
+            </thead>
+            <tbody>
+                <!-- ... Dynamic data rows ... -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Scripts -->
+<!-- <script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script> -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.8/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+<script src="https://cdn.datatables.net/fixedcolumns/4.3.0/js/dataTables.fixedColumns.min.js"></script>
+<script src="https://cdn.datatables.net/fixedheader/3.4.0/js/dataTables.fixedHeader.min.js"></script>
+<script type="module" src="./config.js"></script>
+<script type="module" src="./main.js"></script>
+<script type="module">
+    import config from './config.js';
+    document.title = config.title;
+</script>
+<script >
+    function openSidebar() {
+        document.getElementById("mySidebar").style.transform = "translateX(250px)";
+        document.querySelector(".overlay").classList.add("active");
+        }
+
+    function closeSidebar() {
+        document.getElementById("mySidebar").style.transform = "translateX(0px)";
+        document.querySelector(".overlay").classList.remove("active");
+    }
+
+    function toggleSubmenu(id) {
+        const submenu = document.getElementById(id);
+        if (submenu.style.maxHeight) {
+            submenu.style.maxHeight = null; // 移除最大高度以收回
+        } else {
+            submenu.style.maxHeight = submenu.scrollHeight + "px"; // 設置最大高度以展開
+        }
+    }
+    async function updateMainContent(url) {
+        try {
+            const response = await fetch(url);  // 使用 fetch 進行網絡請求
+            if (!response.ok) {  // 確認網絡請求是否成功
+                throw new Error(`資料讀取失敗: ${response.statusText}`);
+            }
+            const data = await response.text();  // 解析 response 為文本
+            document.getElementById('main').innerHTML = data;  // 更新 main 的內容
+        } catch (error) {
+            console.error(error);  // 處理錯誤，並在控制台中打印錯誤信息
+        }
+    }
+</script>
+</body>
+</html>

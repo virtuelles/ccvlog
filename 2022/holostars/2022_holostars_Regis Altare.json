@@ -1,0 +1,36 @@
+{
+    "Name": "Regis Altare",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 5298,
+            "average": 9562,
+            "streams": 9
+        },
+        "02": {
+            "median": 2941,
+            "average": 3803,
+            "streams": 44
+        },
+        "03": {
+            "median": 2513,
+            "average": 3076,
+            "streams": 42
+        },
+        "04": {
+            "median": 2206,
+            "average": 2979,
+            "streams": 23
+        },
+        "05": {
+            "median": 1795,
+            "average": 2194,
+            "streams": 27
+        },
+        "06": {
+            "median": 1442,
+            "average": 1884,
+            "streams": 25
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "春崎エアル",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 829,
+            "average": 885,
+            "streams": 8
+        },
+        "02": {
+            "median": 1247,
+            "average": 1247,
+            "streams": 2
+        },
+        "03": {
+            "median": 974,
+            "average": 1221,
+            "streams": 8
+        },
+        "04": {
+            "median": 713,
+            "average": 805,
+            "streams": 4
+        },
+        "05": {
+            "median": 716,
+            "average": 716,
+            "streams": 2
+        },
+        "06": {
+            "median": 1057,
+            "average": 1024,
+            "streams": 3
+        },
+        "07": {
+            "median": 1067,
+            "average": 1135,
+            "streams": 4
+        },
+        "08": {
+            "median": 702,
+            "average": 809,
+            "streams": 6
+        },
+        "09": {
+            "median": 1221,
+            "average": 1187,
+            "streams": 11
+        },
+        "10": {
+            "median": 1209,
+            "average": 1489,
+            "streams": 11
+        },
+        "11": {
+            "median": 867,
+            "average": 830,
+            "streams": 9
+        },
+        "12": {
+            "median": 1239,
+            "average": 1882,
+            "streams": 16
+        }
+    }
+}

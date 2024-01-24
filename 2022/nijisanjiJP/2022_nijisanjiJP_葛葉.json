@@ -1,0 +1,66 @@
+{
+    "Name": "葛葉",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 14542,
+            "average": 15904,
+            "streams": 19
+        },
+        "02": {
+            "median": 29415,
+            "average": 31092,
+            "streams": 19
+        },
+        "03": {
+            "median": 22004,
+            "average": 23167,
+            "streams": 33
+        },
+        "04": {
+            "median": 29060,
+            "average": 29523,
+            "streams": 28
+        },
+        "05": {
+            "median": 25332,
+            "average": 26461,
+            "streams": 25
+        },
+        "06": {
+            "median": 26774,
+            "average": 27551,
+            "streams": 24
+        },
+        "07": {
+            "median": 23133,
+            "average": 33029,
+            "streams": 13
+        },
+        "08": {
+            "median": 32284,
+            "average": 48897,
+            "streams": 10
+        },
+        "09": {
+            "median": 30483,
+            "average": 30092,
+            "streams": 18
+        },
+        "10": {
+            "median": 23642,
+            "average": 24891,
+            "streams": 20
+        },
+        "11": {
+            "median": 23996,
+            "average": 26404,
+            "streams": 26
+        },
+        "12": {
+            "median": 20347,
+            "average": 25051,
+            "streams": 26
+        }
+    }
+}

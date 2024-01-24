@@ -1,0 +1,66 @@
+{
+    "Name": "鈴谷アキ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 879,
+            "average": 938,
+            "streams": 7
+        },
+        "02": {
+            "median": 580,
+            "average": 668,
+            "streams": 15
+        },
+        "03": {
+            "median": 479,
+            "average": 541,
+            "streams": 15
+        },
+        "04": {
+            "median": 528,
+            "average": 2537,
+            "streams": 16
+        },
+        "05": {
+            "median": 423,
+            "average": 702,
+            "streams": 15
+        },
+        "06": {
+            "median": 416,
+            "average": 546,
+            "streams": 22
+        },
+        "07": {
+            "median": 433,
+            "average": 511,
+            "streams": 18
+        },
+        "08": {
+            "median": 611,
+            "average": 1953,
+            "streams": 9
+        },
+        "09": {
+            "median": 460,
+            "average": 602,
+            "streams": 7
+        },
+        "10": {
+            "median": 510,
+            "average": 563,
+            "streams": 32
+        },
+        "11": {
+            "median": 452,
+            "average": 609,
+            "streams": 11
+        },
+        "12": {
+            "median": 563,
+            "average": 646,
+            "streams": 5
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "紫宮るな",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 3611,
+            "average": 3509,
+            "streams": 39
+        },
+        "02": {
+            "median": 3494,
+            "average": 3937,
+            "streams": 45
+        },
+        "03": {
+            "median": 4764,
+            "average": 4963,
+            "streams": 41
+        },
+        "04": {
+            "median": 3898,
+            "average": 4238,
+            "streams": 26
+        },
+        "05": {
+            "median": 4136,
+            "average": 4208,
+            "streams": 31
+        },
+        "06": {
+            "median": 3705,
+            "average": 4288,
+            "streams": 19
+        },
+        "07": {
+            "median": 5233,
+            "average": 5438,
+            "streams": 33
+        },
+        "08": {
+            "median": 5419,
+            "average": 6016,
+            "streams": 31
+        },
+        "09": {
+            "median": 9146,
+            "average": 9855,
+            "streams": 30
+        },
+        "10": {
+            "median": 3754,
+            "average": 4837,
+            "streams": 24
+        },
+        "11": {
+            "median": 3955,
+            "average": 4224,
+            "streams": 29
+        },
+        "12": {
+            "median": 3829,
+            "average": 4383,
+            "streams": 25
+        }
+    }
+}

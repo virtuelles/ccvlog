@@ -1,0 +1,66 @@
+{
+    "Name": "神田笑一",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 706,
+            "average": 896,
+            "streams": 24
+        },
+        "02": {
+            "median": 609,
+            "average": 638,
+            "streams": 21
+        },
+        "03": {
+            "median": 679,
+            "average": 973,
+            "streams": 20
+        },
+        "04": {
+            "median": 657,
+            "average": 902,
+            "streams": 18
+        },
+        "05": {
+            "median": 714,
+            "average": 1635,
+            "streams": 19
+        },
+        "06": {
+            "median": 498,
+            "average": 681,
+            "streams": 24
+        },
+        "07": {
+            "median": 619,
+            "average": 902,
+            "streams": 29
+        },
+        "08": {
+            "median": 397,
+            "average": 1030,
+            "streams": 35
+        },
+        "09": {
+            "median": 321,
+            "average": 516,
+            "streams": 36
+        },
+        "10": {
+            "median": 518,
+            "average": 611,
+            "streams": 22
+        },
+        "11": {
+            "median": 417,
+            "average": 618,
+            "streams": 18
+        },
+        "12": {
+            "median": 892,
+            "average": 865,
+            "streams": 19
+        }
+    }
+}

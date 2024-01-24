@@ -1,0 +1,66 @@
+{
+    "Name": "物述有栖",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 898,
+            "average": 1343,
+            "streams": 8
+        },
+        "02": {
+            "median": 624,
+            "average": 769,
+            "streams": 8
+        },
+        "03": {
+            "median": 1065,
+            "average": 3676,
+            "streams": 5
+        },
+        "04": {
+            "median": 1020,
+            "average": 1968,
+            "streams": 7
+        },
+        "05": {
+            "median": 870,
+            "average": 1036,
+            "streams": 8
+        },
+        "06": {
+            "median": 845,
+            "average": 907,
+            "streams": 7
+        },
+        "07": {
+            "median": 638,
+            "average": 688,
+            "streams": 6
+        },
+        "08": {
+            "median": 794,
+            "average": 1213,
+            "streams": 6
+        },
+        "09": {
+            "median": 968,
+            "average": 1170,
+            "streams": 12
+        },
+        "10": {
+            "median": 763,
+            "average": 922,
+            "streams": 15
+        },
+        "11": {
+            "median": 820,
+            "average": 1198,
+            "streams": 11
+        },
+        "12": {
+            "median": 972,
+            "average": 1079,
+            "streams": 9
+        }
+    }
+}

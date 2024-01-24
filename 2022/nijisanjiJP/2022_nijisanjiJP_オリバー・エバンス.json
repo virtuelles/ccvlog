@@ -1,0 +1,66 @@
+{
+    "Name": "オリバー・エバンス",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2060,
+            "average": 3015,
+            "streams": 20
+        },
+        "02": {
+            "median": 1866,
+            "average": 2261,
+            "streams": 16
+        },
+        "03": {
+            "median": 1791,
+            "average": 2146,
+            "streams": 17
+        },
+        "04": {
+            "median": 1753,
+            "average": 2272,
+            "streams": 11
+        },
+        "05": {
+            "median": 3299,
+            "average": 3972,
+            "streams": 13
+        },
+        "06": {
+            "median": 1826,
+            "average": 2121,
+            "streams": 14
+        },
+        "07": {
+            "median": 1828,
+            "average": 3031,
+            "streams": 12
+        },
+        "08": {
+            "median": 3912,
+            "average": 17374,
+            "streams": 9
+        },
+        "09": {
+            "median": 1973,
+            "average": 2270,
+            "streams": 17
+        },
+        "10": {
+            "median": 1711,
+            "average": 3189,
+            "streams": 16
+        },
+        "11": {
+            "median": 1809,
+            "average": 2204,
+            "streams": 9
+        },
+        "12": {
+            "median": 2096,
+            "average": 4061,
+            "streams": 17
+        }
+    }
+}

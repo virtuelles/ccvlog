@@ -1,0 +1,66 @@
+{
+    "Name": "天音かなた",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 9948,
+            "average": 9916,
+            "streams": 23
+        },
+        "02": {
+            "median": 12447,
+            "average": 13872,
+            "streams": 8
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "04": {
+            "median": 18383,
+            "average": 26873,
+            "streams": 9
+        },
+        "05": {
+            "median": 20035,
+            "average": 22174,
+            "streams": 22
+        },
+        "06": {
+            "median": 16113,
+            "average": 14995,
+            "streams": 17
+        },
+        "07": {
+            "median": 19414,
+            "average": 19414,
+            "streams": 1
+        },
+        "08": {
+            "median": 20489,
+            "average": 20540,
+            "streams": 19
+        },
+        "09": {
+            "median": 11296,
+            "average": 11802,
+            "streams": 16
+        },
+        "10": {
+            "median": 12090,
+            "average": 14441,
+            "streams": 16
+        },
+        "11": {
+            "median": 8479,
+            "average": 10374,
+            "streams": 19
+        },
+        "12": {
+            "median": 14763,
+            "average": 20401,
+            "streams": 23
+        }
+    }
+}

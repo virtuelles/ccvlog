@@ -1,0 +1,66 @@
+{
+    "Name": "岸堂天真",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 335,
+            "average": 405,
+            "streams": 18
+        },
+        "02": {
+            "median": 444,
+            "average": 633,
+            "streams": 19
+        },
+        "03": {
+            "median": 395,
+            "average": 440,
+            "streams": 22
+        },
+        "04": {
+            "median": 447,
+            "average": 536,
+            "streams": 24
+        },
+        "05": {
+            "median": 475,
+            "average": 512,
+            "streams": 20
+        },
+        "06": {
+            "median": 445,
+            "average": 624,
+            "streams": 19
+        },
+        "07": {
+            "median": 519,
+            "average": 628,
+            "streams": 21
+        },
+        "08": {
+            "median": 443,
+            "average": 479,
+            "streams": 18
+        },
+        "09": {
+            "median": 431,
+            "average": 482,
+            "streams": 25
+        },
+        "10": {
+            "median": 450,
+            "average": 515,
+            "streams": 24
+        },
+        "11": {
+            "median": 331,
+            "average": 508,
+            "streams": 19
+        },
+        "12": {
+            "median": 417,
+            "average": 620,
+            "streams": 24
+        }
+    }
+}

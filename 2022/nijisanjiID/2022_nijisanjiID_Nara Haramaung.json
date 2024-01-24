@@ -1,0 +1,66 @@
+{
+    "Name": "Nara Haramaung",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 109,
+            "average": 128,
+            "streams": 21
+        },
+        "02": {
+            "median": 164,
+            "average": 172,
+            "streams": 22
+        },
+        "03": {
+            "median": 138,
+            "average": 220,
+            "streams": 15
+        },
+        "04": {
+            "median": 259,
+            "average": 389,
+            "streams": 22
+        },
+        "05": {
+            "median": 283,
+            "average": 900,
+            "streams": 19
+        },
+        "06": {
+            "median": 195,
+            "average": 248,
+            "streams": 13
+        },
+        "07": {
+            "median": 223,
+            "average": 325,
+            "streams": 13
+        },
+        "08": {
+            "median": 185,
+            "average": 2098,
+            "streams": 17
+        },
+        "09": {
+            "median": 231,
+            "average": 265,
+            "streams": 19
+        },
+        "10": {
+            "median": 166,
+            "average": 216,
+            "streams": 23
+        },
+        "11": {
+            "median": 153,
+            "average": 225,
+            "streams": 15
+        },
+        "12": {
+            "median": 116,
+            "average": 160,
+            "streams": 18
+        }
+    }
+}

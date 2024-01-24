@@ -1,0 +1,66 @@
+{
+    "Name": "Finana Ryugu",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1547,
+            "average": 2624,
+            "streams": 26
+        },
+        "02": {
+            "median": 1512,
+            "average": 1721,
+            "streams": 22
+        },
+        "03": {
+            "median": 1549,
+            "average": 1775,
+            "streams": 20
+        },
+        "04": {
+            "median": 1509,
+            "average": 1883,
+            "streams": 24
+        },
+        "05": {
+            "median": 1766,
+            "average": 1842,
+            "streams": 23
+        },
+        "06": {
+            "median": 2042,
+            "average": 2461,
+            "streams": 23
+        },
+        "07": {
+            "median": 1762,
+            "average": 2164,
+            "streams": 23
+        },
+        "08": {
+            "median": 1551,
+            "average": 1862,
+            "streams": 18
+        },
+        "09": {
+            "median": 1294,
+            "average": 1501,
+            "streams": 20
+        },
+        "10": {
+            "median": 1932,
+            "average": 2307,
+            "streams": 19
+        },
+        "11": {
+            "median": 1999,
+            "average": 1986,
+            "streams": 8
+        },
+        "12": {
+            "median": 1419,
+            "average": 1918,
+            "streams": 18
+        }
+    }
+}

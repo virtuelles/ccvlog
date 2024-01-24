@@ -1,0 +1,66 @@
+{
+    "Name": "荒咬オウガ",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": 362,
+            "average": 620,
+            "streams": 22
+        },
+        "02": {
+            "median": 452,
+            "average": 511,
+            "streams": 14
+        },
+        "03": {
+            "median": 543,
+            "average": 739,
+            "streams": 23
+        },
+        "04": {
+            "median": 518,
+            "average": 524,
+            "streams": 16
+        },
+        "05": {
+            "median": 522,
+            "average": 673,
+            "streams": 17
+        },
+        "06": {
+            "median": 428,
+            "average": 530,
+            "streams": 17
+        },
+        "07": {
+            "median": 515,
+            "average": 701,
+            "streams": 17
+        },
+        "08": {
+            "median": 401,
+            "average": 436,
+            "streams": 13
+        },
+        "09": {
+            "median": 473,
+            "average": 533,
+            "streams": 13
+        },
+        "10": {
+            "median": 583,
+            "average": 567,
+            "streams": 21
+        },
+        "11": {
+            "median": 446,
+            "average": 440,
+            "streams": 21
+        },
+        "12": {
+            "median": 377,
+            "average": 545,
+            "streams": 22
+        }
+    }
+}

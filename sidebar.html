@@ -1,0 +1,135 @@
+<style>
+    /* Basic Styles */
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+
+    /* Sidebar Styles */
+    .sidebar {
+        position: fixed;
+        left: -250px;
+        top: 0;
+        height: 100vh;
+        width: 250px;
+        background-color: #ECEFF1;
+        overflow-x: hidden;
+        overflow-y: auto;
+        transition: transform 0.3s;
+        padding-top: 60px;
+        z-index: 1000;
+    }
+    .sidebar a {
+        padding: 12px 24px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #333;
+        display: block;
+        transition: 0.3s;
+    }
+    .sidebar a:hover {
+        background-color: #CFD8DC;
+    }
+    .sidebar .close-btn {
+        position: absolute;
+        top: 5px;
+        left: 50px;
+        font-size: 30px;
+        margin-left: 50px;
+        cursor: pointer;
+    }
+    .open-sidebar-btn {
+        font-size: 24px;
+        background: none;
+        border: none;
+        cursor: pointer;
+        color: #333;
+    }
+    .toggle-text {
+        margin-left: 10px;
+        font-size: 16px;
+    }
+    .menu__box {
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+
+    /* Overlay Background Styles */
+    .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.6);
+        z-index: 999;
+        opacity: 0;
+        visibility: hidden;
+        transition: 0.3s;
+    }
+    .overlay.active {
+        opacity: 1;
+        visibility: visible;
+    }
+    ul {
+        transition: max-height 0.3s ease-out;
+        overflow: hidden;
+        max-height: 0;
+    }
+
+    ul.active {
+        max-height: 2000px;
+    }
+    .centered-content {
+        text-align: center;
+        margin-top: 50px;
+        font-size: 24px;
+        color: #333;
+    }
+</style>
+<!-- 側邊欄 -->
+    <div id="mySidebar" class="sidebar">
+        <a class="menu__item" href="home.html">回到首頁</a>
+        <a href="#" onclick="toggleSubmenu('submenu2022')">2022</a>
+        <ul id="submenu2022">
+            <li><a class="menu__item" href="#">hololive</a></li>
+            <li><a class="menu__item" href="#">holostars</a></li>
+            <li><a class="menu__item" href="#">NeoPorte</a></li>
+            <li><a class="menu__item" href="#">NijisanjiEN</a></li>
+            <li><a class="menu__item" href="#">NijisanjiID</a></li>
+            <li><a class="menu__item" href="#">NijisanjiJP</a></li>
+            <li><a class="menu__item" href="#">NijisanjiKR</a></li>
+            <li><a class="menu__item" href="#">vspo</a></li>
+        <!-- 以下是您原來的項目，保持不變 -->
+        </ul>
+        <a href="#" onclick="toggleSubmenu('submenu2023')">2023</a>
+        <ul id="submenu2023">
+            <li><a class="menu__item" href="#">hololiveEN</a></li>
+            <li><a class="menu__item" href="#">hololiveID</a></li>
+            <li><a class="menu__item" href="#">hololiveJP</a></li>
+            <li><a class="menu__item" href="#">holostarsEN</a></li>
+            <li><a class="menu__item" href="#">holostarsJP</a></li>
+            <li><a class="menu__item" href="#">NeoPorte</a></li>
+            <li><a class="menu__item" href="#">NijisanjiEN</a></li>
+            <li><a class="menu__item" href="#">NijisanjiID</a></li>
+            <li><a class="menu__item" href="#">NijisanjiJP</a></li>
+            <li><a class="menu__item" href="#">NijisanjiKR</a></li>
+            <li><a class="menu__item" href="#">vspo</a></li>
+        </ul>
+        <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
+    </div>
+
+    <!-- 遮罩背景 -->
+    <div class="overlay" onclick="closeSidebar()"></div>
+
+    <!-- 主要內容 -->
+    <div id="main">
+        <!-- 使用FontAwesome的漢堡包圖標來替換按鈕 -->
+        <button class="open-sidebar-btn" onclick="openSidebar()">
+            <i class="fas fa-bars"></i> <!-- FontAwesome的漢堡包圖標 -->
+            <span class="toggle-text">頁面切換</span> <!-- 新增的文字元素 -->
+        </button>
+        <!-- 新增的置中內容區域 -->
+        <div class="centered-content">
+            test
+        </div>
+    </div>

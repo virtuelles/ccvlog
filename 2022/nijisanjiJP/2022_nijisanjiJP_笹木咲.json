@@ -1,0 +1,66 @@
+{
+    "Name": "笹木咲",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 5897,
+            "average": 6577,
+            "streams": 23
+        },
+        "02": {
+            "median": 8722,
+            "average": 8376,
+            "streams": 16
+        },
+        "03": {
+            "median": 6526,
+            "average": 8651,
+            "streams": 19
+        },
+        "04": {
+            "median": 6295,
+            "average": 7524,
+            "streams": 20
+        },
+        "05": {
+            "median": 9816,
+            "average": 10332,
+            "streams": 13
+        },
+        "06": {
+            "median": 6592,
+            "average": 6325,
+            "streams": 15
+        },
+        "07": {
+            "median": 7343,
+            "average": 18840,
+            "streams": 12
+        },
+        "08": {
+            "median": 8537,
+            "average": 13921,
+            "streams": 11
+        },
+        "09": {
+            "median": 11223,
+            "average": 10478,
+            "streams": 22
+        },
+        "10": {
+            "median": 8267,
+            "average": 8292,
+            "streams": 13
+        },
+        "11": {
+            "median": 5205,
+            "average": 5806,
+            "streams": 10
+        },
+        "12": {
+            "median": 11842,
+            "average": 12416,
+            "streams": 13
+        }
+    }
+}

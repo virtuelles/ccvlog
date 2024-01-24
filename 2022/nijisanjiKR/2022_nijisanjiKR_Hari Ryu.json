@@ -1,0 +1,66 @@
+{
+    "Name": "Hari Ryu",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 86,
+            "average": 91,
+            "streams": 9
+        },
+        "02": {
+            "median": 117,
+            "average": 150,
+            "streams": 6
+        },
+        "03": {
+            "median": 121,
+            "average": 123,
+            "streams": 6
+        },
+        "04": {
+            "median": 115,
+            "average": 115,
+            "streams": 3
+        },
+        "05": {
+            "median": 193,
+            "average": 241,
+            "streams": 6
+        },
+        "06": {
+            "median": 300,
+            "average": 361,
+            "streams": 7
+        },
+        "07": {
+            "median": 182,
+            "average": 190,
+            "streams": 6
+        },
+        "08": {
+            "median": 268,
+            "average": 268,
+            "streams": 2
+        },
+        "09": {
+            "median": 228,
+            "average": 255,
+            "streams": 3
+        },
+        "10": {
+            "median": 196,
+            "average": 274,
+            "streams": 4
+        },
+        "11": {
+            "median": 198,
+            "average": 198,
+            "streams": 1
+        },
+        "12": {
+            "median": 142,
+            "average": 182,
+            "streams": 9
+        }
+    }
+}

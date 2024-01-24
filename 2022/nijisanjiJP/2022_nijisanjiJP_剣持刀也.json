@@ -1,0 +1,66 @@
+{
+    "Name": "剣持刀也",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 24532,
+            "average": 24532,
+            "streams": 2
+        },
+        "02": {
+            "median": 33789,
+            "average": 32098,
+            "streams": 5
+        },
+        "03": {
+            "median": 30699,
+            "average": 31988,
+            "streams": 4
+        },
+        "04": {
+            "median": 26862,
+            "average": 25301,
+            "streams": 5
+        },
+        "05": {
+            "median": 34170,
+            "average": 31284,
+            "streams": 6
+        },
+        "06": {
+            "median": 33370,
+            "average": 31592,
+            "streams": 3
+        },
+        "07": {
+            "median": 32595,
+            "average": 32571,
+            "streams": 4
+        },
+        "08": {
+            "median": 47081,
+            "average": 47719,
+            "streams": 4
+        },
+        "09": {
+            "median": 36657,
+            "average": 35240,
+            "streams": 4
+        },
+        "10": {
+            "median": 36089,
+            "average": 35708,
+            "streams": 3
+        },
+        "11": {
+            "median": 38225,
+            "average": 37486,
+            "streams": 5
+        },
+        "12": {
+            "median": 44959,
+            "average": 62280,
+            "streams": 9
+        }
+    }
+}

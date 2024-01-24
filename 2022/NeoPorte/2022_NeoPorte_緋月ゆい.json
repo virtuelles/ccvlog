@@ -1,0 +1,51 @@
+{
+    "Name": "緋月ゆい",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 1961,
+            "average": 2988,
+            "streams": 14
+        },
+        "02": {
+            "median": 1914,
+            "average": 2580,
+            "streams": 34
+        },
+        "03": {
+            "median": 1688,
+            "average": 2372,
+            "streams": 28
+        },
+        "04": {
+            "median": 1442,
+            "average": 2199,
+            "streams": 26
+        },
+        "05": {
+            "median": 1961,
+            "average": 2418,
+            "streams": 29
+        },
+        "06": {
+            "median": 1439,
+            "average": 1620,
+            "streams": 28
+        },
+        "07": {
+            "median": 1300,
+            "average": 1669,
+            "streams": 30
+        },
+        "08": {
+            "median": 1063,
+            "average": 1247,
+            "streams": 24
+        },
+        "09": {
+            "median": 1434,
+            "average": 1940,
+            "streams": 23
+        }
+    }
+}

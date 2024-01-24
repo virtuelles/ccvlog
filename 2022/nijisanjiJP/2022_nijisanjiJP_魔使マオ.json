@@ -1,0 +1,66 @@
+{
+    "Name": "魔使マオ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2207,
+            "average": 3464,
+            "streams": 12
+        },
+        "02": {
+            "median": 4889,
+            "average": 4979,
+            "streams": 15
+        },
+        "03": {
+            "median": 2993,
+            "average": 3773,
+            "streams": 16
+        },
+        "04": {
+            "median": 2523,
+            "average": 2474,
+            "streams": 15
+        },
+        "05": {
+            "median": 2443,
+            "average": 2327,
+            "streams": 15
+        },
+        "06": {
+            "median": 1930,
+            "average": 1848,
+            "streams": 16
+        },
+        "07": {
+            "median": 3465,
+            "average": 3061,
+            "streams": 17
+        },
+        "08": {
+            "median": 2165,
+            "average": 2607,
+            "streams": 16
+        },
+        "09": {
+            "median": 2440,
+            "average": 2581,
+            "streams": 15
+        },
+        "10": {
+            "median": 1536,
+            "average": 1822,
+            "streams": 12
+        },
+        "11": {
+            "median": 2863,
+            "average": 4548,
+            "streams": 16
+        },
+        "12": {
+            "median": 2155,
+            "average": 3198,
+            "streams": 16
+        }
+    }
+}

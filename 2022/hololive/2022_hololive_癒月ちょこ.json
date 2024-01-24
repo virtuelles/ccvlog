@@ -1,0 +1,66 @@
+{
+    "Name": "癒月ちょこ",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 3712,
+            "average": 6182,
+            "streams": 30
+        },
+        "02": {
+            "median": 4928,
+            "average": 10000,
+            "streams": 26
+        },
+        "03": {
+            "median": 3949,
+            "average": 5850,
+            "streams": 23
+        },
+        "04": {
+            "median": 5041,
+            "average": 8213,
+            "streams": 22
+        },
+        "05": {
+            "median": 5794,
+            "average": 7367,
+            "streams": 19
+        },
+        "06": {
+            "median": 5316,
+            "average": 8294,
+            "streams": 14
+        },
+        "07": {
+            "median": 9479,
+            "average": 10425,
+            "streams": 7
+        },
+        "08": {
+            "median": 10782,
+            "average": 9930,
+            "streams": 14
+        },
+        "09": {
+            "median": 9707,
+            "average": 12743,
+            "streams": 20
+        },
+        "10": {
+            "median": 6751,
+            "average": 6988,
+            "streams": 20
+        },
+        "11": {
+            "median": 5510,
+            "average": 6941,
+            "streams": 23
+        },
+        "12": {
+            "median": 5732,
+            "average": 8976,
+            "streams": 16
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "ロボ子さん",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 3166,
+            "average": 3549,
+            "streams": 25
+        },
+        "02": {
+            "median": 3113,
+            "average": 3931,
+            "streams": 18
+        },
+        "03": {
+            "median": 2382,
+            "average": 7755,
+            "streams": 11
+        },
+        "04": {
+            "median": 2981,
+            "average": 2697,
+            "streams": 11
+        },
+        "05": {
+            "median": 3380,
+            "average": 8076,
+            "streams": 16
+        },
+        "06": {
+            "median": 4048,
+            "average": 6113,
+            "streams": 12
+        },
+        "07": {
+            "median": 3509,
+            "average": 3348,
+            "streams": 13
+        },
+        "08": {
+            "median": 4028,
+            "average": 6772,
+            "streams": 26
+        },
+        "09": {
+            "median": 3952,
+            "average": 4726,
+            "streams": 23
+        },
+        "10": {
+            "median": 4480,
+            "average": 4899,
+            "streams": 11
+        },
+        "11": {
+            "median": 3801,
+            "average": 4185,
+            "streams": 8
+        },
+        "12": {
+            "median": 2887,
+            "average": 6457,
+            "streams": 25
+        }
+    }
+}

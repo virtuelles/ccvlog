@@ -1,0 +1,36 @@
+{
+    "Name": "Scarle Yonaguni",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 5934,
+            "average": 14827,
+            "streams": 8
+        },
+        "02": {
+            "median": 1862,
+            "average": 2137,
+            "streams": 40
+        },
+        "03": {
+            "median": 1083,
+            "average": 1144,
+            "streams": 39
+        },
+        "04": {
+            "median": 1318,
+            "average": 1404,
+            "streams": 41
+        },
+        "05": {
+            "median": 1042,
+            "average": 1185,
+            "streams": 37
+        },
+        "06": {
+            "median": 1406,
+            "average": 1426,
+            "streams": 31
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "甲斐田晴",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4145,
+            "average": 4148,
+            "streams": 21
+        },
+        "02": {
+            "median": 4174,
+            "average": 3910,
+            "streams": 21
+        },
+        "03": {
+            "median": 3750,
+            "average": 4077,
+            "streams": 23
+        },
+        "04": {
+            "median": 2494,
+            "average": 3001,
+            "streams": 24
+        },
+        "05": {
+            "median": 5059,
+            "average": 9474,
+            "streams": 24
+        },
+        "06": {
+            "median": 5663,
+            "average": 7920,
+            "streams": 24
+        },
+        "07": {
+            "median": 3745,
+            "average": 4826,
+            "streams": 21
+        },
+        "08": {
+            "median": 5655,
+            "average": 5589,
+            "streams": 24
+        },
+        "09": {
+            "median": 4150,
+            "average": 5105,
+            "streams": 19
+        },
+        "10": {
+            "median": 4186,
+            "average": 5793,
+            "streams": 21
+        },
+        "11": {
+            "median": 3447,
+            "average": 4327,
+            "streams": 14
+        },
+        "12": {
+            "median": 4122,
+            "average": 5343,
+            "streams": 21
+        }
+    }
+}

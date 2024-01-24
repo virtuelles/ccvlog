@@ -1,0 +1,36 @@
+{
+    "Name": "Aia Amare",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 4088,
+            "average": 14314,
+            "streams": 7
+        },
+        "02": {
+            "median": 1625,
+            "average": 1714,
+            "streams": 27
+        },
+        "03": {
+            "median": 871,
+            "average": 1097,
+            "streams": 29
+        },
+        "04": {
+            "median": 1052,
+            "average": 1124,
+            "streams": 27
+        },
+        "05": {
+            "median": 611,
+            "average": 904,
+            "streams": 23
+        },
+        "06": {
+            "median": 988,
+            "average": 1219,
+            "streams": 19
+        }
+    }
+}

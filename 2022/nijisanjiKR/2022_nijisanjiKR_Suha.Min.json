@@ -1,0 +1,66 @@
+{
+    "Name": "Suha.Min",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 115,
+            "average": 210,
+            "streams": 17
+        },
+        "02": {
+            "median": 395,
+            "average": 551,
+            "streams": 13
+        },
+        "03": {
+            "median": 305,
+            "average": 361,
+            "streams": 12
+        },
+        "04": {
+            "median": 441,
+            "average": 853,
+            "streams": 23
+        },
+        "05": {
+            "median": 1047,
+            "average": 1097,
+            "streams": 15
+        },
+        "06": {
+            "median": 695,
+            "average": 805,
+            "streams": 15
+        },
+        "07": {
+            "median": 899,
+            "average": 1103,
+            "streams": 11
+        },
+        "08": {
+            "median": 737,
+            "average": 2172,
+            "streams": 14
+        },
+        "09": {
+            "median": 1065,
+            "average": 1303,
+            "streams": 11
+        },
+        "10": {
+            "median": 1059,
+            "average": 1150,
+            "streams": 14
+        },
+        "11": {
+            "median": 1102,
+            "average": 1314,
+            "streams": 5
+        },
+        "12": {
+            "median": 1075,
+            "average": 1258,
+            "streams": 5
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "アキ・ローゼンタール",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 1333,
+            "average": 5111,
+            "streams": 9
+        },
+        "02": {
+            "median": 7556,
+            "average": 12286,
+            "streams": 13
+        },
+        "03": {
+            "median": 4681,
+            "average": 5637,
+            "streams": 19
+        },
+        "04": {
+            "median": 3837,
+            "average": 4415,
+            "streams": 17
+        },
+        "05": {
+            "median": 4063,
+            "average": 6121,
+            "streams": 17
+        },
+        "06": {
+            "median": 4349,
+            "average": 8620,
+            "streams": 17
+        },
+        "07": {
+            "median": 6530,
+            "average": 9062,
+            "streams": 17
+        },
+        "08": {
+            "median": 4789,
+            "average": 7016,
+            "streams": 8
+        },
+        "09": {
+            "median": 4353,
+            "average": 4624,
+            "streams": 17
+        },
+        "10": {
+            "median": 5844,
+            "average": 5753,
+            "streams": 25
+        },
+        "11": {
+            "median": 4897,
+            "average": 4708,
+            "streams": 27
+        },
+        "12": {
+            "median": 4652,
+            "average": 7717,
+            "streams": 17
+        }
+    }
+}

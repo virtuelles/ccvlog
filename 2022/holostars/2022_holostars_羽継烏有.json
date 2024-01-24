@@ -1,0 +1,66 @@
+{
+    "Name": "羽継烏有",
+    "Group": "holostars",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "03": {
+            "median": 6342,
+            "average": 6342,
+            "streams": 2
+        },
+        "04": {
+            "median": 351,
+            "average": 413,
+            "streams": 51
+        },
+        "05": {
+            "median": 309,
+            "average": 343,
+            "streams": 73
+        },
+        "06": {
+            "median": 252,
+            "average": 262,
+            "streams": 38
+        },
+        "07": {
+            "median": 364,
+            "average": 404,
+            "streams": 16
+        },
+        "08": {
+            "median": 254,
+            "average": 448,
+            "streams": 19
+        },
+        "09": {
+            "median": 263,
+            "average": 366,
+            "streams": 10
+        },
+        "10": {
+            "median": 242,
+            "average": 270,
+            "streams": 15
+        },
+        "11": {
+            "median": 298,
+            "average": 848,
+            "streams": 14
+        },
+        "12": {
+            "median": 227,
+            "average": 284,
+            "streams": 13
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "鷹嶺ルイ",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 5011,
+            "average": 6839,
+            "streams": 35
+        },
+        "02": {
+            "median": 6069,
+            "average": 6632,
+            "streams": 33
+        },
+        "03": {
+            "median": 6755,
+            "average": 8473,
+            "streams": 37
+        },
+        "04": {
+            "median": 5482,
+            "average": 5592,
+            "streams": 39
+        },
+        "05": {
+            "median": 7059,
+            "average": 9426,
+            "streams": 41
+        },
+        "06": {
+            "median": 7907,
+            "average": 11738,
+            "streams": 39
+        },
+        "07": {
+            "median": 7372,
+            "average": 7744,
+            "streams": 33
+        },
+        "08": {
+            "median": 6066,
+            "average": 8512,
+            "streams": 28
+        },
+        "09": {
+            "median": 7506,
+            "average": 7854,
+            "streams": 28
+        },
+        "10": {
+            "median": 6745,
+            "average": 9874,
+            "streams": 27
+        },
+        "11": {
+            "median": 6436,
+            "average": 11772,
+            "streams": 27
+        },
+        "12": {
+            "median": 5871,
+            "average": 9493,
+            "streams": 30
+        }
+    }
+}

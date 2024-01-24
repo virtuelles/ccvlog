@@ -1,0 +1,66 @@
+{
+    "Name": "Takanashi Kiara",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 5090,
+            "average": 8276,
+            "streams": 25
+        },
+        "02": {
+            "median": 5366,
+            "average": 6827,
+            "streams": 18
+        },
+        "03": {
+            "median": 6619,
+            "average": 8785,
+            "streams": 22
+        },
+        "04": {
+            "median": 5891,
+            "average": 6845,
+            "streams": 19
+        },
+        "05": {
+            "median": 6675,
+            "average": 6930,
+            "streams": 17
+        },
+        "06": {
+            "median": 6828,
+            "average": 10412,
+            "streams": 11
+        },
+        "07": {
+            "median": 7124,
+            "average": 9208,
+            "streams": 22
+        },
+        "08": {
+            "median": 4943,
+            "average": 5544,
+            "streams": 19
+        },
+        "09": {
+            "median": 5631,
+            "average": 6428,
+            "streams": 19
+        },
+        "10": {
+            "median": 4122,
+            "average": 5472,
+            "streams": 22
+        },
+        "11": {
+            "median": 4082,
+            "average": 5230,
+            "streams": 21
+        },
+        "12": {
+            "median": 5275,
+            "average": 5708,
+            "streams": 13
+        }
+    }
+}

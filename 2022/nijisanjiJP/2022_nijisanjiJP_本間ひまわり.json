@@ -1,0 +1,66 @@
+{
+    "Name": "本間ひまわり",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4396,
+            "average": 4044,
+            "streams": 22
+        },
+        "02": {
+            "median": 2494,
+            "average": 2791,
+            "streams": 20
+        },
+        "03": {
+            "median": 3245,
+            "average": 3520,
+            "streams": 15
+        },
+        "04": {
+            "median": 1909,
+            "average": 2057,
+            "streams": 13
+        },
+        "05": {
+            "median": 2969,
+            "average": 3651,
+            "streams": 4
+        },
+        "06": {
+            "median": 3753,
+            "average": 4178,
+            "streams": 19
+        },
+        "07": {
+            "median": 2574,
+            "average": 3012,
+            "streams": 18
+        },
+        "08": {
+            "median": 2239,
+            "average": 3057,
+            "streams": 15
+        },
+        "09": {
+            "median": 3403,
+            "average": 4279,
+            "streams": 11
+        },
+        "10": {
+            "median": 2605,
+            "average": 2846,
+            "streams": 14
+        },
+        "11": {
+            "median": 2367,
+            "average": 2348,
+            "streams": 17
+        },
+        "12": {
+            "median": 3898,
+            "average": 5346,
+            "streams": 18
+        }
+    }
+}

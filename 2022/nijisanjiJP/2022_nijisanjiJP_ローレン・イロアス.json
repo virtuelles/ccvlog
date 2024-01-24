@@ -1,0 +1,66 @@
+{
+    "Name": "ローレン・イロアス",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 6116,
+            "average": 7265,
+            "streams": 23
+        },
+        "02": {
+            "median": 7692,
+            "average": 8620,
+            "streams": 17
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "04": {
+            "median": 7362,
+            "average": 11702,
+            "streams": 9
+        },
+        "05": {
+            "median": 5126,
+            "average": 5897,
+            "streams": 24
+        },
+        "06": {
+            "median": 5984,
+            "average": 6047,
+            "streams": 15
+        },
+        "07": {
+            "median": 5983,
+            "average": 6413,
+            "streams": 8
+        },
+        "08": {
+            "median": 6177,
+            "average": 6051,
+            "streams": 14
+        },
+        "09": {
+            "median": 7209,
+            "average": 8385,
+            "streams": 14
+        },
+        "10": {
+            "median": 10085,
+            "average": 9871,
+            "streams": 22
+        },
+        "11": {
+            "median": 9513,
+            "average": 9685,
+            "streams": 24
+        },
+        "12": {
+            "median": 10482,
+            "average": 14481,
+            "streams": 16
+        }
+    }
+}

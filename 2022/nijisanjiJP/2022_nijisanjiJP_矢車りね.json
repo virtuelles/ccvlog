@@ -1,0 +1,66 @@
+{
+    "Name": "矢車りね",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "05": {
+            "median": 1240,
+            "average": 1240,
+            "streams": 1
+        },
+        "06": {
+            "median": 1044,
+            "average": 1044,
+            "streams": 1
+        },
+        "07": {
+            "median": 672,
+            "average": 726,
+            "streams": 4
+        },
+        "08": {
+            "median": 719,
+            "average": 1025,
+            "streams": 8
+        },
+        "09": {
+            "median": 687,
+            "average": 798,
+            "streams": 7
+        },
+        "10": {
+            "median": 605,
+            "average": 628,
+            "streams": 9
+        },
+        "11": {
+            "median": 264,
+            "average": 264,
+            "streams": 1
+        },
+        "12": {
+            "median": 766,
+            "average": 909,
+            "streams": 3
+        }
+    }
+}

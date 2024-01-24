@@ -1,0 +1,66 @@
+{
+    "Name": "月ノ美兎",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 13891,
+            "average": 16275,
+            "streams": 12
+        },
+        "02": {
+            "median": 13911,
+            "average": 13217,
+            "streams": 13
+        },
+        "03": {
+            "median": 12579,
+            "average": 13119,
+            "streams": 7
+        },
+        "04": {
+            "median": 10308,
+            "average": 12501,
+            "streams": 14
+        },
+        "05": {
+            "median": 11212,
+            "average": 14121,
+            "streams": 11
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "07": {
+            "median": 10476,
+            "average": 10476,
+            "streams": 2
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": 34779,
+            "average": 32193,
+            "streams": 3
+        },
+        "10": {
+            "median": 16481,
+            "average": 16757,
+            "streams": 4
+        },
+        "11": {
+            "median": 21930,
+            "average": 22265,
+            "streams": 6
+        },
+        "12": {
+            "median": 17452,
+            "average": 18141,
+            "streams": 10
+        }
+    }
+}

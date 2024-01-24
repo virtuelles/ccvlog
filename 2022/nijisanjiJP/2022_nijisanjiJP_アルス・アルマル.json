@@ -1,0 +1,66 @@
+{
+    "Name": "アルス・アルマル",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3357,
+            "average": 3925,
+            "streams": 16
+        },
+        "02": {
+            "median": 4117,
+            "average": 4298,
+            "streams": 35
+        },
+        "03": {
+            "median": 5189,
+            "average": 6213,
+            "streams": 32
+        },
+        "04": {
+            "median": 4314,
+            "average": 4525,
+            "streams": 36
+        },
+        "05": {
+            "median": 5739,
+            "average": 5924,
+            "streams": 28
+        },
+        "06": {
+            "median": 5982,
+            "average": 6230,
+            "streams": 36
+        },
+        "07": {
+            "median": 7404,
+            "average": 9886,
+            "streams": 31
+        },
+        "08": {
+            "median": 5708,
+            "average": 6280,
+            "streams": 25
+        },
+        "09": {
+            "median": 6336,
+            "average": 6405,
+            "streams": 30
+        },
+        "10": {
+            "median": 4967,
+            "average": 6389,
+            "streams": 29
+        },
+        "11": {
+            "median": 5481,
+            "average": 6224,
+            "streams": 22
+        },
+        "12": {
+            "median": 7742,
+            "average": 8137,
+            "streams": 25
+        }
+    }
+}

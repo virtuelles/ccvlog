@@ -1,0 +1,66 @@
+{
+    "Name": "Mysta Rias",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 6950,
+            "average": 7189,
+            "streams": 25
+        },
+        "02": {
+            "median": 9018,
+            "average": 9883,
+            "streams": 21
+        },
+        "03": {
+            "median": 11359,
+            "average": 12193,
+            "streams": 21
+        },
+        "04": {
+            "median": 9650,
+            "average": 10479,
+            "streams": 24
+        },
+        "05": {
+            "median": 10545,
+            "average": 16495,
+            "streams": 18
+        },
+        "06": {
+            "median": 10722,
+            "average": 12448,
+            "streams": 30
+        },
+        "07": {
+            "median": 9710,
+            "average": 10756,
+            "streams": 22
+        },
+        "08": {
+            "median": 9577,
+            "average": 10392,
+            "streams": 21
+        },
+        "09": {
+            "median": 9206,
+            "average": 8670,
+            "streams": 18
+        },
+        "10": {
+            "median": 8092,
+            "average": 8362,
+            "streams": 19
+        },
+        "11": {
+            "median": 4547,
+            "average": 4547,
+            "streams": 1
+        },
+        "12": {
+            "median": 9326,
+            "average": 11802,
+            "streams": 23
+        }
+    }
+}

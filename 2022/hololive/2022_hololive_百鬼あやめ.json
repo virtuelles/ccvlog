@@ -1,0 +1,66 @@
+{
+    "Name": "百鬼あやめ",
+    "Group": "hololive",
+    "data": {
+        "01": {
+            "median": 8532,
+            "average": 12285,
+            "streams": 3
+        },
+        "02": {
+            "median": 18651,
+            "average": 20097,
+            "streams": 4
+        },
+        "03": {
+            "median": 17779,
+            "average": 17779,
+            "streams": 2
+        },
+        "04": {
+            "median": 14708,
+            "average": 14708,
+            "streams": 1
+        },
+        "05": {
+            "median": 35162,
+            "average": 35162,
+            "streams": 2
+        },
+        "06": {
+            "median": 19045,
+            "average": 18776,
+            "streams": 3
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": 24860,
+            "average": 39489,
+            "streams": 7
+        },
+        "10": {
+            "median": 16871,
+            "average": 16871,
+            "streams": 2
+        },
+        "11": {
+            "median": 17911,
+            "average": 17244,
+            "streams": 5
+        },
+        "12": {
+            "median": 21125,
+            "average": 30580,
+            "streams": 7
+        }
+    }
+}
