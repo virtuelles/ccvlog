@@ -3,31 +3,61 @@
     "Group": "nijisanjiEN",
     "data": {
         "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
             "median": 12683,
             "average": 22830,
             "streams": 7
         },
-        "02": {
+        "08": {
             "median": 3660,
             "average": 4845,
             "streams": 22
         },
-        "03": {
+        "09": {
             "median": 2430,
             "average": 2952,
             "streams": 24
         },
-        "04": {
+        "10": {
             "median": 1913,
             "average": 3598,
             "streams": 19
         },
-        "05": {
+        "11": {
             "median": 1702,
             "average": 2769,
             "streams": 15
         },
-        "06": {
+        "12": {
             "median": 1750,
             "average": 2636,
             "streams": 14

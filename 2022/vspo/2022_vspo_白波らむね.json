@@ -3,26 +3,61 @@
     "Group": "vspo",
     "data": {
         "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
             "median": 5641,
             "average": 11164,
             "streams": 9
         },
-        "02": {
+        "09": {
             "median": 2926,
             "average": 3330,
             "streams": 41
         },
-        "03": {
+        "10": {
             "median": 2831,
             "average": 2858,
             "streams": 34
         },
-        "04": {
+        "11": {
             "median": 1893,
             "average": 2018,
             "streams": 27
         },
-        "05": {
+        "12": {
             "median": 2051,
             "average": 2337,
             "streams": 30

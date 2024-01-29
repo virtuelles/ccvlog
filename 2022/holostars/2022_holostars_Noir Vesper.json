@@ -3,31 +3,61 @@
     "Group": "holostars",
     "data": {
         "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
             "median": 7664,
             "average": 10715,
             "streams": 10
         },
-        "02": {
+        "08": {
             "median": 5384,
             "average": 5593,
             "streams": 39
         },
-        "03": {
+        "09": {
             "median": 4156,
             "average": 4668,
             "streams": 27
         },
-        "04": {
+        "10": {
             "median": 3596,
             "average": 3703,
             "streams": 21
         },
-        "05": {
+        "11": {
             "median": 2686,
             "average": 3629,
             "streams": 9
         },
-        "06": {
+        "12": {
             "median": 3719,
             "average": 4382,
             "streams": 10

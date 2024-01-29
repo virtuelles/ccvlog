@@ -30,7 +30,7 @@
         "06": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "07": {
             "median": null,
@@ -53,6 +53,11 @@
             "streams": 0
         },
         "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
             "median": null,
             "average": null,
             "streams": 0

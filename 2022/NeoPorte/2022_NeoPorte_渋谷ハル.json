@@ -3,46 +3,61 @@
     "Group": "NeoPorte",
     "data": {
         "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
             "median": 9798,
             "average": 19083,
             "streams": 31
         },
-        "02": {
+        "05": {
             "median": 9917,
             "average": 10564,
             "streams": 61
         },
-        "03": {
+        "06": {
             "median": 7395,
             "average": 7568,
             "streams": 69
         },
-        "04": {
+        "07": {
             "median": 5733,
             "average": 6697,
             "streams": 61
         },
-        "05": {
+        "08": {
             "median": 4366,
             "average": 6519,
             "streams": 67
         },
-        "06": {
+        "09": {
             "median": 5997,
             "average": 6603,
             "streams": 65
         },
-        "07": {
+        "10": {
             "median": 3177,
             "average": 3835,
             "streams": 68
         },
-        "08": {
+        "11": {
             "median": 4102,
             "average": 5209,
             "streams": 50
         },
-        "09": {
+        "12": {
             "median": 4591,
             "average": 4979,
             "streams": 51

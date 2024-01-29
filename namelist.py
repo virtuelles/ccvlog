@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # 讀取Excel檔案
-file_name = input("請輸入檔名和路徑(e.g.:2022/NeoPorte/2022_NeoPorte)：")
+file_name = input("請輸入檔名和路徑(e.g.:2022//2022_)：")
 df = pd.read_excel(file_name+'.xlsx', sheet_name=11)
 
 # 獲取第一行的名稱並轉換為列表

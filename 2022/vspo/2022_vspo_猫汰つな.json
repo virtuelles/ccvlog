@@ -3,36 +3,61 @@
     "Group": "vspo",
     "data": {
         "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
             "median": 26461,
             "average": 36281,
             "streams": 5
         },
-        "02": {
+        "07": {
             "median": 5338,
             "average": 5879,
             "streams": 20
         },
-        "03": {
+        "08": {
             "median": 4952,
             "average": 5160,
             "streams": 22
         },
-        "04": {
+        "09": {
             "median": 4496,
             "average": 4509,
             "streams": 25
         },
-        "05": {
+        "10": {
             "median": 4326,
             "average": 4702,
             "streams": 21
         },
-        "06": {
+        "11": {
             "median": 3000,
             "average": 3497,
             "streams": 22
         },
-        "07": {
+        "12": {
             "median": 4409,
             "average": 4698,
             "streams": 25
