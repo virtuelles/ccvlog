@@ -90,31 +90,31 @@ async function main() {
 
                     // 使用 switch 語句來根據數值範圍設定背景顏色
                     switch (true) {
-                        case dataValue >= 0 && dataValue <= 500:
+                        case dataValue >= 0 && dataValue <= 499:
                             dataCell.style.backgroundColor = '#d0cece';
                             break;
-                        case dataValue >= 501 && dataValue <= 1000:
+                        case dataValue >= 500 && dataValue <= 999:
                             dataCell.style.backgroundColor = '#d9e1f2';
                             break;
-                        case dataValue >= 1001 && dataValue <= 5000:
+                        case dataValue >= 1000 && dataValue <= 4999:
                             dataCell.style.backgroundColor = '#ddebf7';
                             break;
-                        case dataValue >= 5001 && dataValue <= 10000:
+                        case dataValue >= 5000 && dataValue <= 9999:
                             dataCell.style.backgroundColor = '#e2efda';
                             break;
-                        case dataValue >= 10001 && dataValue <= 20000:
+                        case dataValue >= 10000 && dataValue <= 19999:
                             dataCell.style.backgroundColor = '#c6e0b4';
                             break;
-                        case dataValue >= 20001 && dataValue <= 30000:
+                        case dataValue >= 20000 && dataValue <= 29999:
                             dataCell.style.backgroundColor = '#fff2cc';
                             break;
-                        case dataValue >= 30001 && dataValue <= 40000:
+                        case dataValue >= 30000 && dataValue <= 39999:
                             dataCell.style.backgroundColor = '#fce4d6';
                             break;
-                        case dataValue >= 40001 && dataValue <= 50000:
+                        case dataValue >= 40000 && dataValue <= 49999:
                             dataCell.style.backgroundColor = '#f8cbad';
                             break;
-                        case dataValue >= 50001:
+                        case dataValue >= 50000:
                             dataCell.style.backgroundColor = '#f4b084';
                             break;
                         default:
