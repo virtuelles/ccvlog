@@ -1,6 +1,6 @@
 const config = {
     year: "2023", // 可以是 "2022" 或 "2023"
-    dataType: "hololiveEN", // 可以是 "hololive"、"holostars"、"vspo" 等
+    dataType: "nijisanjiJP", // 可以是 "hololive"、"holostars"、"vspo" 等
 };
 
 // 在這裡初始化 title、nameListUrl 和 jsonDataUrl
