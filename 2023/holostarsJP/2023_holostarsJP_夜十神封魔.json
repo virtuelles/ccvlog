@@ -1,0 +1,66 @@
+{
+    "Name": "夜十神封魔",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 469,
+            "average": 734,
+            "streams": 19
+        },
+        "02": {
+            "median": 332,
+            "average": 425,
+            "streams": 18
+        },
+        "03": {
+            "median": 401,
+            "average": 637,
+            "streams": 12
+        },
+        "04": {
+            "median": 447,
+            "average": 608,
+            "streams": 13
+        },
+        "05": {
+            "median": 386,
+            "average": 471,
+            "streams": 18
+        },
+        "06": {
+            "median": 299,
+            "average": 341,
+            "streams": 19
+        },
+        "07": {
+            "median": 320,
+            "average": 482,
+            "streams": 18
+        },
+        "08": {
+            "median": 320,
+            "average": 338,
+            "streams": 15
+        },
+        "09": {
+            "median": 299,
+            "average": 564,
+            "streams": 17
+        },
+        "10": {
+            "median": 316,
+            "average": 420,
+            "streams": 15
+        },
+        "11": {
+            "median": 411,
+            "average": 861,
+            "streams": 13
+        },
+        "12": {
+            "median": 480,
+            "average": 696,
+            "streams": 12
+        }
+    }
+}

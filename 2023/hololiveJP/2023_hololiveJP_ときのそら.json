@@ -1,0 +1,66 @@
+{
+    "Name": "ときのそら",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 5444,
+            "average": 6749,
+            "streams": 24
+        },
+        "02": {
+            "median": 5488,
+            "average": 7524,
+            "streams": 17
+        },
+        "03": {
+            "median": 5447,
+            "average": 5578,
+            "streams": 21
+        },
+        "04": {
+            "median": 5640,
+            "average": 6473,
+            "streams": 22
+        },
+        "05": {
+            "median": 5611,
+            "average": 8072,
+            "streams": 28
+        },
+        "06": {
+            "median": 5310,
+            "average": 5593,
+            "streams": 18
+        },
+        "07": {
+            "median": 5135,
+            "average": 7163,
+            "streams": 23
+        },
+        "08": {
+            "median": 6070,
+            "average": 7430,
+            "streams": 28
+        },
+        "09": {
+            "median": 8256,
+            "average": 10107,
+            "streams": 20
+        },
+        "10": {
+            "median": 5725,
+            "average": 6273,
+            "streams": 22
+        },
+        "11": {
+            "median": 5149,
+            "average": 6099,
+            "streams": 19
+        },
+        "12": {
+            "median": 5756,
+            "average": 7458,
+            "streams": 23
+        }
+    }
+}

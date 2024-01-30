@@ -1,0 +1,66 @@
+{
+    "Name": "Fulgur Ovid",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2778,
+            "average": 2998,
+            "streams": 21
+        },
+        "02": {
+            "median": 2552,
+            "average": 4565,
+            "streams": 5
+        },
+        "03": {
+            "median": 2674,
+            "average": 3519,
+            "streams": 20
+        },
+        "04": {
+            "median": 2268,
+            "average": 2826,
+            "streams": 20
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "06": {
+            "median": 2357,
+            "average": 4161,
+            "streams": 23
+        },
+        "07": {
+            "median": 2901,
+            "average": 3524,
+            "streams": 14
+        },
+        "08": {
+            "median": 1860,
+            "average": 1872,
+            "streams": 21
+        },
+        "09": {
+            "median": 1857,
+            "average": 1882,
+            "streams": 21
+        },
+        "10": {
+            "median": 2303,
+            "average": 2387,
+            "streams": 31
+        },
+        "11": {
+            "median": 3871,
+            "average": 5085,
+            "streams": 5
+        },
+        "12": {
+            "median": 2441,
+            "average": 2849,
+            "streams": 9
+        }
+    }
+}

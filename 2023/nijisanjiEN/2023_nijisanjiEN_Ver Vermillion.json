@@ -1,0 +1,66 @@
+{
+    "Name": "Ver Vermillion",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1588,
+            "average": 1777,
+            "streams": 24
+        },
+        "02": {
+            "median": 1263,
+            "average": 1700,
+            "streams": 16
+        },
+        "03": {
+            "median": 1102,
+            "average": 1630,
+            "streams": 16
+        },
+        "04": {
+            "median": 817,
+            "average": 1208,
+            "streams": 23
+        },
+        "05": {
+            "median": 812,
+            "average": 917,
+            "streams": 9
+        },
+        "06": {
+            "median": 923,
+            "average": 1277,
+            "streams": 18
+        },
+        "07": {
+            "median": 775,
+            "average": 1237,
+            "streams": 14
+        },
+        "08": {
+            "median": 896,
+            "average": 1202,
+            "streams": 18
+        },
+        "09": {
+            "median": 913,
+            "average": 962,
+            "streams": 14
+        },
+        "10": {
+            "median": 881,
+            "average": 1136,
+            "streams": 24
+        },
+        "11": {
+            "median": 910,
+            "average": 920,
+            "streams": 13
+        },
+        "12": {
+            "median": 890,
+            "average": 1126,
+            "streams": 10
+        }
+    }
+}

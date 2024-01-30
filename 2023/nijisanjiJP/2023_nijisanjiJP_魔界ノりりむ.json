@@ -1,0 +1,66 @@
+{
+    "Name": "魔界ノりりむ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3555,
+            "average": 4955,
+            "streams": 17
+        },
+        "02": {
+            "median": 2880,
+            "average": 3099,
+            "streams": 20
+        },
+        "03": {
+            "median": 2276,
+            "average": 2464,
+            "streams": 25
+        },
+        "04": {
+            "median": 2145,
+            "average": 4083,
+            "streams": 29
+        },
+        "05": {
+            "median": 2382,
+            "average": 2548,
+            "streams": 24
+        },
+        "06": {
+            "median": 2888,
+            "average": 2806,
+            "streams": 19
+        },
+        "07": {
+            "median": 4255,
+            "average": 5944,
+            "streams": 21
+        },
+        "08": {
+            "median": 2680,
+            "average": 3060,
+            "streams": 15
+        },
+        "09": {
+            "median": 2817,
+            "average": 2922,
+            "streams": 12
+        },
+        "10": {
+            "median": 2959,
+            "average": 3610,
+            "streams": 13
+        },
+        "11": {
+            "median": 2525,
+            "average": 2284,
+            "streams": 5
+        },
+        "12": {
+            "median": 3100,
+            "average": 3174,
+            "streams": 18
+        }
+    }
+}

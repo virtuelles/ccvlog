@@ -1,0 +1,66 @@
+{
+    "Name": "Kunai Nakasato",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "10": {
+            "median": 1261,
+            "average": 5531,
+            "streams": 5
+        },
+        "11": {
+            "median": 641,
+            "average": 878,
+            "streams": 32
+        },
+        "12": {
+            "median": 688,
+            "average": 942,
+            "streams": 23
+        }
+    }
+}

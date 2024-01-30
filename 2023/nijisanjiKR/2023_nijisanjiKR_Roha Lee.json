@@ -1,0 +1,66 @@
+{
+    "Name": "Roha Lee",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "05": {
+            "median": 241,
+            "average": 680,
+            "streams": 18
+        },
+        "06": {
+            "median": 172,
+            "average": 175,
+            "streams": 16
+        },
+        "07": {
+            "median": 193,
+            "average": 193,
+            "streams": 20
+        },
+        "08": {
+            "median": 174,
+            "average": 191,
+            "streams": 22
+        },
+        "09": {
+            "median": 174,
+            "average": 322,
+            "streams": 9
+        },
+        "10": {
+            "median": 120,
+            "average": 127,
+            "streams": 13
+        },
+        "11": {
+            "median": 111,
+            "average": 111,
+            "streams": 2
+        },
+        "12": {
+            "median": 148,
+            "average": 157,
+            "streams": 17
+        }
+    }
+}

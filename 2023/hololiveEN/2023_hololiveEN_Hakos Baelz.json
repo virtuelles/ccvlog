@@ -1,0 +1,66 @@
+{
+    "Name": "Hakos Baelz",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 5352,
+            "average": 7029,
+            "streams": 26
+        },
+        "03": {
+            "median": 4957,
+            "average": 5366,
+            "streams": 21
+        },
+        "04": {
+            "median": 6864,
+            "average": 7766,
+            "streams": 20
+        },
+        "05": {
+            "median": 5142,
+            "average": 5741,
+            "streams": 20
+        },
+        "06": {
+            "median": 4681,
+            "average": 5039,
+            "streams": 13
+        },
+        "07": {
+            "median": 5724,
+            "average": 7532,
+            "streams": 20
+        },
+        "08": {
+            "median": 5970,
+            "average": 7307,
+            "streams": 21
+        },
+        "09": {
+            "median": 5272,
+            "average": 5998,
+            "streams": 14
+        },
+        "10": {
+            "median": 6201,
+            "average": 8805,
+            "streams": 22
+        },
+        "11": {
+            "median": 5107,
+            "average": 6298,
+            "streams": 15
+        },
+        "12": {
+            "median": 7295,
+            "average": 8700,
+            "streams": 30
+        }
+    }
+}

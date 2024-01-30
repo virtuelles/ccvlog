@@ -1,0 +1,66 @@
+{
+    "Name": "英リサ",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 3603,
+            "average": 4527,
+            "streams": 21
+        },
+        "02": {
+            "median": 3218,
+            "average": 3330,
+            "streams": 33
+        },
+        "03": {
+            "median": 2977,
+            "average": 4064,
+            "streams": 35
+        },
+        "04": {
+            "median": 2910,
+            "average": 3114,
+            "streams": 35
+        },
+        "05": {
+            "median": 2934,
+            "average": 6116,
+            "streams": 36
+        },
+        "06": {
+            "median": 4350,
+            "average": 4396,
+            "streams": 29
+        },
+        "07": {
+            "median": 1966,
+            "average": 2333,
+            "streams": 22
+        },
+        "08": {
+            "median": 3742,
+            "average": 3927,
+            "streams": 19
+        },
+        "09": {
+            "median": 2526,
+            "average": 2647,
+            "streams": 25
+        },
+        "10": {
+            "median": 2177,
+            "average": 2228,
+            "streams": 25
+        },
+        "11": {
+            "median": 2491,
+            "average": 2485,
+            "streams": 22
+        },
+        "12": {
+            "median": 2858,
+            "average": 4650,
+            "streams": 16
+        }
+    }
+}

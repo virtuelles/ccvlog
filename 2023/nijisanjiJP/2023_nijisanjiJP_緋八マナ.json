@@ -1,0 +1,66 @@
+{
+    "Name": "緋八マナ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 2347,
+            "average": 4602,
+            "streams": 25
+        },
+        "05": {
+            "median": 1419,
+            "average": 2296,
+            "streams": 20
+        },
+        "06": {
+            "median": 1035,
+            "average": 1776,
+            "streams": 20
+        },
+        "07": {
+            "median": 992,
+            "average": 1158,
+            "streams": 18
+        },
+        "08": {
+            "median": 1378,
+            "average": 1387,
+            "streams": 22
+        },
+        "09": {
+            "median": 1346,
+            "average": 2990,
+            "streams": 23
+        },
+        "10": {
+            "median": 1160,
+            "average": 1558,
+            "streams": 27
+        },
+        "11": {
+            "median": 1162,
+            "average": 1348,
+            "streams": 20
+        },
+        "12": {
+            "median": 1398,
+            "average": 2033,
+            "streams": 18
+        }
+    }
+}

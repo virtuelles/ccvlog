@@ -1,0 +1,66 @@
+{
+    "Name": "竜胆尊",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1626,
+            "average": 3540,
+            "streams": 9
+        },
+        "02": {
+            "median": 1377,
+            "average": 1825,
+            "streams": 4
+        },
+        "03": {
+            "median": 4075,
+            "average": 4075,
+            "streams": 2
+        },
+        "04": {
+            "median": 1577,
+            "average": 2409,
+            "streams": 10
+        },
+        "05": {
+            "median": 2667,
+            "average": 2695,
+            "streams": 4
+        },
+        "06": {
+            "median": 2028,
+            "average": 2542,
+            "streams": 9
+        },
+        "07": {
+            "median": 1817,
+            "average": 1769,
+            "streams": 3
+        },
+        "08": {
+            "median": 3867,
+            "average": 3851,
+            "streams": 6
+        },
+        "09": {
+            "median": 10354,
+            "average": 10354,
+            "streams": 2
+        },
+        "10": {
+            "median": 2511,
+            "average": 2537,
+            "streams": 8
+        },
+        "11": {
+            "median": 1760,
+            "average": 2333,
+            "streams": 8
+        },
+        "12": {
+            "median": 1364,
+            "average": 1716,
+            "streams": 5
+        }
+    }
+}

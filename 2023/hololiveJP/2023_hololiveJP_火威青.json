@@ -1,0 +1,66 @@
+{
+    "Name": "火威青",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": 6390,
+            "average": 13764,
+            "streams": 17
+        },
+        "10": {
+            "median": 4799,
+            "average": 5774,
+            "streams": 26
+        },
+        "11": {
+            "median": 4471,
+            "average": 4905,
+            "streams": 19
+        },
+        "12": {
+            "median": 4995,
+            "average": 5783,
+            "streams": 42
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Aia Amare",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 912,
+            "average": 1365,
+            "streams": 28
+        },
+        "02": {
+            "median": 878,
+            "average": 1054,
+            "streams": 21
+        },
+        "03": {
+            "median": 690,
+            "average": 698,
+            "streams": 26
+        },
+        "04": {
+            "median": 562,
+            "average": 896,
+            "streams": 22
+        },
+        "05": {
+            "median": 493,
+            "average": 743,
+            "streams": 20
+        },
+        "06": {
+            "median": 735,
+            "average": 718,
+            "streams": 21
+        },
+        "07": {
+            "median": 991,
+            "average": 1422,
+            "streams": 20
+        },
+        "08": {
+            "median": 691,
+            "average": 830,
+            "streams": 23
+        },
+        "09": {
+            "median": 584,
+            "average": 753,
+            "streams": 19
+        },
+        "10": {
+            "median": 551,
+            "average": 642,
+            "streams": 15
+        },
+        "11": {
+            "median": 697,
+            "average": 1380,
+            "streams": 20
+        },
+        "12": {
+            "median": 655,
+            "average": 851,
+            "streams": 23
+        }
+    }
+}

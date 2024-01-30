@@ -1,0 +1,66 @@
+{
+    "Name": "夕刻ロベル",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 2397,
+            "average": 2656,
+            "streams": 25
+        },
+        "02": {
+            "median": 1799,
+            "average": 2390,
+            "streams": 17
+        },
+        "03": {
+            "median": 1928,
+            "average": 2228,
+            "streams": 13
+        },
+        "04": {
+            "median": 2414,
+            "average": 3242,
+            "streams": 18
+        },
+        "05": {
+            "median": 2065,
+            "average": 2297,
+            "streams": 11
+        },
+        "06": {
+            "median": 2097,
+            "average": 2458,
+            "streams": 22
+        },
+        "07": {
+            "median": 2019,
+            "average": 2187,
+            "streams": 16
+        },
+        "08": {
+            "median": 2089,
+            "average": 3127,
+            "streams": 18
+        },
+        "09": {
+            "median": 1761,
+            "average": 2129,
+            "streams": 18
+        },
+        "10": {
+            "median": 1841,
+            "average": 2028,
+            "streams": 20
+        },
+        "11": {
+            "median": 1590,
+            "average": 1864,
+            "streams": 17
+        },
+        "12": {
+            "median": 3055,
+            "average": 3325,
+            "streams": 34
+        }
+    }
+}

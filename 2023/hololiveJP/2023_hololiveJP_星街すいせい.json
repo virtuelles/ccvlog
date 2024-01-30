@@ -1,0 +1,66 @@
+{
+    "Name": "星街すいせい",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 34519,
+            "average": 39087,
+            "streams": 11
+        },
+        "02": {
+            "median": 32285,
+            "average": 32285,
+            "streams": 2
+        },
+        "03": {
+            "median": 23340,
+            "average": 39406,
+            "streams": 10
+        },
+        "04": {
+            "median": 27367,
+            "average": 33548,
+            "streams": 5
+        },
+        "05": {
+            "median": 26140,
+            "average": 25969,
+            "streams": 8
+        },
+        "06": {
+            "median": 30108,
+            "average": 31971,
+            "streams": 6
+        },
+        "07": {
+            "median": 25440,
+            "average": 26080,
+            "streams": 6
+        },
+        "08": {
+            "median": 27138,
+            "average": 26646,
+            "streams": 7
+        },
+        "09": {
+            "median": 37138,
+            "average": 40206,
+            "streams": 8
+        },
+        "10": {
+            "median": 30002,
+            "average": 31983,
+            "streams": 8
+        },
+        "11": {
+            "median": 24670,
+            "average": 23391,
+            "streams": 4
+        },
+        "12": {
+            "median": 16771,
+            "average": 22044,
+            "streams": 16
+        }
+    }
+}

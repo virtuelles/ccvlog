@@ -1,0 +1,66 @@
+{
+    "Name": "常闇トワ",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 13907,
+            "average": 22732,
+            "streams": 21
+        },
+        "02": {
+            "median": 11697,
+            "average": 11786,
+            "streams": 22
+        },
+        "03": {
+            "median": 10808,
+            "average": 11946,
+            "streams": 20
+        },
+        "04": {
+            "median": 9875,
+            "average": 10399,
+            "streams": 32
+        },
+        "05": {
+            "median": 9456,
+            "average": 15703,
+            "streams": 19
+        },
+        "06": {
+            "median": 7636,
+            "average": 8428,
+            "streams": 17
+        },
+        "07": {
+            "median": 8956,
+            "average": 15688,
+            "streams": 25
+        },
+        "08": {
+            "median": 10215,
+            "average": 11877,
+            "streams": 18
+        },
+        "09": {
+            "median": 12631,
+            "average": 12889,
+            "streams": 8
+        },
+        "10": {
+            "median": 8456,
+            "average": 11678,
+            "streams": 15
+        },
+        "11": {
+            "median": 9238,
+            "average": 10554,
+            "streams": 18
+        },
+        "12": {
+            "median": 8535,
+            "average": 12321,
+            "streams": 19
+        }
+    }
+}

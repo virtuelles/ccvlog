@@ -1,0 +1,66 @@
+{
+    "Name": "Vestia Zeta",
+    "Group": "hololiveID",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 3235,
+            "average": 5728,
+            "streams": 12
+        },
+        "03": {
+            "median": 2329,
+            "average": 2942,
+            "streams": 20
+        },
+        "04": {
+            "median": 2370,
+            "average": 2719,
+            "streams": 19
+        },
+        "05": {
+            "median": 1952,
+            "average": 2662,
+            "streams": 19
+        },
+        "06": {
+            "median": 2036,
+            "average": 2057,
+            "streams": 18
+        },
+        "07": {
+            "median": 2027,
+            "average": 2082,
+            "streams": 23
+        },
+        "08": {
+            "median": 2738,
+            "average": 4934,
+            "streams": 19
+        },
+        "09": {
+            "median": 2184,
+            "average": 2342,
+            "streams": 10
+        },
+        "10": {
+            "median": 2419,
+            "average": 8043,
+            "streams": 10
+        },
+        "11": {
+            "median": 2170,
+            "average": 2741,
+            "streams": 16
+        },
+        "12": {
+            "median": 2601,
+            "average": 2598,
+            "streams": 10
+        }
+    }
+}

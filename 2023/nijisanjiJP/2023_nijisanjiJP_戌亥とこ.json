@@ -1,0 +1,66 @@
+{
+    "Name": "戌亥とこ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 11136,
+            "average": 10674,
+            "streams": 7
+        },
+        "02": {
+            "median": 8650,
+            "average": 9873,
+            "streams": 12
+        },
+        "03": {
+            "median": 8838,
+            "average": 9125,
+            "streams": 9
+        },
+        "04": {
+            "median": 9041,
+            "average": 8758,
+            "streams": 11
+        },
+        "05": {
+            "median": 6998,
+            "average": 7230,
+            "streams": 11
+        },
+        "06": {
+            "median": 6919,
+            "average": 6639,
+            "streams": 9
+        },
+        "07": {
+            "median": 6415,
+            "average": 8376,
+            "streams": 11
+        },
+        "08": {
+            "median": 6782,
+            "average": 7268,
+            "streams": 8
+        },
+        "09": {
+            "median": 8739,
+            "average": 9782,
+            "streams": 10
+        },
+        "10": {
+            "median": 8649,
+            "average": 9755,
+            "streams": 5
+        },
+        "11": {
+            "median": 11045,
+            "average": 10492,
+            "streams": 3
+        },
+        "12": {
+            "median": 9493,
+            "average": 8607,
+            "streams": 5
+        }
+    }
+}

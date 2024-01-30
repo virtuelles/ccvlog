@@ -1,0 +1,66 @@
+{
+    "Name": "白波らむね",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 2882,
+            "average": 2794,
+            "streams": 22
+        },
+        "02": {
+            "median": 2411,
+            "average": 2560,
+            "streams": 18
+        },
+        "03": {
+            "median": 2201,
+            "average": 2502,
+            "streams": 25
+        },
+        "04": {
+            "median": 1985,
+            "average": 2041,
+            "streams": 23
+        },
+        "05": {
+            "median": 1957,
+            "average": 2551,
+            "streams": 23
+        },
+        "06": {
+            "median": 2343,
+            "average": 3513,
+            "streams": 20
+        },
+        "07": {
+            "median": 2119,
+            "average": 2665,
+            "streams": 20
+        },
+        "08": {
+            "median": 2093,
+            "average": 2241,
+            "streams": 19
+        },
+        "09": {
+            "median": 1735,
+            "average": 2025,
+            "streams": 15
+        },
+        "10": {
+            "median": 1847,
+            "average": 5456,
+            "streams": 10
+        },
+        "11": {
+            "median": 1658,
+            "average": 1875,
+            "streams": 10
+        },
+        "12": {
+            "median": 1685,
+            "average": 1472,
+            "streams": 7
+        }
+    }
+}

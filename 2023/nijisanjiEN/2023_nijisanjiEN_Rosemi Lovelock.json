@@ -1,0 +1,66 @@
+{
+    "Name": "Rosemi Lovelock",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2287,
+            "average": 2448,
+            "streams": 17
+        },
+        "02": {
+            "median": 2029,
+            "average": 2459,
+            "streams": 11
+        },
+        "03": {
+            "median": 1970,
+            "average": 2208,
+            "streams": 18
+        },
+        "04": {
+            "median": 1766,
+            "average": 1900,
+            "streams": 17
+        },
+        "05": {
+            "median": 1561,
+            "average": 1476,
+            "streams": 14
+        },
+        "06": {
+            "median": 1684,
+            "average": 1978,
+            "streams": 17
+        },
+        "07": {
+            "median": 1583,
+            "average": 2125,
+            "streams": 20
+        },
+        "08": {
+            "median": 1329,
+            "average": 1987,
+            "streams": 18
+        },
+        "09": {
+            "median": 1652,
+            "average": 2121,
+            "streams": 20
+        },
+        "10": {
+            "median": 1828,
+            "average": 1691,
+            "streams": 11
+        },
+        "11": {
+            "median": 1570,
+            "average": 1664,
+            "streams": 14
+        },
+        "12": {
+            "median": 1618,
+            "average": 1735,
+            "streams": 10
+        }
+    }
+}

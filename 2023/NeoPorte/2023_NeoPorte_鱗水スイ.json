@@ -1,0 +1,66 @@
+{
+    "Name": "鱗水スイ",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 145,
+            "average": 163,
+            "streams": 23
+        },
+        "02": {
+            "median": 87,
+            "average": 115,
+            "streams": 25
+        },
+        "03": {
+            "median": 71,
+            "average": 83,
+            "streams": 27
+        },
+        "04": {
+            "median": 65,
+            "average": 73,
+            "streams": 21
+        },
+        "05": {
+            "median": 70,
+            "average": 87,
+            "streams": 22
+        },
+        "06": {
+            "median": 70,
+            "average": 79,
+            "streams": 18
+        },
+        "07": {
+            "median": 55,
+            "average": 69,
+            "streams": 14
+        },
+        "08": {
+            "median": 65,
+            "average": 69,
+            "streams": 9
+        },
+        "09": {
+            "median": 71,
+            "average": 67,
+            "streams": 12
+        },
+        "10": {
+            "median": 60,
+            "average": 66,
+            "streams": 8
+        },
+        "11": {
+            "median": 63,
+            "average": 60,
+            "streams": 7
+        },
+        "12": {
+            "median": 54,
+            "average": 63,
+            "streams": 10
+        }
+    }
+}

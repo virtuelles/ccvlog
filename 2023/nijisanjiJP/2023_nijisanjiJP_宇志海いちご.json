@@ -1,0 +1,66 @@
+{
+    "Name": "宇志海いちご",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 272,
+            "average": 339,
+            "streams": 22
+        },
+        "02": {
+            "median": 211,
+            "average": 238,
+            "streams": 15
+        },
+        "03": {
+            "median": 229,
+            "average": 266,
+            "streams": 19
+        },
+        "04": {
+            "median": 331,
+            "average": 751,
+            "streams": 17
+        },
+        "05": {
+            "median": 287,
+            "average": 305,
+            "streams": 13
+        },
+        "06": {
+            "median": 285,
+            "average": 287,
+            "streams": 7
+        },
+        "07": {
+            "median": 696,
+            "average": 696,
+            "streams": 2
+        },
+        "08": {
+            "median": 477,
+            "average": 477,
+            "streams": 1
+        },
+        "09": {
+            "median": 864,
+            "average": 864,
+            "streams": 1
+        },
+        "10": {
+            "median": 456,
+            "average": 490,
+            "streams": 3
+        },
+        "11": {
+            "median": 584,
+            "average": 584,
+            "streams": 1
+        },
+        "12": {
+            "median": 683,
+            "average": 683,
+            "streams": 1
+        }
+    }
+}

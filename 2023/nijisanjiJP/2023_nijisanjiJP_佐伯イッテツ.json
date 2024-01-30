@@ -1,0 +1,66 @@
+{
+    "Name": "佐伯イッテツ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 2043,
+            "average": 4575,
+            "streams": 24
+        },
+        "05": {
+            "median": 2333,
+            "average": 2701,
+            "streams": 20
+        },
+        "06": {
+            "median": 1799,
+            "average": 1982,
+            "streams": 23
+        },
+        "07": {
+            "median": 1827,
+            "average": 2084,
+            "streams": 25
+        },
+        "08": {
+            "median": 2105,
+            "average": 2293,
+            "streams": 28
+        },
+        "09": {
+            "median": 1326,
+            "average": 1482,
+            "streams": 28
+        },
+        "10": {
+            "median": 1684,
+            "average": 2004,
+            "streams": 20
+        },
+        "11": {
+            "median": 1800,
+            "average": 1815,
+            "streams": 13
+        },
+        "12": {
+            "median": 2195,
+            "average": 2574,
+            "streams": 23
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Yu Q. Wilson",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": 3829,
+            "average": 10123,
+            "streams": 6
+        },
+        "07": {
+            "median": 1621,
+            "average": 1780,
+            "streams": 25
+        },
+        "08": {
+            "median": 1086,
+            "average": 1258,
+            "streams": 20
+        },
+        "09": {
+            "median": 1113,
+            "average": 1306,
+            "streams": 26
+        },
+        "10": {
+            "median": 1164,
+            "average": 1326,
+            "streams": 24
+        },
+        "11": {
+            "median": 1030,
+            "average": 1278,
+            "streams": 17
+        },
+        "12": {
+            "median": 1574,
+            "average": 1969,
+            "streams": 6
+        }
+    }
+}

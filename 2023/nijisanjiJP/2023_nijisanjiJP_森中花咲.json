@@ -1,0 +1,66 @@
+{
+    "Name": "森中花咲",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1720,
+            "average": 1769,
+            "streams": 10
+        },
+        "02": {
+            "median": 2320,
+            "average": 2306,
+            "streams": 13
+        },
+        "03": {
+            "median": 2202,
+            "average": 4036,
+            "streams": 15
+        },
+        "04": {
+            "median": 775,
+            "average": 979,
+            "streams": 14
+        },
+        "05": {
+            "median": 666,
+            "average": 2464,
+            "streams": 22
+        },
+        "06": {
+            "median": 453,
+            "average": 1300,
+            "streams": 10
+        },
+        "07": {
+            "median": 2313,
+            "average": 4339,
+            "streams": 6
+        },
+        "08": {
+            "median": 328,
+            "average": 478,
+            "streams": 5
+        },
+        "09": {
+            "median": 767,
+            "average": 767,
+            "streams": 1
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": 1189,
+            "average": 1197,
+            "streams": 4
+        },
+        "12": {
+            "median": 956,
+            "average": 1091,
+            "streams": 7
+        }
+    }
+}

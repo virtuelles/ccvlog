@@ -1,0 +1,66 @@
+{
+    "Name": "絲依とい",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 407,
+            "average": 466,
+            "streams": 26
+        },
+        "02": {
+            "median": 558,
+            "average": 494,
+            "streams": 26
+        },
+        "03": {
+            "median": 517,
+            "average": 564,
+            "streams": 28
+        },
+        "04": {
+            "median": 748,
+            "average": 726,
+            "streams": 33
+        },
+        "05": {
+            "median": 705,
+            "average": 765,
+            "streams": 32
+        },
+        "06": {
+            "median": 512,
+            "average": 523,
+            "streams": 31
+        },
+        "07": {
+            "median": 537,
+            "average": 572,
+            "streams": 28
+        },
+        "08": {
+            "median": 589,
+            "average": 706,
+            "streams": 23
+        },
+        "09": {
+            "median": 541,
+            "average": 611,
+            "streams": 28
+        },
+        "10": {
+            "median": 385,
+            "average": 419,
+            "streams": 27
+        },
+        "11": {
+            "median": 472,
+            "average": 615,
+            "streams": 24
+        },
+        "12": {
+            "median": 689,
+            "average": 1057,
+            "streams": 34
+        }
+    }
+}

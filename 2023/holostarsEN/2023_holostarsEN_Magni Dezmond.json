@@ -1,0 +1,66 @@
+{
+    "Name": "Magni Dezmond",
+    "Group": "holostarsEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 3142,
+            "average": 3176,
+            "streams": 24
+        },
+        "03": {
+            "median": 2405,
+            "average": 2352,
+            "streams": 21
+        },
+        "04": {
+            "median": 1752,
+            "average": 2172,
+            "streams": 18
+        },
+        "05": {
+            "median": 1395,
+            "average": 1448,
+            "streams": 13
+        },
+        "06": {
+            "median": 1762,
+            "average": 2366,
+            "streams": 17
+        },
+        "07": {
+            "median": 1863,
+            "average": 1863,
+            "streams": 2
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

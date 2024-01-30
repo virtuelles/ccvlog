@@ -1,0 +1,66 @@
+{
+    "Name": "Etna Crimson",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 126,
+            "average": 191,
+            "streams": 7
+        },
+        "02": {
+            "median": 94,
+            "average": 106,
+            "streams": 5
+        },
+        "03": {
+            "median": 137,
+            "average": 200,
+            "streams": 5
+        },
+        "04": {
+            "median": 261,
+            "average": 308,
+            "streams": 4
+        },
+        "05": {
+            "median": 132,
+            "average": 134,
+            "streams": 3
+        },
+        "06": {
+            "median": 94,
+            "average": 94,
+            "streams": 1
+        },
+        "07": {
+            "median": 141,
+            "average": 137,
+            "streams": 3
+        },
+        "08": {
+            "median": 243,
+            "average": 243,
+            "streams": 1
+        },
+        "09": {
+            "median": 111,
+            "average": 111,
+            "streams": 1
+        },
+        "10": {
+            "median": 167,
+            "average": 167,
+            "streams": 2
+        },
+        "11": {
+            "median": 221,
+            "average": 221,
+            "streams": 1
+        },
+        "12": {
+            "median": 114,
+            "average": 107,
+            "streams": 3
+        }
+    }
+}

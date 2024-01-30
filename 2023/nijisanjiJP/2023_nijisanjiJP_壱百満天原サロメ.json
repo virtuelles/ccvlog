@@ -1,0 +1,66 @@
+{
+    "Name": "壱百満天原サロメ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 13138,
+            "average": 13012,
+            "streams": 16
+        },
+        "02": {
+            "median": 10492,
+            "average": 11425,
+            "streams": 14
+        },
+        "03": {
+            "median": 13272,
+            "average": 12863,
+            "streams": 27
+        },
+        "04": {
+            "median": 11195,
+            "average": 14418,
+            "streams": 22
+        },
+        "05": {
+            "median": 9164,
+            "average": 10416,
+            "streams": 21
+        },
+        "06": {
+            "median": 6881,
+            "average": 7745,
+            "streams": 17
+        },
+        "07": {
+            "median": 6120,
+            "average": 8925,
+            "streams": 24
+        },
+        "08": {
+            "median": 11345,
+            "average": 24294,
+            "streams": 15
+        },
+        "09": {
+            "median": 8295,
+            "average": 10453,
+            "streams": 19
+        },
+        "10": {
+            "median": 7726,
+            "average": 9704,
+            "streams": 19
+        },
+        "11": {
+            "median": 9704,
+            "average": 10475,
+            "streams": 21
+        },
+        "12": {
+            "median": 6901,
+            "average": 8715,
+            "streams": 23
+        }
+    }
+}

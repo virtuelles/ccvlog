@@ -1,0 +1,66 @@
+{
+    "Name": "える",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4020,
+            "average": 5049,
+            "streams": 50
+        },
+        "02": {
+            "median": 4844,
+            "average": 4760,
+            "streams": 45
+        },
+        "03": {
+            "median": 4623,
+            "average": 4460,
+            "streams": 44
+        },
+        "04": {
+            "median": 2908,
+            "average": 3081,
+            "streams": 43
+        },
+        "05": {
+            "median": 3455,
+            "average": 4044,
+            "streams": 44
+        },
+        "06": {
+            "median": 3157,
+            "average": 3358,
+            "streams": 35
+        },
+        "07": {
+            "median": 2167,
+            "average": 2609,
+            "streams": 36
+        },
+        "08": {
+            "median": 2660,
+            "average": 2674,
+            "streams": 34
+        },
+        "09": {
+            "median": 2939,
+            "average": 2916,
+            "streams": 26
+        },
+        "10": {
+            "median": 2672,
+            "average": 2975,
+            "streams": 27
+        },
+        "11": {
+            "median": 2671,
+            "average": 3396,
+            "streams": 25
+        },
+        "12": {
+            "median": 2402,
+            "average": 3149,
+            "streams": 21
+        }
+    }
+}

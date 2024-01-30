@@ -1,0 +1,66 @@
+{
+    "Name": "静凛",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 767,
+            "average": 794,
+            "streams": 10
+        },
+        "02": {
+            "median": 1148,
+            "average": 1448,
+            "streams": 17
+        },
+        "03": {
+            "median": 749,
+            "average": 987,
+            "streams": 14
+        },
+        "04": {
+            "median": 713,
+            "average": 924,
+            "streams": 17
+        },
+        "05": {
+            "median": 700,
+            "average": 822,
+            "streams": 19
+        },
+        "06": {
+            "median": 601,
+            "average": 589,
+            "streams": 4
+        },
+        "07": {
+            "median": 665,
+            "average": 1723,
+            "streams": 12
+        },
+        "08": {
+            "median": 895,
+            "average": 1004,
+            "streams": 18
+        },
+        "09": {
+            "median": 800,
+            "average": 728,
+            "streams": 11
+        },
+        "10": {
+            "median": 505,
+            "average": 641,
+            "streams": 17
+        },
+        "11": {
+            "median": 538,
+            "average": 518,
+            "streams": 10
+        },
+        "12": {
+            "median": 852,
+            "average": 996,
+            "streams": 26
+        }
+    }
+}

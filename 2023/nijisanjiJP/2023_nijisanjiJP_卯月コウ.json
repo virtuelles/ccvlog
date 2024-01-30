@@ -1,0 +1,66 @@
+{
+    "Name": "卯月コウ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4768,
+            "average": 4805,
+            "streams": 13
+        },
+        "02": {
+            "median": 4105,
+            "average": 4584,
+            "streams": 12
+        },
+        "03": {
+            "median": 5532,
+            "average": 5731,
+            "streams": 21
+        },
+        "04": {
+            "median": 5004,
+            "average": 6012,
+            "streams": 18
+        },
+        "05": {
+            "median": 4073,
+            "average": 4267,
+            "streams": 12
+        },
+        "06": {
+            "median": 4629,
+            "average": 5000,
+            "streams": 12
+        },
+        "07": {
+            "median": 3350,
+            "average": 4592,
+            "streams": 11
+        },
+        "08": {
+            "median": 4694,
+            "average": 5962,
+            "streams": 11
+        },
+        "09": {
+            "median": 3720,
+            "average": 3774,
+            "streams": 15
+        },
+        "10": {
+            "median": 3108,
+            "average": 3569,
+            "streams": 10
+        },
+        "11": {
+            "median": 4177,
+            "average": 5958,
+            "streams": 10
+        },
+        "12": {
+            "median": 4307,
+            "average": 5666,
+            "streams": 10
+        }
+    }
+}

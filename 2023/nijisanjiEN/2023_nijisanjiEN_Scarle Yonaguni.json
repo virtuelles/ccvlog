@@ -1,0 +1,66 @@
+{
+    "Name": "Scarle Yonaguni",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1291,
+            "average": 1415,
+            "streams": 37
+        },
+        "02": {
+            "median": 938,
+            "average": 1139,
+            "streams": 37
+        },
+        "03": {
+            "median": 1108,
+            "average": 1083,
+            "streams": 39
+        },
+        "04": {
+            "median": 1118,
+            "average": 1209,
+            "streams": 32
+        },
+        "05": {
+            "median": 930,
+            "average": 1003,
+            "streams": 33
+        },
+        "06": {
+            "median": 1079,
+            "average": 1128,
+            "streams": 41
+        },
+        "07": {
+            "median": 1134,
+            "average": 1305,
+            "streams": 37
+        },
+        "08": {
+            "median": 972,
+            "average": 1006,
+            "streams": 39
+        },
+        "09": {
+            "median": 880,
+            "average": 902,
+            "streams": 30
+        },
+        "10": {
+            "median": 871,
+            "average": 1013,
+            "streams": 26
+        },
+        "11": {
+            "median": 1177,
+            "average": 1988,
+            "streams": 32
+        },
+        "12": {
+            "median": 823,
+            "average": 1045,
+            "streams": 33
+        }
+    }
+}

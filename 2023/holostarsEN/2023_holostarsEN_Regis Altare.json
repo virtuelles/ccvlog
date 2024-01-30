@@ -1,0 +1,66 @@
+{
+    "Name": "Regis Altare",
+    "Group": "holostarsEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 1560,
+            "average": 1610,
+            "streams": 23
+        },
+        "03": {
+            "median": 1252,
+            "average": 1289,
+            "streams": 14
+        },
+        "04": {
+            "median": 2317,
+            "average": 2483,
+            "streams": 15
+        },
+        "05": {
+            "median": 1141,
+            "average": 1117,
+            "streams": 22
+        },
+        "06": {
+            "median": 877,
+            "average": 1158,
+            "streams": 22
+        },
+        "07": {
+            "median": 1026,
+            "average": 1229,
+            "streams": 18
+        },
+        "08": {
+            "median": 1020,
+            "average": 1165,
+            "streams": 25
+        },
+        "09": {
+            "median": 1152,
+            "average": 1577,
+            "streams": 20
+        },
+        "10": {
+            "median": 874,
+            "average": 989,
+            "streams": 9
+        },
+        "11": {
+            "median": 949,
+            "average": 1050,
+            "streams": 15
+        },
+        "12": {
+            "median": 1617,
+            "average": 1640,
+            "streams": 18
+        }
+    }
+}

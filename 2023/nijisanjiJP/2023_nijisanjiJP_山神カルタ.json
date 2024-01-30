@@ -1,0 +1,66 @@
+{
+    "Name": "山神カルタ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2048,
+            "average": 3249,
+            "streams": 13
+        },
+        "02": {
+            "median": 1491,
+            "average": 3109,
+            "streams": 13
+        },
+        "03": {
+            "median": 1463,
+            "average": 2069,
+            "streams": 14
+        },
+        "04": {
+            "median": 1396,
+            "average": 1677,
+            "streams": 21
+        },
+        "05": {
+            "median": 1357,
+            "average": 2492,
+            "streams": 21
+        },
+        "06": {
+            "median": 1399,
+            "average": 1848,
+            "streams": 17
+        },
+        "07": {
+            "median": 1186,
+            "average": 1348,
+            "streams": 15
+        },
+        "08": {
+            "median": 1205,
+            "average": 1445,
+            "streams": 17
+        },
+        "09": {
+            "median": 1127,
+            "average": 1916,
+            "streams": 15
+        },
+        "10": {
+            "median": 1124,
+            "average": 1724,
+            "streams": 13
+        },
+        "11": {
+            "median": 4458,
+            "average": 4415,
+            "streams": 15
+        },
+        "12": {
+            "median": 1106,
+            "average": 1210,
+            "streams": 13
+        }
+    }
+}

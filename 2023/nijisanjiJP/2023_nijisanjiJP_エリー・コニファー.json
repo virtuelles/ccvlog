@@ -1,0 +1,66 @@
+{
+    "Name": "エリー・コニファー",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 947,
+            "average": 3269,
+            "streams": 14
+        },
+        "02": {
+            "median": 504,
+            "average": 504,
+            "streams": 2
+        },
+        "03": {
+            "median": 958,
+            "average": 814,
+            "streams": 3
+        },
+        "04": {
+            "median": 840,
+            "average": 1075,
+            "streams": 5
+        },
+        "05": {
+            "median": 506,
+            "average": 535,
+            "streams": 13
+        },
+        "06": {
+            "median": 465,
+            "average": 445,
+            "streams": 5
+        },
+        "07": {
+            "median": 516,
+            "average": 655,
+            "streams": 12
+        },
+        "08": {
+            "median": 740,
+            "average": 726,
+            "streams": 12
+        },
+        "09": {
+            "median": 697,
+            "average": 725,
+            "streams": 5
+        },
+        "10": {
+            "median": 584,
+            "average": 564,
+            "streams": 8
+        },
+        "11": {
+            "median": 547,
+            "average": 691,
+            "streams": 4
+        },
+        "12": {
+            "median": 566,
+            "average": 813,
+            "streams": 10
+        }
+    }
+}

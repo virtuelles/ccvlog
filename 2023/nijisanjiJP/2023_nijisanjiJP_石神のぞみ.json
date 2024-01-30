@@ -1,0 +1,66 @@
+{
+    "Name": "石神のぞみ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 5620,
+            "average": 10923,
+            "streams": 11
+        },
+        "02": {
+            "median": 3687,
+            "average": 3704,
+            "streams": 23
+        },
+        "03": {
+            "median": 3801,
+            "average": 4028,
+            "streams": 24
+        },
+        "04": {
+            "median": 3237,
+            "average": 3488,
+            "streams": 21
+        },
+        "05": {
+            "median": 3691,
+            "average": 4063,
+            "streams": 21
+        },
+        "06": {
+            "median": 3783,
+            "average": 3887,
+            "streams": 18
+        },
+        "07": {
+            "median": 3701,
+            "average": 4349,
+            "streams": 14
+        },
+        "08": {
+            "median": 3670,
+            "average": 5163,
+            "streams": 19
+        },
+        "09": {
+            "median": 4143,
+            "average": 6897,
+            "streams": 12
+        },
+        "10": {
+            "median": 3737,
+            "average": 4695,
+            "streams": 19
+        },
+        "11": {
+            "median": 4410,
+            "average": 4434,
+            "streams": 18
+        },
+        "12": {
+            "median": 4585,
+            "average": 5369,
+            "streams": 20
+        }
+    }
+}

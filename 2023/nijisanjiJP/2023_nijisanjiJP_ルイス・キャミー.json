@@ -1,0 +1,66 @@
+{
+    "Name": "ルイス・キャミー",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2035,
+            "average": 1940,
+            "streams": 20
+        },
+        "02": {
+            "median": 2105,
+            "average": 2113,
+            "streams": 28
+        },
+        "03": {
+            "median": 2442,
+            "average": 2773,
+            "streams": 25
+        },
+        "04": {
+            "median": 2475,
+            "average": 2517,
+            "streams": 26
+        },
+        "05": {
+            "median": 2295,
+            "average": 2724,
+            "streams": 29
+        },
+        "06": {
+            "median": 1925,
+            "average": 2504,
+            "streams": 23
+        },
+        "07": {
+            "median": 1958,
+            "average": 2064,
+            "streams": 20
+        },
+        "08": {
+            "median": 2216,
+            "average": 4053,
+            "streams": 16
+        },
+        "09": {
+            "median": 3302,
+            "average": 5718,
+            "streams": 13
+        },
+        "10": {
+            "median": 1778,
+            "average": 2566,
+            "streams": 18
+        },
+        "11": {
+            "median": 1938,
+            "average": 2278,
+            "streams": 25
+        },
+        "12": {
+            "median": 1578,
+            "average": 2557,
+            "streams": 21
+        }
+    }
+}

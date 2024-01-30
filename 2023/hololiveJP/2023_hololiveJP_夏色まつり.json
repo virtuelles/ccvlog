@@ -1,0 +1,66 @@
+{
+    "Name": "夏色まつり",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 5248,
+            "average": 5523,
+            "streams": 26
+        },
+        "02": {
+            "median": 5337,
+            "average": 5767,
+            "streams": 18
+        },
+        "03": {
+            "median": 4191,
+            "average": 4401,
+            "streams": 18
+        },
+        "04": {
+            "median": 2928,
+            "average": 4249,
+            "streams": 31
+        },
+        "05": {
+            "median": 4496,
+            "average": 6561,
+            "streams": 15
+        },
+        "06": {
+            "median": 5381,
+            "average": 6828,
+            "streams": 11
+        },
+        "07": {
+            "median": 4420,
+            "average": 7294,
+            "streams": 18
+        },
+        "08": {
+            "median": 4365,
+            "average": 9045,
+            "streams": 10
+        },
+        "09": {
+            "median": 5636,
+            "average": 5772,
+            "streams": 14
+        },
+        "10": {
+            "median": 4145,
+            "average": 5638,
+            "streams": 16
+        },
+        "11": {
+            "median": 3312,
+            "average": 8129,
+            "streams": 9
+        },
+        "12": {
+            "median": 4073,
+            "average": 5352,
+            "streams": 29
+        }
+    }
+}

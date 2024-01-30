@@ -1,0 +1,66 @@
+{
+    "Name": "Airani Iofifteen",
+    "Group": "hololiveID",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 1158,
+            "average": 2256,
+            "streams": 22
+        },
+        "03": {
+            "median": 1169,
+            "average": 1230,
+            "streams": 20
+        },
+        "04": {
+            "median": 1238,
+            "average": 1412,
+            "streams": 23
+        },
+        "05": {
+            "median": 1137,
+            "average": 1426,
+            "streams": 13
+        },
+        "06": {
+            "median": 1178,
+            "average": 1274,
+            "streams": 19
+        },
+        "07": {
+            "median": 1519,
+            "average": 1884,
+            "streams": 14
+        },
+        "08": {
+            "median": 1271,
+            "average": 1645,
+            "streams": 20
+        },
+        "09": {
+            "median": 1340,
+            "average": 1509,
+            "streams": 21
+        },
+        "10": {
+            "median": 1114,
+            "average": 1235,
+            "streams": 20
+        },
+        "11": {
+            "median": 1445,
+            "average": 1533,
+            "streams": 15
+        },
+        "12": {
+            "median": 985,
+            "average": 1117,
+            "streams": 20
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "桃鈴ねね",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 15892,
+            "average": 15542,
+            "streams": 20
+        },
+        "02": {
+            "median": 10840,
+            "average": 11818,
+            "streams": 20
+        },
+        "03": {
+            "median": 11880,
+            "average": 14936,
+            "streams": 21
+        },
+        "04": {
+            "median": 9573,
+            "average": 10608,
+            "streams": 18
+        },
+        "05": {
+            "median": 10661,
+            "average": 10064,
+            "streams": 16
+        },
+        "06": {
+            "median": 10159,
+            "average": 11737,
+            "streams": 21
+        },
+        "07": {
+            "median": 7489,
+            "average": 8506,
+            "streams": 20
+        },
+        "08": {
+            "median": 8600,
+            "average": 10337,
+            "streams": 17
+        },
+        "09": {
+            "median": 10560,
+            "average": 14388,
+            "streams": 13
+        },
+        "10": {
+            "median": 11781,
+            "average": 13332,
+            "streams": 12
+        },
+        "11": {
+            "median": 8564,
+            "average": 14807,
+            "streams": 11
+        },
+        "12": {
+            "median": 5898,
+            "average": 8116,
+            "streams": 24
+        }
+    }
+}

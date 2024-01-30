@@ -1,0 +1,66 @@
+{
+    "Name": "Gawr Gura",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 39694,
+            "average": 39694,
+            "streams": 2
+        },
+        "03": {
+            "median": 22259,
+            "average": 32930,
+            "streams": 4
+        },
+        "04": {
+            "median": 17691,
+            "average": 18177,
+            "streams": 3
+        },
+        "05": {
+            "median": 17447,
+            "average": 17447,
+            "streams": 2
+        },
+        "06": {
+            "median": 44596,
+            "average": 44596,
+            "streams": 1
+        },
+        "07": {
+            "median": 17988,
+            "average": 19761,
+            "streams": 7
+        },
+        "08": {
+            "median": 15562,
+            "average": 16941,
+            "streams": 11
+        },
+        "09": {
+            "median": 26610,
+            "average": 28446,
+            "streams": 3
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": 29354,
+            "average": 29354,
+            "streams": 1
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

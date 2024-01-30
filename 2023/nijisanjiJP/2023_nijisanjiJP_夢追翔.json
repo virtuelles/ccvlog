@@ -1,0 +1,66 @@
+{
+    "Name": "夢追翔",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2236,
+            "average": 2215,
+            "streams": 15
+        },
+        "02": {
+            "median": 2390,
+            "average": 2653,
+            "streams": 12
+        },
+        "03": {
+            "median": 1729,
+            "average": 1967,
+            "streams": 11
+        },
+        "04": {
+            "median": 2122,
+            "average": 2074,
+            "streams": 11
+        },
+        "05": {
+            "median": 2097,
+            "average": 2496,
+            "streams": 22
+        },
+        "06": {
+            "median": 1403,
+            "average": 2188,
+            "streams": 9
+        },
+        "07": {
+            "median": 1567,
+            "average": 2992,
+            "streams": 7
+        },
+        "08": {
+            "median": 1253,
+            "average": 1710,
+            "streams": 5
+        },
+        "09": {
+            "median": 2164,
+            "average": 1837,
+            "streams": 3
+        },
+        "10": {
+            "median": 1412,
+            "average": 1412,
+            "streams": 1
+        },
+        "11": {
+            "median": 1664,
+            "average": 1959,
+            "streams": 6
+        },
+        "12": {
+            "median": 1604,
+            "average": 2135,
+            "streams": 8
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "鏑木ろこ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4146,
+            "average": 11057,
+            "streams": 11
+        },
+        "02": {
+            "median": 1711,
+            "average": 1868,
+            "streams": 29
+        },
+        "03": {
+            "median": 1506,
+            "average": 1927,
+            "streams": 38
+        },
+        "04": {
+            "median": 1615,
+            "average": 2402,
+            "streams": 30
+        },
+        "05": {
+            "median": 1609,
+            "average": 1868,
+            "streams": 24
+        },
+        "06": {
+            "median": 1681,
+            "average": 1892,
+            "streams": 25
+        },
+        "07": {
+            "median": 1616,
+            "average": 2398,
+            "streams": 19
+        },
+        "08": {
+            "median": 1826,
+            "average": 2351,
+            "streams": 24
+        },
+        "09": {
+            "median": 1512,
+            "average": 1603,
+            "streams": 22
+        },
+        "10": {
+            "median": 1562,
+            "average": 1692,
+            "streams": 26
+        },
+        "11": {
+            "median": 1677,
+            "average": 2403,
+            "streams": 22
+        },
+        "12": {
+            "median": 1689,
+            "average": 1663,
+            "streams": 25
+        }
+    }
+}

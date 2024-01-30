@@ -1,0 +1,66 @@
+{
+    "Name": "Enna Alouette",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 3579,
+            "average": 4740,
+            "streams": 21
+        },
+        "02": {
+            "median": 3529,
+            "average": 4543,
+            "streams": 14
+        },
+        "03": {
+            "median": 2788,
+            "average": 2883,
+            "streams": 12
+        },
+        "04": {
+            "median": 3206,
+            "average": 2979,
+            "streams": 8
+        },
+        "05": {
+            "median": 2862,
+            "average": 3623,
+            "streams": 18
+        },
+        "06": {
+            "median": 2809,
+            "average": 3336,
+            "streams": 14
+        },
+        "07": {
+            "median": 2867,
+            "average": 3662,
+            "streams": 16
+        },
+        "08": {
+            "median": 2700,
+            "average": 2900,
+            "streams": 15
+        },
+        "09": {
+            "median": 2370,
+            "average": 3272,
+            "streams": 17
+        },
+        "10": {
+            "median": 3411,
+            "average": 3892,
+            "streams": 8
+        },
+        "11": {
+            "median": 2376,
+            "average": 3891,
+            "streams": 10
+        },
+        "12": {
+            "median": 2443,
+            "average": 2602,
+            "streams": 8
+        }
+    }
+}

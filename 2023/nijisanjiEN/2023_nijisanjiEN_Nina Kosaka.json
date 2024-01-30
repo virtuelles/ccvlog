@@ -1,0 +1,66 @@
+{
+    "Name": "Nina Kosaka",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1554,
+            "average": 1914,
+            "streams": 17
+        },
+        "02": {
+            "median": 1330,
+            "average": 1443,
+            "streams": 16
+        },
+        "03": {
+            "median": 1989,
+            "average": 1914,
+            "streams": 18
+        },
+        "04": {
+            "median": 1513,
+            "average": 1522,
+            "streams": 22
+        },
+        "05": {
+            "median": 1888,
+            "average": 1863,
+            "streams": 14
+        },
+        "06": {
+            "median": 1723,
+            "average": 4214,
+            "streams": 15
+        },
+        "07": {
+            "median": 4555,
+            "average": 11266,
+            "streams": 11
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

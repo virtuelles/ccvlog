@@ -1,0 +1,66 @@
+{
+    "Name": "リゼ・ヘルエスタ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 11210,
+            "average": 12387,
+            "streams": 12
+        },
+        "02": {
+            "median": 11688,
+            "average": 11839,
+            "streams": 13
+        },
+        "03": {
+            "median": 9506,
+            "average": 10394,
+            "streams": 12
+        },
+        "04": {
+            "median": 8861,
+            "average": 9630,
+            "streams": 13
+        },
+        "05": {
+            "median": 14392,
+            "average": 15493,
+            "streams": 13
+        },
+        "06": {
+            "median": 18612,
+            "average": 17857,
+            "streams": 15
+        },
+        "07": {
+            "median": 35713,
+            "average": 39880,
+            "streams": 12
+        },
+        "08": {
+            "median": 16691,
+            "average": 21061,
+            "streams": 8
+        },
+        "09": {
+            "median": 14104,
+            "average": 14119,
+            "streams": 10
+        },
+        "10": {
+            "median": 13530,
+            "average": 13897,
+            "streams": 12
+        },
+        "11": {
+            "median": 15017,
+            "average": 14703,
+            "streams": 9
+        },
+        "12": {
+            "median": 13056,
+            "average": 14797,
+            "streams": 7
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "昏昏アリア",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": 1204,
+            "average": 1531,
+            "streams": 25
+        },
+        "06": {
+            "median": 715,
+            "average": 713,
+            "streams": 19
+        },
+        "07": {
+            "median": 342,
+            "average": 384,
+            "streams": 18
+        },
+        "08": {
+            "median": 348,
+            "average": 368,
+            "streams": 12
+        },
+        "09": {
+            "median": 354,
+            "average": 439,
+            "streams": 18
+        },
+        "10": {
+            "median": 357,
+            "average": 368,
+            "streams": 15
+        },
+        "11": {
+            "median": 520,
+            "average": 545,
+            "streams": 22
+        },
+        "12": {
+            "median": 760,
+            "average": 940,
+            "streams": 27
+        }
+    }
+}

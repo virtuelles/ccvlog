@@ -1,0 +1,66 @@
+{
+    "Name": "Nanashi Mumei",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 9209,
+            "average": 8992,
+            "streams": 8
+        },
+        "03": {
+            "median": 7625,
+            "average": 6962,
+            "streams": 5
+        },
+        "04": {
+            "median": 8190,
+            "average": 10547,
+            "streams": 14
+        },
+        "05": {
+            "median": 7324,
+            "average": 8850,
+            "streams": 11
+        },
+        "06": {
+            "median": 10939,
+            "average": 10778,
+            "streams": 4
+        },
+        "07": {
+            "median": 10642,
+            "average": 12657,
+            "streams": 8
+        },
+        "08": {
+            "median": 12787,
+            "average": 15341,
+            "streams": 8
+        },
+        "09": {
+            "median": 11012,
+            "average": 16551,
+            "streams": 12
+        },
+        "10": {
+            "median": 11026,
+            "average": 12399,
+            "streams": 14
+        },
+        "11": {
+            "median": 8619,
+            "average": 9717,
+            "streams": 17
+        },
+        "12": {
+            "median": 21810,
+            "average": 21810,
+            "streams": 1
+        }
+    }
+}

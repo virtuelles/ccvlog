@@ -1,0 +1,66 @@
+{
+    "Name": "音乃瀬奏",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": 13517,
+            "average": 20560,
+            "streams": 18
+        },
+        "10": {
+            "median": 11621,
+            "average": 11848,
+            "streams": 24
+        },
+        "11": {
+            "median": 8237,
+            "average": 9035,
+            "streams": 19
+        },
+        "12": {
+            "median": 6252,
+            "average": 9668,
+            "streams": 23
+        }
+    }
+}

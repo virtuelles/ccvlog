@@ -1,0 +1,66 @@
+{
+    "Name": "大空スバル",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 22921,
+            "average": 23477,
+            "streams": 31
+        },
+        "02": {
+            "median": 16206,
+            "average": 20594,
+            "streams": 28
+        },
+        "03": {
+            "median": 22409,
+            "average": 23346,
+            "streams": 28
+        },
+        "04": {
+            "median": 24456,
+            "average": 25396,
+            "streams": 31
+        },
+        "05": {
+            "median": 24764,
+            "average": 28517,
+            "streams": 26
+        },
+        "06": {
+            "median": 23284,
+            "average": 23733,
+            "streams": 26
+        },
+        "07": {
+            "median": 24971,
+            "average": 27974,
+            "streams": 28
+        },
+        "08": {
+            "median": 20624,
+            "average": 20649,
+            "streams": 27
+        },
+        "09": {
+            "median": 22602,
+            "average": 25863,
+            "streams": 32
+        },
+        "10": {
+            "median": 20220,
+            "average": 20328,
+            "streams": 29
+        },
+        "11": {
+            "median": 22630,
+            "average": 22439,
+            "streams": 26
+        },
+        "12": {
+            "median": 21860,
+            "average": 24028,
+            "streams": 30
+        }
+    }
+}

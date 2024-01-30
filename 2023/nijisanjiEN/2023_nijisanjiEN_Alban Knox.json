@@ -1,0 +1,66 @@
+{
+    "Name": "Alban Knox",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2928,
+            "average": 3305,
+            "streams": 17
+        },
+        "02": {
+            "median": 2486,
+            "average": 4095,
+            "streams": 7
+        },
+        "03": {
+            "median": 2442,
+            "average": 2387,
+            "streams": 19
+        },
+        "04": {
+            "median": 1952,
+            "average": 2569,
+            "streams": 17
+        },
+        "05": {
+            "median": 2288,
+            "average": 2501,
+            "streams": 16
+        },
+        "06": {
+            "median": 2754,
+            "average": 5886,
+            "streams": 14
+        },
+        "07": {
+            "median": 1851,
+            "average": 2034,
+            "streams": 24
+        },
+        "08": {
+            "median": 2135,
+            "average": 3415,
+            "streams": 10
+        },
+        "09": {
+            "median": 2359,
+            "average": 3864,
+            "streams": 7
+        },
+        "10": {
+            "median": 1893,
+            "average": 2018,
+            "streams": 20
+        },
+        "11": {
+            "median": 1859,
+            "average": 1900,
+            "streams": 25
+        },
+        "12": {
+            "median": 1195,
+            "average": 1813,
+            "streams": 25
+        }
+    }
+}

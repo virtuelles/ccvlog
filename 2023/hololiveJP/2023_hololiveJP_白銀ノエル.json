@@ -1,0 +1,66 @@
+{
+    "Name": "白銀ノエル",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 12448,
+            "average": 12834,
+            "streams": 25
+        },
+        "02": {
+            "median": 8869,
+            "average": 11940,
+            "streams": 13
+        },
+        "03": {
+            "median": 7807,
+            "average": 9438,
+            "streams": 16
+        },
+        "04": {
+            "median": 11050,
+            "average": 10540,
+            "streams": 15
+        },
+        "05": {
+            "median": 10648,
+            "average": 10329,
+            "streams": 17
+        },
+        "06": {
+            "median": 12400,
+            "average": 12334,
+            "streams": 12
+        },
+        "07": {
+            "median": 14026,
+            "average": 19167,
+            "streams": 12
+        },
+        "08": {
+            "median": 11786,
+            "average": 19717,
+            "streams": 14
+        },
+        "09": {
+            "median": 10511,
+            "average": 10864,
+            "streams": 9
+        },
+        "10": {
+            "median": 12640,
+            "average": 12397,
+            "streams": 18
+        },
+        "11": {
+            "median": 12002,
+            "average": 17419,
+            "streams": 17
+        },
+        "12": {
+            "median": 9273,
+            "average": 10028,
+            "streams": 31
+        }
+    }
+}

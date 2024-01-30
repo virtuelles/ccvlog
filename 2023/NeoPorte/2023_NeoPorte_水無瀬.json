@@ -1,0 +1,66 @@
+{
+    "Name": "水無瀬",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 407,
+            "average": 394,
+            "streams": 6
+        },
+        "02": {
+            "median": 401,
+            "average": 432,
+            "streams": 14
+        },
+        "03": {
+            "median": 446,
+            "average": 896,
+            "streams": 11
+        },
+        "04": {
+            "median": 625,
+            "average": 769,
+            "streams": 23
+        },
+        "05": {
+            "median": 433,
+            "average": 521,
+            "streams": 25
+        },
+        "06": {
+            "median": 442,
+            "average": 518,
+            "streams": 20
+        },
+        "07": {
+            "median": 424,
+            "average": 415,
+            "streams": 8
+        },
+        "08": {
+            "median": 393,
+            "average": 672,
+            "streams": 7
+        },
+        "09": {
+            "median": 425,
+            "average": 467,
+            "streams": 11
+        },
+        "10": {
+            "median": 957,
+            "average": 957,
+            "streams": 2
+        },
+        "11": {
+            "median": 1707,
+            "average": 1707,
+            "streams": 2
+        },
+        "12": {
+            "median": 562,
+            "average": 562,
+            "streams": 2
+        }
+    }
+}

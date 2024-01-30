@@ -1,0 +1,66 @@
+{
+    "Name": "伊波ライ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 13345,
+            "average": 13345,
+            "streams": 2
+        },
+        "05": {
+            "median": 672,
+            "average": 1124,
+            "streams": 37
+        },
+        "06": {
+            "median": 645,
+            "average": 906,
+            "streams": 35
+        },
+        "07": {
+            "median": 864,
+            "average": 980,
+            "streams": 23
+        },
+        "08": {
+            "median": 1075,
+            "average": 1671,
+            "streams": 22
+        },
+        "09": {
+            "median": 933,
+            "average": 1235,
+            "streams": 22
+        },
+        "10": {
+            "median": 1449,
+            "average": 3130,
+            "streams": 21
+        },
+        "11": {
+            "median": 1630,
+            "average": 2701,
+            "streams": 29
+        },
+        "12": {
+            "median": 1303,
+            "average": 1726,
+            "streams": 23
+        }
+    }
+}

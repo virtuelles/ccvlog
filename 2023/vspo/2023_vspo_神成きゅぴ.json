@@ -1,0 +1,66 @@
+{
+    "Name": "神成きゅぴ",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 2899,
+            "average": 2678,
+            "streams": 11
+        },
+        "02": {
+            "median": 2297,
+            "average": 2450,
+            "streams": 19
+        },
+        "03": {
+            "median": 2408,
+            "average": 2681,
+            "streams": 17
+        },
+        "04": {
+            "median": 2549,
+            "average": 3016,
+            "streams": 27
+        },
+        "05": {
+            "median": 2929,
+            "average": 3244,
+            "streams": 18
+        },
+        "06": {
+            "median": 2940,
+            "average": 9638,
+            "streams": 8
+        },
+        "07": {
+            "median": 3705,
+            "average": 4520,
+            "streams": 9
+        },
+        "08": {
+            "median": 3208,
+            "average": 3426,
+            "streams": 14
+        },
+        "09": {
+            "median": 3585,
+            "average": 3602,
+            "streams": 12
+        },
+        "10": {
+            "median": 1300,
+            "average": 1406,
+            "streams": 8
+        },
+        "11": {
+            "median": 5298,
+            "average": 5970,
+            "streams": 14
+        },
+        "12": {
+            "median": 2664,
+            "average": 3512,
+            "streams": 25
+        }
+    }
+}

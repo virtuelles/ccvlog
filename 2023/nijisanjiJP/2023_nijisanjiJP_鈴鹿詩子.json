@@ -1,0 +1,66 @@
+{
+    "Name": "鈴鹿詩子",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2074,
+            "average": 2610,
+            "streams": 4
+        },
+        "02": {
+            "median": 1255,
+            "average": 1642,
+            "streams": 4
+        },
+        "03": {
+            "median": 1908,
+            "average": 2008,
+            "streams": 7
+        },
+        "04": {
+            "median": 1042,
+            "average": 1464,
+            "streams": 6
+        },
+        "05": {
+            "median": 1523,
+            "average": 1727,
+            "streams": 4
+        },
+        "06": {
+            "median": 1345,
+            "average": 1345,
+            "streams": 2
+        },
+        "07": {
+            "median": 1273,
+            "average": 1688,
+            "streams": 10
+        },
+        "08": {
+            "median": 840,
+            "average": 1125,
+            "streams": 9
+        },
+        "09": {
+            "median": 2460,
+            "average": 2460,
+            "streams": 1
+        },
+        "10": {
+            "median": 1310,
+            "average": 1775,
+            "streams": 7
+        },
+        "11": {
+            "median": 1559,
+            "average": 1558,
+            "streams": 3
+        },
+        "12": {
+            "median": 1535,
+            "average": 1866,
+            "streams": 4
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "空星きらめ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1265,
+            "average": 1747,
+            "streams": 17
+        },
+        "02": {
+            "median": 841,
+            "average": 873,
+            "streams": 14
+        },
+        "03": {
+            "median": 616,
+            "average": 829,
+            "streams": 13
+        },
+        "04": {
+            "median": 1237,
+            "average": 1361,
+            "streams": 13
+        },
+        "05": {
+            "median": 1148,
+            "average": 1404,
+            "streams": 15
+        },
+        "06": {
+            "median": 895,
+            "average": 1483,
+            "streams": 15
+        },
+        "07": {
+            "median": 658,
+            "average": 820,
+            "streams": 16
+        },
+        "08": {
+            "median": 943,
+            "average": 1379,
+            "streams": 20
+        },
+        "09": {
+            "median": 766,
+            "average": 858,
+            "streams": 12
+        },
+        "10": {
+            "median": 540,
+            "average": 560,
+            "streams": 9
+        },
+        "11": {
+            "median": 696,
+            "average": 806,
+            "streams": 11
+        },
+        "12": {
+            "median": 494,
+            "average": 560,
+            "streams": 9
+        }
+    }
+}

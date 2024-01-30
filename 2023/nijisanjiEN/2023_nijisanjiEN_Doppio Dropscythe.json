@@ -1,0 +1,66 @@
+{
+    "Name": "Doppio Dropscythe",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1602,
+            "average": 1607,
+            "streams": 34
+        },
+        "02": {
+            "median": 1258,
+            "average": 1574,
+            "streams": 28
+        },
+        "03": {
+            "median": 1194,
+            "average": 1440,
+            "streams": 20
+        },
+        "04": {
+            "median": 1164,
+            "average": 1368,
+            "streams": 20
+        },
+        "05": {
+            "median": 955,
+            "average": 1116,
+            "streams": 21
+        },
+        "06": {
+            "median": 1125,
+            "average": 1389,
+            "streams": 19
+        },
+        "07": {
+            "median": 1273,
+            "average": 1282,
+            "streams": 22
+        },
+        "08": {
+            "median": 1167,
+            "average": 1144,
+            "streams": 20
+        },
+        "09": {
+            "median": 1150,
+            "average": 1369,
+            "streams": 20
+        },
+        "10": {
+            "median": 1418,
+            "average": 1431,
+            "streams": 21
+        },
+        "11": {
+            "median": 1613,
+            "average": 4343,
+            "streams": 17
+        },
+        "12": {
+            "median": 1668,
+            "average": 1936,
+            "streams": 10
+        }
+    }
+}

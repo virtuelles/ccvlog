@@ -1,0 +1,66 @@
+{
+    "Name": "Ouro Kronii",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 6003,
+            "average": 6761,
+            "streams": 5
+        },
+        "03": {
+            "median": 13998,
+            "average": 13998,
+            "streams": 2
+        },
+        "04": {
+            "median": 7846,
+            "average": 8746,
+            "streams": 16
+        },
+        "05": {
+            "median": 6175,
+            "average": 7177,
+            "streams": 12
+        },
+        "06": {
+            "median": 6219,
+            "average": 6339,
+            "streams": 10
+        },
+        "07": {
+            "median": 6470,
+            "average": 8029,
+            "streams": 12
+        },
+        "08": {
+            "median": 8181,
+            "average": 8076,
+            "streams": 6
+        },
+        "09": {
+            "median": 6856,
+            "average": 11487,
+            "streams": 12
+        },
+        "10": {
+            "median": 5691,
+            "average": 6735,
+            "streams": 9
+        },
+        "11": {
+            "median": 7058,
+            "average": 7792,
+            "streams": 9
+        },
+        "12": {
+            "median": 6959,
+            "average": 8154,
+            "streams": 15
+        }
+    }
+}

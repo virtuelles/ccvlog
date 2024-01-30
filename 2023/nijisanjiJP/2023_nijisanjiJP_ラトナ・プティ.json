@@ -1,0 +1,66 @@
+{
+    "Name": "ラトナ・プティ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4914,
+            "average": 5129,
+            "streams": 24
+        },
+        "02": {
+            "median": 5250,
+            "average": 6338,
+            "streams": 18
+        },
+        "03": {
+            "median": 4006,
+            "average": 5518,
+            "streams": 17
+        },
+        "04": {
+            "median": 2367,
+            "average": 3580,
+            "streams": 20
+        },
+        "05": {
+            "median": 3668,
+            "average": 4747,
+            "streams": 18
+        },
+        "06": {
+            "median": 4421,
+            "average": 5222,
+            "streams": 15
+        },
+        "07": {
+            "median": 4008,
+            "average": 4513,
+            "streams": 13
+        },
+        "08": {
+            "median": 2983,
+            "average": 3510,
+            "streams": 15
+        },
+        "09": {
+            "median": 2839,
+            "average": 3415,
+            "streams": 15
+        },
+        "10": {
+            "median": 2603,
+            "average": 2982,
+            "streams": 18
+        },
+        "11": {
+            "median": 3318,
+            "average": 3435,
+            "streams": 8
+        },
+        "12": {
+            "median": 2682,
+            "average": 3373,
+            "streams": 13
+        }
+    }
+}

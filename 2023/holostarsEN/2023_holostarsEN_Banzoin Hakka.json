@@ -1,0 +1,66 @@
+{
+    "Name": "Banzoin Hakka",
+    "Group": "holostarsEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 1411,
+            "average": 1638,
+            "streams": 33
+        },
+        "03": {
+            "median": 999,
+            "average": 1202,
+            "streams": 33
+        },
+        "04": {
+            "median": 857,
+            "average": 1316,
+            "streams": 33
+        },
+        "05": {
+            "median": 896,
+            "average": 987,
+            "streams": 31
+        },
+        "06": {
+            "median": 858,
+            "average": 906,
+            "streams": 27
+        },
+        "07": {
+            "median": 788,
+            "average": 1043,
+            "streams": 26
+        },
+        "08": {
+            "median": 640,
+            "average": 859,
+            "streams": 29
+        },
+        "09": {
+            "median": 828,
+            "average": 1112,
+            "streams": 22
+        },
+        "10": {
+            "median": 863,
+            "average": 1125,
+            "streams": 25
+        },
+        "11": {
+            "median": 1179,
+            "average": 1588,
+            "streams": 15
+        },
+        "12": {
+            "median": 1338,
+            "average": 1769,
+            "streams": 23
+        }
+    }
+}

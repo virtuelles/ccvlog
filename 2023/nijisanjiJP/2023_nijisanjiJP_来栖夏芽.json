@@ -1,0 +1,66 @@
+{
+    "Name": "来栖夏芽",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1241,
+            "average": 1435,
+            "streams": 10
+        },
+        "02": {
+            "median": 1156,
+            "average": 1354,
+            "streams": 18
+        },
+        "03": {
+            "median": 1050,
+            "average": 1214,
+            "streams": 22
+        },
+        "04": {
+            "median": 1062,
+            "average": 1233,
+            "streams": 17
+        },
+        "05": {
+            "median": 884,
+            "average": 1075,
+            "streams": 22
+        },
+        "06": {
+            "median": 1036,
+            "average": 1431,
+            "streams": 21
+        },
+        "07": {
+            "median": 929,
+            "average": 1237,
+            "streams": 14
+        },
+        "08": {
+            "median": 986,
+            "average": 1140,
+            "streams": 11
+        },
+        "09": {
+            "median": 970,
+            "average": 1503,
+            "streams": 17
+        },
+        "10": {
+            "median": 1220,
+            "average": 1302,
+            "streams": 15
+        },
+        "11": {
+            "median": 948,
+            "average": 1085,
+            "streams": 11
+        },
+        "12": {
+            "median": 1061,
+            "average": 1548,
+            "streams": 21
+        }
+    }
+}

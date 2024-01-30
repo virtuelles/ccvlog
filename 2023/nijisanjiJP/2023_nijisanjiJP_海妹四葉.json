@@ -1,0 +1,66 @@
+{
+    "Name": "海妹四葉",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2223,
+            "average": 2323,
+            "streams": 10
+        },
+        "02": {
+            "median": 1683,
+            "average": 1780,
+            "streams": 12
+        },
+        "03": {
+            "median": 1529,
+            "average": 1527,
+            "streams": 4
+        },
+        "04": {
+            "median": 1819,
+            "average": 6224,
+            "streams": 11
+        },
+        "05": {
+            "median": 1548,
+            "average": 2368,
+            "streams": 12
+        },
+        "06": {
+            "median": 1915,
+            "average": 3689,
+            "streams": 14
+        },
+        "07": {
+            "median": 1772,
+            "average": 1545,
+            "streams": 7
+        },
+        "08": {
+            "median": 1861,
+            "average": 1724,
+            "streams": 9
+        },
+        "09": {
+            "median": 1761,
+            "average": 1759,
+            "streams": 7
+        },
+        "10": {
+            "median": 1715,
+            "average": 1675,
+            "streams": 6
+        },
+        "11": {
+            "median": 2185,
+            "average": 1986,
+            "streams": 3
+        },
+        "12": {
+            "median": 786,
+            "average": 855,
+            "streams": 5
+        }
+    }
+}

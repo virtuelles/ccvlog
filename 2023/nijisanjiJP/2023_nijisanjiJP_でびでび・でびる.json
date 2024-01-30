@@ -1,0 +1,66 @@
+{
+    "Name": "でびでび・でびる",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3193,
+            "average": 6769,
+            "streams": 18
+        },
+        "02": {
+            "median": 1854,
+            "average": 3879,
+            "streams": 17
+        },
+        "03": {
+            "median": 1482,
+            "average": 1536,
+            "streams": 22
+        },
+        "04": {
+            "median": 1339,
+            "average": 2237,
+            "streams": 13
+        },
+        "05": {
+            "median": 1310,
+            "average": 2711,
+            "streams": 20
+        },
+        "06": {
+            "median": 1291,
+            "average": 1642,
+            "streams": 14
+        },
+        "07": {
+            "median": 1285,
+            "average": 1587,
+            "streams": 22
+        },
+        "08": {
+            "median": 1734,
+            "average": 2604,
+            "streams": 17
+        },
+        "09": {
+            "median": 1556,
+            "average": 1791,
+            "streams": 18
+        },
+        "10": {
+            "median": 1441,
+            "average": 1743,
+            "streams": 15
+        },
+        "11": {
+            "median": 1200,
+            "average": 1247,
+            "streams": 14
+        },
+        "12": {
+            "median": 1578,
+            "average": 2056,
+            "streams": 16
+        }
+    }
+}

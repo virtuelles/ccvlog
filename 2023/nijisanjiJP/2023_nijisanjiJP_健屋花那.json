@@ -1,0 +1,66 @@
+{
+    "Name": "健屋花那",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1468,
+            "average": 5228,
+            "streams": 20
+        },
+        "02": {
+            "median": 1223,
+            "average": 2860,
+            "streams": 19
+        },
+        "03": {
+            "median": 1110,
+            "average": 1284,
+            "streams": 21
+        },
+        "04": {
+            "median": 963,
+            "average": 1051,
+            "streams": 24
+        },
+        "05": {
+            "median": 1073,
+            "average": 1434,
+            "streams": 21
+        },
+        "06": {
+            "median": 1025,
+            "average": 1070,
+            "streams": 17
+        },
+        "07": {
+            "median": 852,
+            "average": 1211,
+            "streams": 21
+        },
+        "08": {
+            "median": 974,
+            "average": 1251,
+            "streams": 14
+        },
+        "09": {
+            "median": 1514,
+            "average": 4888,
+            "streams": 18
+        },
+        "10": {
+            "median": 642,
+            "average": 1188,
+            "streams": 20
+        },
+        "11": {
+            "median": 717,
+            "average": 784,
+            "streams": 17
+        },
+        "12": {
+            "median": 797,
+            "average": 973,
+            "streams": 16
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "緋崎ガンマ",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 627,
+            "average": 743,
+            "streams": 24
+        },
+        "02": {
+            "median": 511,
+            "average": 735,
+            "streams": 22
+        },
+        "03": {
+            "median": 603,
+            "average": 721,
+            "streams": 20
+        },
+        "04": {
+            "median": 1191,
+            "average": 2111,
+            "streams": 41
+        },
+        "05": {
+            "median": 1030,
+            "average": 1065,
+            "streams": 34
+        },
+        "06": {
+            "median": 708,
+            "average": 825,
+            "streams": 25
+        },
+        "07": {
+            "median": 892,
+            "average": 1048,
+            "streams": 24
+        },
+        "08": {
+            "median": 601,
+            "average": 672,
+            "streams": 21
+        },
+        "09": {
+            "median": 517,
+            "average": 602,
+            "streams": 20
+        },
+        "10": {
+            "median": 746,
+            "average": 743,
+            "streams": 27
+        },
+        "11": {
+            "median": 860,
+            "average": 932,
+            "streams": 27
+        },
+        "12": {
+            "median": 561,
+            "average": 697,
+            "streams": 28
+        }
+    }
+}

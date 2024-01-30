@@ -1,0 +1,66 @@
+{
+    "Name": "猫汰つな",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 3995,
+            "average": 4596,
+            "streams": 22
+        },
+        "02": {
+            "median": 3119,
+            "average": 3538,
+            "streams": 16
+        },
+        "03": {
+            "median": 5025,
+            "average": 4966,
+            "streams": 19
+        },
+        "04": {
+            "median": 3848,
+            "average": 4371,
+            "streams": 25
+        },
+        "05": {
+            "median": 3618,
+            "average": 3810,
+            "streams": 22
+        },
+        "06": {
+            "median": 4247,
+            "average": 8375,
+            "streams": 16
+        },
+        "07": {
+            "median": 2720,
+            "average": 3036,
+            "streams": 23
+        },
+        "08": {
+            "median": 4203,
+            "average": 4283,
+            "streams": 24
+        },
+        "09": {
+            "median": 3592,
+            "average": 3593,
+            "streams": 29
+        },
+        "10": {
+            "median": 2863,
+            "average": 3145,
+            "streams": 18
+        },
+        "11": {
+            "median": 3560,
+            "average": 4740,
+            "streams": 24
+        },
+        "12": {
+            "median": 3434,
+            "average": 3628,
+            "streams": 19
+        }
+    }
+}

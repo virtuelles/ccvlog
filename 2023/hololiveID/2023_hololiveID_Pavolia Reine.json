@@ -1,0 +1,66 @@
+{
+    "Name": "Pavolia Reine",
+    "Group": "hololiveID",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 1196,
+            "average": 2811,
+            "streams": 27
+        },
+        "03": {
+            "median": 1076,
+            "average": 1149,
+            "streams": 30
+        },
+        "04": {
+            "median": 1183,
+            "average": 1186,
+            "streams": 16
+        },
+        "05": {
+            "median": 1040,
+            "average": 1173,
+            "streams": 25
+        },
+        "06": {
+            "median": 1047,
+            "average": 1356,
+            "streams": 18
+        },
+        "07": {
+            "median": 1818,
+            "average": 4663,
+            "streams": 26
+        },
+        "08": {
+            "median": 1319,
+            "average": 1554,
+            "streams": 23
+        },
+        "09": {
+            "median": 1357,
+            "average": 1767,
+            "streams": 24
+        },
+        "10": {
+            "median": 1208,
+            "average": 1310,
+            "streams": 24
+        },
+        "11": {
+            "median": 1301,
+            "average": 1456,
+            "streams": 18
+        },
+        "12": {
+            "median": 1311,
+            "average": 1827,
+            "streams": 16
+        }
+    }
+}

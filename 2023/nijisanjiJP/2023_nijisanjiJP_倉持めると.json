@@ -1,0 +1,66 @@
+{
+    "Name": "倉持めると",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2214,
+            "average": 6991,
+            "streams": 13
+        },
+        "02": {
+            "median": 1426,
+            "average": 1521,
+            "streams": 30
+        },
+        "03": {
+            "median": 1606,
+            "average": 1908,
+            "streams": 29
+        },
+        "04": {
+            "median": 1674,
+            "average": 1969,
+            "streams": 30
+        },
+        "05": {
+            "median": 1164,
+            "average": 1554,
+            "streams": 29
+        },
+        "06": {
+            "median": 1737,
+            "average": 2008,
+            "streams": 20
+        },
+        "07": {
+            "median": 1639,
+            "average": 1691,
+            "streams": 16
+        },
+        "08": {
+            "median": 2236,
+            "average": 3177,
+            "streams": 18
+        },
+        "09": {
+            "median": 1820,
+            "average": 2120,
+            "streams": 19
+        },
+        "10": {
+            "median": 1338,
+            "average": 1648,
+            "streams": 15
+        },
+        "11": {
+            "median": 2044,
+            "average": 2571,
+            "streams": 18
+        },
+        "12": {
+            "median": 1864,
+            "average": 2267,
+            "streams": 13
+        }
+    }
+}

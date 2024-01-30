@@ -1,0 +1,66 @@
+{
+    "Name": "北小路ヒスイ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1256,
+            "average": 1261,
+            "streams": 10
+        },
+        "02": {
+            "median": 908,
+            "average": 1391,
+            "streams": 13
+        },
+        "03": {
+            "median": 1008,
+            "average": 949,
+            "streams": 14
+        },
+        "04": {
+            "median": 722,
+            "average": 1264,
+            "streams": 10
+        },
+        "05": {
+            "median": 757,
+            "average": 716,
+            "streams": 6
+        },
+        "06": {
+            "median": 792,
+            "average": 1224,
+            "streams": 11
+        },
+        "07": {
+            "median": 778,
+            "average": 759,
+            "streams": 14
+        },
+        "08": {
+            "median": 695,
+            "average": 973,
+            "streams": 12
+        },
+        "09": {
+            "median": 748,
+            "average": 805,
+            "streams": 13
+        },
+        "10": {
+            "median": 873,
+            "average": 954,
+            "streams": 6
+        },
+        "11": {
+            "median": 1163,
+            "average": 1072,
+            "streams": 11
+        },
+        "12": {
+            "median": 919,
+            "average": 935,
+            "streams": 12
+        }
+    }
+}

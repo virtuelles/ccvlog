@@ -1,0 +1,66 @@
+{
+    "Name": "加賀美ハヤト",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 11185,
+            "average": 14935,
+            "streams": 20
+        },
+        "02": {
+            "median": 15127,
+            "average": 14283,
+            "streams": 16
+        },
+        "03": {
+            "median": 11211,
+            "average": 12228,
+            "streams": 19
+        },
+        "04": {
+            "median": 7866,
+            "average": 9384,
+            "streams": 19
+        },
+        "05": {
+            "median": 9382,
+            "average": 9647,
+            "streams": 21
+        },
+        "06": {
+            "median": 10402,
+            "average": 11434,
+            "streams": 19
+        },
+        "07": {
+            "median": 8201,
+            "average": 9340,
+            "streams": 22
+        },
+        "08": {
+            "median": 8223,
+            "average": 8609,
+            "streams": 21
+        },
+        "09": {
+            "median": 8355,
+            "average": 10856,
+            "streams": 18
+        },
+        "10": {
+            "median": 10834,
+            "average": 10537,
+            "streams": 17
+        },
+        "11": {
+            "median": 10675,
+            "average": 11154,
+            "streams": 17
+        },
+        "12": {
+            "median": 8121,
+            "average": 9466,
+            "streams": 19
+        }
+    }
+}

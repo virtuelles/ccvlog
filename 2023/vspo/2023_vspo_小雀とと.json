@@ -1,0 +1,66 @@
+{
+    "Name": "小雀とと",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 1097,
+            "average": 1027,
+            "streams": 8
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "03": {
+            "median": 1291,
+            "average": 1568,
+            "streams": 15
+        },
+        "04": {
+            "median": 752,
+            "average": 1037,
+            "streams": 18
+        },
+        "05": {
+            "median": 1081,
+            "average": 1009,
+            "streams": 12
+        },
+        "06": {
+            "median": 1400,
+            "average": 5435,
+            "streams": 13
+        },
+        "07": {
+            "median": 1439,
+            "average": 1972,
+            "streams": 15
+        },
+        "08": {
+            "median": 1195,
+            "average": 1195,
+            "streams": 17
+        },
+        "09": {
+            "median": 1647,
+            "average": 1395,
+            "streams": 11
+        },
+        "10": {
+            "median": 1396,
+            "average": 1452,
+            "streams": 11
+        },
+        "11": {
+            "median": 914,
+            "average": 1082,
+            "streams": 11
+        },
+        "12": {
+            "median": 799,
+            "average": 1042,
+            "streams": 3
+        }
+    }
+}

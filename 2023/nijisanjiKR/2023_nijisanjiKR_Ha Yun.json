@@ -1,0 +1,66 @@
+{
+    "Name": "Ha Yun",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 407,
+            "average": 516,
+            "streams": 16
+        },
+        "02": {
+            "median": 347,
+            "average": 558,
+            "streams": 18
+        },
+        "03": {
+            "median": 391,
+            "average": 445,
+            "streams": 25
+        },
+        "04": {
+            "median": 652,
+            "average": 651,
+            "streams": 25
+        },
+        "05": {
+            "median": 456,
+            "average": 471,
+            "streams": 25
+        },
+        "06": {
+            "median": 327,
+            "average": 347,
+            "streams": 27
+        },
+        "07": {
+            "median": 229,
+            "average": 424,
+            "streams": 31
+        },
+        "08": {
+            "median": 364,
+            "average": 459,
+            "streams": 13
+        },
+        "09": {
+            "median": 210,
+            "average": 253,
+            "streams": 13
+        },
+        "10": {
+            "median": 196,
+            "average": 199,
+            "streams": 14
+        },
+        "11": {
+            "median": 221,
+            "average": 225,
+            "streams": 15
+        },
+        "12": {
+            "median": 259,
+            "average": 276,
+            "streams": 12
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "一条莉々華",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": 7523,
+            "average": 11359,
+            "streams": 46
+        },
+        "10": {
+            "median": 5747,
+            "average": 6791,
+            "streams": 43
+        },
+        "11": {
+            "median": 5903,
+            "average": 7193,
+            "streams": 35
+        },
+        "12": {
+            "median": 4599,
+            "average": 6107,
+            "streams": 52
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Victoria Brightshield",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "10": {
+            "median": 2654,
+            "average": 8019,
+            "streams": 4
+        },
+        "11": {
+            "median": 1022,
+            "average": 1331,
+            "streams": 20
+        },
+        "12": {
+            "median": 1084,
+            "average": 1096,
+            "streams": 15
+        }
+    }
+}

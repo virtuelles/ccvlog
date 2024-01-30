@@ -1,0 +1,66 @@
+{
+    "Name": "宝鐘マリン",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 38368,
+            "average": 40738,
+            "streams": 11
+        },
+        "02": {
+            "median": 41920,
+            "average": 46571,
+            "streams": 12
+        },
+        "03": {
+            "median": 38671,
+            "average": 45036,
+            "streams": 13
+        },
+        "04": {
+            "median": 46560,
+            "average": 51386,
+            "streams": 18
+        },
+        "05": {
+            "median": 38392,
+            "average": 44824,
+            "streams": 9
+        },
+        "06": {
+            "median": 33374,
+            "average": 32121,
+            "streams": 8
+        },
+        "07": {
+            "median": 40966,
+            "average": 49155,
+            "streams": 13
+        },
+        "08": {
+            "median": 33451,
+            "average": 35243,
+            "streams": 7
+        },
+        "09": {
+            "median": 42273,
+            "average": 41794,
+            "streams": 5
+        },
+        "10": {
+            "median": 54984,
+            "average": 54667,
+            "streams": 4
+        },
+        "11": {
+            "median": 39480,
+            "average": 60275,
+            "streams": 6
+        },
+        "12": {
+            "median": 37084,
+            "average": 50169,
+            "streams": 14
+        }
+    }
+}

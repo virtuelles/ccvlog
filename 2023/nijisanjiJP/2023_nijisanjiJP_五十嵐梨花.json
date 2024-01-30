@@ -1,0 +1,66 @@
+{
+    "Name": "五十嵐梨花",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1976,
+            "average": 4869,
+            "streams": 17
+        },
+        "02": {
+            "median": 2065,
+            "average": 2123,
+            "streams": 36
+        },
+        "03": {
+            "median": 2322,
+            "average": 2938,
+            "streams": 37
+        },
+        "04": {
+            "median": 1905,
+            "average": 2108,
+            "streams": 34
+        },
+        "05": {
+            "median": 1660,
+            "average": 1900,
+            "streams": 27
+        },
+        "06": {
+            "median": 2012,
+            "average": 2409,
+            "streams": 29
+        },
+        "07": {
+            "median": 3657,
+            "average": 13855,
+            "streams": 19
+        },
+        "08": {
+            "median": 2169,
+            "average": 3668,
+            "streams": 22
+        },
+        "09": {
+            "median": 2016,
+            "average": 1881,
+            "streams": 25
+        },
+        "10": {
+            "median": 1353,
+            "average": 1503,
+            "streams": 25
+        },
+        "11": {
+            "median": 1709,
+            "average": 2264,
+            "streams": 21
+        },
+        "12": {
+            "median": 1733,
+            "average": 1959,
+            "streams": 23
+        }
+    }
+}

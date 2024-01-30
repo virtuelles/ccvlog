@@ -1,0 +1,66 @@
+{
+    "Name": "Gavis Bettel",
+    "Group": "holostarsEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 2701,
+            "average": 2873,
+            "streams": 30
+        },
+        "03": {
+            "median": 1949,
+            "average": 2299,
+            "streams": 29
+        },
+        "04": {
+            "median": 1784,
+            "average": 1858,
+            "streams": 27
+        },
+        "05": {
+            "median": 1705,
+            "average": 2259,
+            "streams": 30
+        },
+        "06": {
+            "median": 1830,
+            "average": 1849,
+            "streams": 23
+        },
+        "07": {
+            "median": 1780,
+            "average": 1878,
+            "streams": 17
+        },
+        "08": {
+            "median": 1837,
+            "average": 2452,
+            "streams": 25
+        },
+        "09": {
+            "median": 1534,
+            "average": 1908,
+            "streams": 23
+        },
+        "10": {
+            "median": 1500,
+            "average": 1815,
+            "streams": 15
+        },
+        "11": {
+            "median": 1580,
+            "average": 1768,
+            "streams": 17
+        },
+        "12": {
+            "median": 2063,
+            "average": 2482,
+            "streams": 28
+        }
+    }
+}

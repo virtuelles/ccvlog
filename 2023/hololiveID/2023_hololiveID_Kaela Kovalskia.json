@@ -1,0 +1,66 @@
+{
+    "Name": "Kaela Kovalskia",
+    "Group": "hololiveID",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 4246,
+            "average": 4961,
+            "streams": 38
+        },
+        "03": {
+            "median": 2851,
+            "average": 3408,
+            "streams": 44
+        },
+        "04": {
+            "median": 2860,
+            "average": 3227,
+            "streams": 36
+        },
+        "05": {
+            "median": 2477,
+            "average": 2780,
+            "streams": 41
+        },
+        "06": {
+            "median": 3324,
+            "average": 3439,
+            "streams": 39
+        },
+        "07": {
+            "median": 2604,
+            "average": 2759,
+            "streams": 36
+        },
+        "08": {
+            "median": 4373,
+            "average": 5118,
+            "streams": 50
+        },
+        "09": {
+            "median": 3223,
+            "average": 3722,
+            "streams": 35
+        },
+        "10": {
+            "median": 3256,
+            "average": 5071,
+            "streams": 32
+        },
+        "11": {
+            "median": 2859,
+            "average": 3061,
+            "streams": 41
+        },
+        "12": {
+            "median": 3077,
+            "average": 3273,
+            "streams": 28
+        }
+    }
+}

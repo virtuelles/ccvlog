@@ -1,0 +1,66 @@
+{
+    "Name": "ZEA Cornelia",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 186,
+            "average": 263,
+            "streams": 17
+        },
+        "02": {
+            "median": 183,
+            "average": 183,
+            "streams": 1
+        },
+        "03": {
+            "median": 155,
+            "average": 169,
+            "streams": 9
+        },
+        "04": {
+            "median": 187,
+            "average": 243,
+            "streams": 11
+        },
+        "05": {
+            "median": 548,
+            "average": 1275,
+            "streams": 8
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

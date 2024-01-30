@@ -1,0 +1,66 @@
+{
+    "Name": "雪城眞尋",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1793,
+            "average": 1689,
+            "streams": 18
+        },
+        "02": {
+            "median": 1583,
+            "average": 1629,
+            "streams": 19
+        },
+        "03": {
+            "median": 1616,
+            "average": 1443,
+            "streams": 20
+        },
+        "04": {
+            "median": 1373,
+            "average": 1159,
+            "streams": 21
+        },
+        "05": {
+            "median": 1689,
+            "average": 2500,
+            "streams": 27
+        },
+        "06": {
+            "median": 1486,
+            "average": 1855,
+            "streams": 20
+        },
+        "07": {
+            "median": 1046,
+            "average": 1037,
+            "streams": 26
+        },
+        "08": {
+            "median": 1050,
+            "average": 911,
+            "streams": 15
+        },
+        "09": {
+            "median": 1338,
+            "average": 1328,
+            "streams": 18
+        },
+        "10": {
+            "median": 1283,
+            "average": 1225,
+            "streams": 19
+        },
+        "11": {
+            "median": 1314,
+            "average": 1933,
+            "streams": 26
+        },
+        "12": {
+            "median": 1146,
+            "average": 1138,
+            "streams": 28
+        }
+    }
+}

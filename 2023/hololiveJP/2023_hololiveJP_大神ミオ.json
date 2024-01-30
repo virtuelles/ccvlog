@@ -1,0 +1,66 @@
+{
+    "Name": "大神ミオ",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 13261,
+            "average": 13819,
+            "streams": 22
+        },
+        "02": {
+            "median": 13369,
+            "average": 19488,
+            "streams": 21
+        },
+        "03": {
+            "median": 9886,
+            "average": 13919,
+            "streams": 17
+        },
+        "04": {
+            "median": 13613,
+            "average": 13542,
+            "streams": 18
+        },
+        "05": {
+            "median": 16186,
+            "average": 19967,
+            "streams": 15
+        },
+        "06": {
+            "median": 13221,
+            "average": 13566,
+            "streams": 15
+        },
+        "07": {
+            "median": 13402,
+            "average": 13741,
+            "streams": 19
+        },
+        "08": {
+            "median": 15606,
+            "average": 20251,
+            "streams": 19
+        },
+        "09": {
+            "median": 11876,
+            "average": 13197,
+            "streams": 17
+        },
+        "10": {
+            "median": 8928,
+            "average": 10825,
+            "streams": 17
+        },
+        "11": {
+            "median": 14052,
+            "average": 21794,
+            "streams": 18
+        },
+        "12": {
+            "median": 14065,
+            "average": 19255,
+            "streams": 18
+        }
+    }
+}

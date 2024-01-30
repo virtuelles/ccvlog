@@ -1,0 +1,66 @@
+{
+    "Name": "夜空メル",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 4416,
+            "average": 6342,
+            "streams": 20
+        },
+        "02": {
+            "median": 3667,
+            "average": 4605,
+            "streams": 15
+        },
+        "03": {
+            "median": 4458,
+            "average": 7149,
+            "streams": 7
+        },
+        "04": {
+            "median": 6941,
+            "average": 10128,
+            "streams": 7
+        },
+        "05": {
+            "median": 3066,
+            "average": 8010,
+            "streams": 11
+        },
+        "06": {
+            "median": 3827,
+            "average": 4201,
+            "streams": 11
+        },
+        "07": {
+            "median": 3925,
+            "average": 8142,
+            "streams": 13
+        },
+        "08": {
+            "median": 3324,
+            "average": 3310,
+            "streams": 9
+        },
+        "09": {
+            "median": 5167,
+            "average": 5163,
+            "streams": 10
+        },
+        "10": {
+            "median": 3997,
+            "average": 8573,
+            "streams": 15
+        },
+        "11": {
+            "median": 4926,
+            "average": 6213,
+            "streams": 21
+        },
+        "12": {
+            "median": 3486,
+            "average": 5186,
+            "streams": 20
+        }
+    }
+}

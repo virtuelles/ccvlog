@@ -1,0 +1,66 @@
+{
+    "Name": "叢雲カゲツ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 5714,
+            "average": 8392,
+            "streams": 4
+        },
+        "05": {
+            "median": 1027,
+            "average": 1275,
+            "streams": 24
+        },
+        "06": {
+            "median": 1093,
+            "average": 1197,
+            "streams": 26
+        },
+        "07": {
+            "median": 933,
+            "average": 1185,
+            "streams": 41
+        },
+        "08": {
+            "median": 1327,
+            "average": 1429,
+            "streams": 33
+        },
+        "09": {
+            "median": 1582,
+            "average": 1651,
+            "streams": 31
+        },
+        "10": {
+            "median": 1615,
+            "average": 2179,
+            "streams": 30
+        },
+        "11": {
+            "median": 1651,
+            "average": 1588,
+            "streams": 25
+        },
+        "12": {
+            "median": 1652,
+            "average": 2288,
+            "streams": 27
+        }
+    }
+}

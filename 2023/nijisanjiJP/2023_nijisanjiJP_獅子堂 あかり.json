@@ -1,0 +1,66 @@
+{
+    "Name": "獅子堂 あかり",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 1290,
+            "average": 1371,
+            "streams": 27
+        },
+        "03": {
+            "median": 1765,
+            "average": 1937,
+            "streams": 38
+        },
+        "04": {
+            "median": 1321,
+            "average": 1965,
+            "streams": 34
+        },
+        "05": {
+            "median": 1319,
+            "average": 1856,
+            "streams": 28
+        },
+        "06": {
+            "median": 1355,
+            "average": 1388,
+            "streams": 33
+        },
+        "07": {
+            "median": 1214,
+            "average": 1334,
+            "streams": 32
+        },
+        "08": {
+            "median": 1355,
+            "average": 1337,
+            "streams": 35
+        },
+        "09": {
+            "median": 1408,
+            "average": 1604,
+            "streams": 35
+        },
+        "10": {
+            "median": 1487,
+            "average": 1521,
+            "streams": 31
+        },
+        "11": {
+            "median": 1802,
+            "average": 2224,
+            "streams": 22
+        },
+        "12": {
+            "median": 1854,
+            "average": 2450,
+            "streams": 33
+        }
+    }
+}

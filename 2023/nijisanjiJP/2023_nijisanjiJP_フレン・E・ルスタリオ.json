@@ -1,0 +1,66 @@
+{
+    "Name": "フレン・E・ルスタリオ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 8011,
+            "average": 8507,
+            "streams": 22
+        },
+        "02": {
+            "median": 8605,
+            "average": 8667,
+            "streams": 18
+        },
+        "03": {
+            "median": 6482,
+            "average": 8145,
+            "streams": 16
+        },
+        "04": {
+            "median": 6824,
+            "average": 7274,
+            "streams": 17
+        },
+        "05": {
+            "median": 6831,
+            "average": 8509,
+            "streams": 15
+        },
+        "06": {
+            "median": 7303,
+            "average": 7392,
+            "streams": 13
+        },
+        "07": {
+            "median": 6735,
+            "average": 7098,
+            "streams": 17
+        },
+        "08": {
+            "median": 8948,
+            "average": 8072,
+            "streams": 20
+        },
+        "09": {
+            "median": 7613,
+            "average": 7710,
+            "streams": 17
+        },
+        "10": {
+            "median": 6097,
+            "average": 6120,
+            "streams": 20
+        },
+        "11": {
+            "median": 7645,
+            "average": 7965,
+            "streams": 17
+        },
+        "12": {
+            "median": 6868,
+            "average": 8591,
+            "streams": 16
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Mori Calliope",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 5914,
+            "average": 10361,
+            "streams": 21
+        },
+        "03": {
+            "median": 4237,
+            "average": 5799,
+            "streams": 16
+        },
+        "04": {
+            "median": 5204,
+            "average": 6499,
+            "streams": 26
+        },
+        "05": {
+            "median": 5365,
+            "average": 6512,
+            "streams": 27
+        },
+        "06": {
+            "median": 5785,
+            "average": 5750,
+            "streams": 24
+        },
+        "07": {
+            "median": 5249,
+            "average": 9427,
+            "streams": 22
+        },
+        "08": {
+            "median": 7009,
+            "average": 8227,
+            "streams": 23
+        },
+        "09": {
+            "median": 6057,
+            "average": 7709,
+            "streams": 26
+        },
+        "10": {
+            "median": 6332,
+            "average": 7385,
+            "streams": 23
+        },
+        "11": {
+            "median": 5580,
+            "average": 8766,
+            "streams": 17
+        },
+        "12": {
+            "median": 8058,
+            "average": 8453,
+            "streams": 21
+        }
+    }
+}

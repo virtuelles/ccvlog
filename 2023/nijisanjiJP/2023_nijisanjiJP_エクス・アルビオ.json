@@ -1,0 +1,66 @@
+{
+    "Name": "エクス・アルビオ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3074,
+            "average": 3375,
+            "streams": 26
+        },
+        "02": {
+            "median": 2847,
+            "average": 2912,
+            "streams": 12
+        },
+        "03": {
+            "median": 3480,
+            "average": 3904,
+            "streams": 23
+        },
+        "04": {
+            "median": 4568,
+            "average": 4819,
+            "streams": 34
+        },
+        "05": {
+            "median": 3189,
+            "average": 3386,
+            "streams": 24
+        },
+        "06": {
+            "median": 2900,
+            "average": 2981,
+            "streams": 22
+        },
+        "07": {
+            "median": 3140,
+            "average": 3383,
+            "streams": 26
+        },
+        "08": {
+            "median": 2739,
+            "average": 3305,
+            "streams": 31
+        },
+        "09": {
+            "median": 2888,
+            "average": 3287,
+            "streams": 30
+        },
+        "10": {
+            "median": 4530,
+            "average": 4815,
+            "streams": 28
+        },
+        "11": {
+            "median": 2846,
+            "average": 2758,
+            "streams": 23
+        },
+        "12": {
+            "median": 4856,
+            "average": 5186,
+            "streams": 27
+        }
+    }
+}

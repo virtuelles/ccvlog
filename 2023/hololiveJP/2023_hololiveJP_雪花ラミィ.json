@@ -1,0 +1,66 @@
+{
+    "Name": "雪花ラミィ",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 13378,
+            "average": 15037,
+            "streams": 13
+        },
+        "02": {
+            "median": 10677,
+            "average": 13746,
+            "streams": 23
+        },
+        "03": {
+            "median": 11124,
+            "average": 13678,
+            "streams": 14
+        },
+        "04": {
+            "median": 13414,
+            "average": 13035,
+            "streams": 17
+        },
+        "05": {
+            "median": 11601,
+            "average": 11559,
+            "streams": 12
+        },
+        "06": {
+            "median": 10845,
+            "average": 11866,
+            "streams": 19
+        },
+        "07": {
+            "median": 12233,
+            "average": 11608,
+            "streams": 17
+        },
+        "08": {
+            "median": 10706,
+            "average": 11157,
+            "streams": 16
+        },
+        "09": {
+            "median": 12117,
+            "average": 14969,
+            "streams": 17
+        },
+        "10": {
+            "median": 10147,
+            "average": 11326,
+            "streams": 16
+        },
+        "11": {
+            "median": 10953,
+            "average": 22139,
+            "streams": 12
+        },
+        "12": {
+            "median": 10155,
+            "average": 14815,
+            "streams": 7
+        }
+    }
+}

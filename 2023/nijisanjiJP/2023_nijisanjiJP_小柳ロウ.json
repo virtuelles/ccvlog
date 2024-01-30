@@ -1,0 +1,66 @@
+{
+    "Name": "小柳ロウ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 2157,
+            "average": 10980,
+            "streams": 3
+        },
+        "05": {
+            "median": 1653,
+            "average": 1789,
+            "streams": 32
+        },
+        "06": {
+            "median": 1430,
+            "average": 1565,
+            "streams": 23
+        },
+        "07": {
+            "median": 1417,
+            "average": 1449,
+            "streams": 20
+        },
+        "08": {
+            "median": 890,
+            "average": 1255,
+            "streams": 21
+        },
+        "09": {
+            "median": 1869,
+            "average": 1995,
+            "streams": 18
+        },
+        "10": {
+            "median": 1552,
+            "average": 1622,
+            "streams": 17
+        },
+        "11": {
+            "median": 1594,
+            "average": 2513,
+            "streams": 11
+        },
+        "12": {
+            "median": 1132,
+            "average": 1452,
+            "streams": 19
+        }
+    }
+}

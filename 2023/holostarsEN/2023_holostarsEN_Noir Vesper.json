@@ -1,0 +1,66 @@
+{
+    "Name": "Noir Vesper",
+    "Group": "holostarsEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 2377,
+            "average": 2921,
+            "streams": 21
+        },
+        "03": {
+            "median": 2241,
+            "average": 2573,
+            "streams": 19
+        },
+        "04": {
+            "median": 1996,
+            "average": 2440,
+            "streams": 17
+        },
+        "05": {
+            "median": 1799,
+            "average": 1843,
+            "streams": 15
+        },
+        "06": {
+            "median": 1631,
+            "average": 1738,
+            "streams": 19
+        },
+        "07": {
+            "median": 11602,
+            "average": 11602,
+            "streams": 2
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

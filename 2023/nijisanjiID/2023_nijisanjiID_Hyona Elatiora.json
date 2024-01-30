@@ -1,0 +1,66 @@
+{
+    "Name": "Hyona Elatiora",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 164,
+            "average": 167,
+            "streams": 13
+        },
+        "02": {
+            "median": 200,
+            "average": 234,
+            "streams": 10
+        },
+        "03": {
+            "median": 158,
+            "average": 320,
+            "streams": 7
+        },
+        "04": {
+            "median": 160,
+            "average": 210,
+            "streams": 8
+        },
+        "05": {
+            "median": 157,
+            "average": 183,
+            "streams": 5
+        },
+        "06": {
+            "median": 193,
+            "average": 255,
+            "streams": 3
+        },
+        "07": {
+            "median": 147,
+            "average": 277,
+            "streams": 16
+        },
+        "08": {
+            "median": 119,
+            "average": 129,
+            "streams": 5
+        },
+        "09": {
+            "median": 159,
+            "average": 335,
+            "streams": 4
+        },
+        "10": {
+            "median": 239,
+            "average": 353,
+            "streams": 9
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

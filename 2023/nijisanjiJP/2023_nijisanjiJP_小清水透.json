@@ -1,0 +1,66 @@
+{
+    "Name": "小清水透",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 6356,
+            "average": 10278,
+            "streams": 13
+        },
+        "02": {
+            "median": 3812,
+            "average": 3907,
+            "streams": 38
+        },
+        "03": {
+            "median": 3891,
+            "average": 4151,
+            "streams": 32
+        },
+        "04": {
+            "median": 3449,
+            "average": 3711,
+            "streams": 37
+        },
+        "05": {
+            "median": 3459,
+            "average": 3470,
+            "streams": 32
+        },
+        "06": {
+            "median": 3529,
+            "average": 3324,
+            "streams": 35
+        },
+        "07": {
+            "median": 3463,
+            "average": 3885,
+            "streams": 34
+        },
+        "08": {
+            "median": 3975,
+            "average": 3749,
+            "streams": 25
+        },
+        "09": {
+            "median": 4277,
+            "average": 4356,
+            "streams": 23
+        },
+        "10": {
+            "median": 3765,
+            "average": 4292,
+            "streams": 30
+        },
+        "11": {
+            "median": 4851,
+            "average": 4521,
+            "streams": 18
+        },
+        "12": {
+            "median": 3974,
+            "average": 4174,
+            "streams": 21
+        }
+    }
+}

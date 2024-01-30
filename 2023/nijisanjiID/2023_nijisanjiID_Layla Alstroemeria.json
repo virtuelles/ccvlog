@@ -1,0 +1,66 @@
+{
+    "Name": "Layla Alstroemeria",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 173,
+            "average": 187,
+            "streams": 7
+        },
+        "02": {
+            "median": 182,
+            "average": 499,
+            "streams": 8
+        },
+        "03": {
+            "median": 204,
+            "average": 211,
+            "streams": 5
+        },
+        "04": {
+            "median": 118,
+            "average": 202,
+            "streams": 6
+        },
+        "05": {
+            "median": 144,
+            "average": 290,
+            "streams": 8
+        },
+        "06": {
+            "median": 133,
+            "average": 191,
+            "streams": 12
+        },
+        "07": {
+            "median": 160,
+            "average": 207,
+            "streams": 8
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": 232,
+            "average": 2880,
+            "streams": 3
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": 287,
+            "average": 275,
+            "streams": 6
+        },
+        "12": {
+            "median": 197,
+            "average": 192,
+            "streams": 4
+        }
+    }
+}

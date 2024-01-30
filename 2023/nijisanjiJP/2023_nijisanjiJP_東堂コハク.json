@@ -1,0 +1,66 @@
+{
+    "Name": "東堂コハク",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1178,
+            "average": 1105,
+            "streams": 7
+        },
+        "02": {
+            "median": 1639,
+            "average": 2182,
+            "streams": 3
+        },
+        "03": {
+            "median": 2565,
+            "average": 2565,
+            "streams": 1
+        },
+        "04": {
+            "median": 1234,
+            "average": 1234,
+            "streams": 2
+        },
+        "05": {
+            "median": 728,
+            "average": 866,
+            "streams": 7
+        },
+        "06": {
+            "median": 722,
+            "average": 829,
+            "streams": 11
+        },
+        "07": {
+            "median": 651,
+            "average": 895,
+            "streams": 10
+        },
+        "08": {
+            "median": 620,
+            "average": 1101,
+            "streams": 11
+        },
+        "09": {
+            "median": 1025,
+            "average": 1137,
+            "streams": 8
+        },
+        "10": {
+            "median": 585,
+            "average": 3692,
+            "streams": 13
+        },
+        "11": {
+            "median": 534,
+            "average": 845,
+            "streams": 6
+        },
+        "12": {
+            "median": 593,
+            "average": 1736,
+            "streams": 4
+        }
+    }
+}

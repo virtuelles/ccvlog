@@ -1,0 +1,66 @@
+{
+    "Name": "町田ちま",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3729,
+            "average": 5398,
+            "streams": 8
+        },
+        "02": {
+            "median": 7718,
+            "average": 6614,
+            "streams": 5
+        },
+        "03": {
+            "median": 1799,
+            "average": 2581,
+            "streams": 10
+        },
+        "04": {
+            "median": 1898,
+            "average": 2815,
+            "streams": 11
+        },
+        "05": {
+            "median": 1997,
+            "average": 3019,
+            "streams": 10
+        },
+        "06": {
+            "median": 1837,
+            "average": 2685,
+            "streams": 9
+        },
+        "07": {
+            "median": 2367,
+            "average": 3512,
+            "streams": 11
+        },
+        "08": {
+            "median": 2321,
+            "average": 3258,
+            "streams": 14
+        },
+        "09": {
+            "median": 2117,
+            "average": 4058,
+            "streams": 14
+        },
+        "10": {
+            "median": 2400,
+            "average": 2956,
+            "streams": 12
+        },
+        "11": {
+            "median": 1820,
+            "average": 4116,
+            "streams": 11
+        },
+        "12": {
+            "median": 1530,
+            "average": 2612,
+            "streams": 16
+        }
+    }
+}

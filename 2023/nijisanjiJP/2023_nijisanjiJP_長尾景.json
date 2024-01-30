@@ -1,0 +1,66 @@
+{
+    "Name": "長尾景",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 3660,
+            "average": 3652,
+            "streams": 21
+        },
+        "02": {
+            "median": 2805,
+            "average": 3403,
+            "streams": 15
+        },
+        "03": {
+            "median": 2598,
+            "average": 2906,
+            "streams": 21
+        },
+        "04": {
+            "median": 2489,
+            "average": 3719,
+            "streams": 21
+        },
+        "05": {
+            "median": 2511,
+            "average": 3961,
+            "streams": 16
+        },
+        "06": {
+            "median": 2760,
+            "average": 3204,
+            "streams": 22
+        },
+        "07": {
+            "median": 2190,
+            "average": 2974,
+            "streams": 31
+        },
+        "08": {
+            "median": 2545,
+            "average": 3093,
+            "streams": 21
+        },
+        "09": {
+            "median": 2841,
+            "average": 3156,
+            "streams": 19
+        },
+        "10": {
+            "median": 3070,
+            "average": 4852,
+            "streams": 20
+        },
+        "11": {
+            "median": 1952,
+            "average": 2465,
+            "streams": 15
+        },
+        "12": {
+            "median": 2342,
+            "average": 2606,
+            "streams": 17
+        }
+    }
+}

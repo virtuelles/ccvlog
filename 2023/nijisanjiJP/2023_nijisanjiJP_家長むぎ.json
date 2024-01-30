@@ -1,0 +1,66 @@
+{
+    "Name": "家長むぎ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2208,
+            "average": 2004,
+            "streams": 5
+        },
+        "02": {
+            "median": 769,
+            "average": 726,
+            "streams": 3
+        },
+        "03": {
+            "median": 864,
+            "average": 998,
+            "streams": 6
+        },
+        "04": {
+            "median": 759,
+            "average": 743,
+            "streams": 5
+        },
+        "05": {
+            "median": 686,
+            "average": 642,
+            "streams": 4
+        },
+        "06": {
+            "median": 679,
+            "average": 934,
+            "streams": 6
+        },
+        "07": {
+            "median": 557,
+            "average": 541,
+            "streams": 4
+        },
+        "08": {
+            "median": 550,
+            "average": 726,
+            "streams": 11
+        },
+        "09": {
+            "median": 976,
+            "average": 941,
+            "streams": 6
+        },
+        "10": {
+            "median": 892,
+            "average": 889,
+            "streams": 6
+        },
+        "11": {
+            "median": 780,
+            "average": 1114,
+            "streams": 6
+        },
+        "12": {
+            "median": 845,
+            "average": 796,
+            "streams": 7
+        }
+    }
+}

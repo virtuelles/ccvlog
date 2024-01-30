@@ -1,0 +1,66 @@
+{
+    "Name": "レヴィ・エリファ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 585,
+            "average": 723,
+            "streams": 16
+        },
+        "02": {
+            "median": 762,
+            "average": 832,
+            "streams": 23
+        },
+        "03": {
+            "median": 611,
+            "average": 924,
+            "streams": 23
+        },
+        "04": {
+            "median": 466,
+            "average": 859,
+            "streams": 22
+        },
+        "05": {
+            "median": 517,
+            "average": 774,
+            "streams": 24
+        },
+        "06": {
+            "median": 526,
+            "average": 594,
+            "streams": 20
+        },
+        "07": {
+            "median": 602,
+            "average": 598,
+            "streams": 10
+        },
+        "08": {
+            "median": 708,
+            "average": 1872,
+            "streams": 16
+        },
+        "09": {
+            "median": 536,
+            "average": 1764,
+            "streams": 11
+        },
+        "10": {
+            "median": 630,
+            "average": 691,
+            "streams": 10
+        },
+        "11": {
+            "median": 398,
+            "average": 809,
+            "streams": 20
+        },
+        "12": {
+            "median": 420,
+            "average": 495,
+            "streams": 21
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "早瀬走",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1601,
+            "average": 2466,
+            "streams": 20
+        },
+        "02": {
+            "median": 1063,
+            "average": 1272,
+            "streams": 14
+        },
+        "03": {
+            "median": 845,
+            "average": 1294,
+            "streams": 9
+        },
+        "04": {
+            "median": 980,
+            "average": 1038,
+            "streams": 3
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "06": {
+            "median": 1570,
+            "average": 1642,
+            "streams": 7
+        },
+        "07": {
+            "median": 1091,
+            "average": 1154,
+            "streams": 10
+        },
+        "08": {
+            "median": 1101,
+            "average": 1220,
+            "streams": 14
+        },
+        "09": {
+            "median": 1031,
+            "average": 1087,
+            "streams": 8
+        },
+        "10": {
+            "median": 1217,
+            "average": 1206,
+            "streams": 12
+        },
+        "11": {
+            "median": 2132,
+            "average": 2565,
+            "streams": 15
+        },
+        "12": {
+            "median": 2709,
+            "average": 2949,
+            "streams": 13
+        }
+    }
+}

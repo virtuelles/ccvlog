@@ -1,0 +1,66 @@
+{
+    "Name": "Kotoka Torahime",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1632,
+            "average": 1944,
+            "streams": 45
+        },
+        "02": {
+            "median": 1087,
+            "average": 1324,
+            "streams": 23
+        },
+        "03": {
+            "median": 1715,
+            "average": 1778,
+            "streams": 21
+        },
+        "04": {
+            "median": 980,
+            "average": 1898,
+            "streams": 22
+        },
+        "05": {
+            "median": 1225,
+            "average": 1474,
+            "streams": 21
+        },
+        "06": {
+            "median": 1394,
+            "average": 1626,
+            "streams": 18
+        },
+        "07": {
+            "median": 1059,
+            "average": 1046,
+            "streams": 12
+        },
+        "08": {
+            "median": 1436,
+            "average": 2834,
+            "streams": 22
+        },
+        "09": {
+            "median": 1484,
+            "average": 2988,
+            "streams": 12
+        },
+        "10": {
+            "median": 1732,
+            "average": 2565,
+            "streams": 15
+        },
+        "11": {
+            "median": 1845,
+            "average": 2662,
+            "streams": 14
+        },
+        "12": {
+            "median": 1647,
+            "average": 2743,
+            "streams": 24
+        }
+    }
+}

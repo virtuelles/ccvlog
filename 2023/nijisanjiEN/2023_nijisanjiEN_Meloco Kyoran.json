@@ -1,0 +1,66 @@
+{
+    "Name": "Meloco Kyoran",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2009,
+            "average": 2420,
+            "streams": 23
+        },
+        "02": {
+            "median": 1610,
+            "average": 1810,
+            "streams": 18
+        },
+        "03": {
+            "median": 1470,
+            "average": 2009,
+            "streams": 18
+        },
+        "04": {
+            "median": 1159,
+            "average": 1186,
+            "streams": 15
+        },
+        "05": {
+            "median": 1696,
+            "average": 2080,
+            "streams": 15
+        },
+        "06": {
+            "median": 1718,
+            "average": 2432,
+            "streams": 14
+        },
+        "07": {
+            "median": 1575,
+            "average": 1938,
+            "streams": 16
+        },
+        "08": {
+            "median": 1720,
+            "average": 1967,
+            "streams": 16
+        },
+        "09": {
+            "median": 1439,
+            "average": 2624,
+            "streams": 17
+        },
+        "10": {
+            "median": 2027,
+            "average": 2330,
+            "streams": 18
+        },
+        "11": {
+            "median": 1409,
+            "average": 1444,
+            "streams": 13
+        },
+        "12": {
+            "median": 2372,
+            "average": 2530,
+            "streams": 15
+        }
+    }
+}

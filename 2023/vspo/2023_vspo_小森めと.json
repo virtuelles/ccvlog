@@ -1,0 +1,66 @@
+{
+    "Name": "小森めと",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 11931,
+            "average": 11861,
+            "streams": 24
+        },
+        "02": {
+            "median": 11793,
+            "average": 12362,
+            "streams": 26
+        },
+        "03": {
+            "median": 9407,
+            "average": 10639,
+            "streams": 30
+        },
+        "04": {
+            "median": 8418,
+            "average": 9565,
+            "streams": 25
+        },
+        "05": {
+            "median": 9982,
+            "average": 11122,
+            "streams": 24
+        },
+        "06": {
+            "median": 9984,
+            "average": 12903,
+            "streams": 27
+        },
+        "07": {
+            "median": 7676,
+            "average": 9987,
+            "streams": 27
+        },
+        "08": {
+            "median": 8179,
+            "average": 8635,
+            "streams": 21
+        },
+        "09": {
+            "median": 7903,
+            "average": 8660,
+            "streams": 26
+        },
+        "10": {
+            "median": 7674,
+            "average": 10825,
+            "streams": 24
+        },
+        "11": {
+            "median": 5133,
+            "average": 6090,
+            "streams": 24
+        },
+        "12": {
+            "median": 5247,
+            "average": 9502,
+            "streams": 21
+        }
+    }
+}

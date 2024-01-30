@@ -1,0 +1,66 @@
+{
+    "Name": "Shiori Novella",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": 104335,
+            "average": 104335,
+            "streams": 2
+        },
+        "08": {
+            "median": 11010,
+            "average": 13964,
+            "streams": 19
+        },
+        "09": {
+            "median": 5535,
+            "average": 5776,
+            "streams": 21
+        },
+        "10": {
+            "median": 4647,
+            "average": 4982,
+            "streams": 20
+        },
+        "11": {
+            "median": 4716,
+            "average": 5175,
+            "streams": 17
+        },
+        "12": {
+            "median": 6267,
+            "average": 6214,
+            "streams": 8
+        }
+    }
+}

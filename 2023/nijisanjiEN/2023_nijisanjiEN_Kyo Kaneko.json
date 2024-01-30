@@ -1,0 +1,66 @@
+{
+    "Name": "Kyo Kaneko",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2375,
+            "average": 2388,
+            "streams": 23
+        },
+        "02": {
+            "median": 1961,
+            "average": 2112,
+            "streams": 17
+        },
+        "03": {
+            "median": 1434,
+            "average": 1703,
+            "streams": 20
+        },
+        "04": {
+            "median": 1633,
+            "average": 1948,
+            "streams": 22
+        },
+        "05": {
+            "median": 1592,
+            "average": 1730,
+            "streams": 18
+        },
+        "06": {
+            "median": 1313,
+            "average": 1579,
+            "streams": 20
+        },
+        "07": {
+            "median": 2066,
+            "average": 2639,
+            "streams": 17
+        },
+        "08": {
+            "median": 1784,
+            "average": 2007,
+            "streams": 19
+        },
+        "09": {
+            "median": 1807,
+            "average": 2302,
+            "streams": 22
+        },
+        "10": {
+            "median": 1696,
+            "average": 2246,
+            "streams": 10
+        },
+        "11": {
+            "median": 1561,
+            "average": 1533,
+            "streams": 14
+        },
+        "12": {
+            "median": 1316,
+            "average": 1406,
+            "streams": 20
+        }
+    }
+}

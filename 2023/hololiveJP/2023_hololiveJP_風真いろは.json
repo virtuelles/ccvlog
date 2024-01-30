@@ -1,0 +1,66 @@
+{
+    "Name": "風真いろは",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 10945,
+            "average": 11760,
+            "streams": 34
+        },
+        "02": {
+            "median": 13469,
+            "average": 14485,
+            "streams": 25
+        },
+        "03": {
+            "median": 11929,
+            "average": 12340,
+            "streams": 22
+        },
+        "04": {
+            "median": 11959,
+            "average": 16669,
+            "streams": 22
+        },
+        "05": {
+            "median": 10117,
+            "average": 10659,
+            "streams": 7
+        },
+        "06": {
+            "median": 8618,
+            "average": 16784,
+            "streams": 13
+        },
+        "07": {
+            "median": 8416,
+            "average": 11107,
+            "streams": 14
+        },
+        "08": {
+            "median": 9240,
+            "average": 9866,
+            "streams": 18
+        },
+        "09": {
+            "median": 12730,
+            "average": 18918,
+            "streams": 8
+        },
+        "10": {
+            "median": 11575,
+            "average": 11850,
+            "streams": 11
+        },
+        "11": {
+            "median": 9009,
+            "average": 21065,
+            "streams": 8
+        },
+        "12": {
+            "median": 9404,
+            "average": 13263,
+            "streams": 19
+        }
+    }
+}

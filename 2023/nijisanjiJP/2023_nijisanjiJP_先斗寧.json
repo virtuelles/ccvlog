@@ -1,0 +1,66 @@
+{
+    "Name": "先斗寧",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1977,
+            "average": 2372,
+            "streams": 20
+        },
+        "02": {
+            "median": 1438,
+            "average": 1730,
+            "streams": 17
+        },
+        "03": {
+            "median": 1979,
+            "average": 1943,
+            "streams": 21
+        },
+        "04": {
+            "median": 2209,
+            "average": 5450,
+            "streams": 19
+        },
+        "05": {
+            "median": 2180,
+            "average": 2319,
+            "streams": 22
+        },
+        "06": {
+            "median": 1534,
+            "average": 2511,
+            "streams": 17
+        },
+        "07": {
+            "median": 4188,
+            "average": 4069,
+            "streams": 20
+        },
+        "08": {
+            "median": 2719,
+            "average": 2568,
+            "streams": 21
+        },
+        "09": {
+            "median": 2455,
+            "average": 3305,
+            "streams": 18
+        },
+        "10": {
+            "median": 1270,
+            "average": 1791,
+            "streams": 21
+        },
+        "11": {
+            "median": 1954,
+            "average": 2284,
+            "streams": 20
+        },
+        "12": {
+            "median": 1806,
+            "average": 2073,
+            "streams": 21
+        }
+    }
+}

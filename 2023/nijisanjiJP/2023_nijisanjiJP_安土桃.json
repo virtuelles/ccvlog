@@ -1,0 +1,66 @@
+{
+    "Name": "安土桃",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 548,
+            "average": 558,
+            "streams": 16
+        },
+        "02": {
+            "median": 426,
+            "average": 1200,
+            "streams": 29
+        },
+        "03": {
+            "median": 422,
+            "average": 399,
+            "streams": 11
+        },
+        "04": {
+            "median": 443,
+            "average": 443,
+            "streams": 2
+        },
+        "05": {
+            "median": 360,
+            "average": 360,
+            "streams": 2
+        },
+        "06": {
+            "median": 451,
+            "average": 959,
+            "streams": 10
+        },
+        "07": {
+            "median": 504,
+            "average": 435,
+            "streams": 5
+        },
+        "08": {
+            "median": 172,
+            "average": 279,
+            "streams": 6
+        },
+        "09": {
+            "median": 480,
+            "average": 493,
+            "streams": 7
+        },
+        "10": {
+            "median": 309,
+            "average": 788,
+            "streams": 17
+        },
+        "11": {
+            "median": 1193,
+            "average": 1423,
+            "streams": 15
+        },
+        "12": {
+            "median": 950,
+            "average": 1593,
+            "streams": 6
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Koseki Bijou",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": 128811,
+            "average": 128811,
+            "streams": 1
+        },
+        "08": {
+            "median": 11637,
+            "average": 12177,
+            "streams": 34
+        },
+        "09": {
+            "median": 8101,
+            "average": 8185,
+            "streams": 32
+        },
+        "10": {
+            "median": 7703,
+            "average": 8020,
+            "streams": 28
+        },
+        "11": {
+            "median": 7765,
+            "average": 8448,
+            "streams": 26
+        },
+        "12": {
+            "median": 9998,
+            "average": 9825,
+            "streams": 24
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Ceres Fauna",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 8575,
+            "average": 8774,
+            "streams": 14
+        },
+        "03": {
+            "median": 8793,
+            "average": 9426,
+            "streams": 16
+        },
+        "04": {
+            "median": 9192,
+            "average": 9255,
+            "streams": 19
+        },
+        "05": {
+            "median": 7815,
+            "average": 7862,
+            "streams": 16
+        },
+        "06": {
+            "median": 8753,
+            "average": 8612,
+            "streams": 19
+        },
+        "07": {
+            "median": 8711,
+            "average": 11162,
+            "streams": 12
+        },
+        "08": {
+            "median": 8877,
+            "average": 10096,
+            "streams": 15
+        },
+        "09": {
+            "median": 8834,
+            "average": 12461,
+            "streams": 10
+        },
+        "10": {
+            "median": 10179,
+            "average": 10062,
+            "streams": 15
+        },
+        "11": {
+            "median": 9066,
+            "average": 9194,
+            "streams": 15
+        },
+        "12": {
+            "median": 10433,
+            "average": 10665,
+            "streams": 14
+        }
+    }
+}

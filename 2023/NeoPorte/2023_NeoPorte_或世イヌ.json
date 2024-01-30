@@ -1,0 +1,66 @@
+{
+    "Name": "或世イヌ",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 2342,
+            "average": 1965,
+            "streams": 6
+        },
+        "02": {
+            "median": 1409,
+            "average": 1606,
+            "streams": 7
+        },
+        "03": {
+            "median": 3217,
+            "average": 4322,
+            "streams": 11
+        },
+        "04": {
+            "median": 1439,
+            "average": 1756,
+            "streams": 23
+        },
+        "05": {
+            "median": 2838,
+            "average": 3323,
+            "streams": 16
+        },
+        "06": {
+            "median": 1733,
+            "average": 3083,
+            "streams": 14
+        },
+        "07": {
+            "median": 1252,
+            "average": 1932,
+            "streams": 12
+        },
+        "08": {
+            "median": 1462,
+            "average": 5070,
+            "streams": 14
+        },
+        "09": {
+            "median": 1011,
+            "average": 1473,
+            "streams": 10
+        },
+        "10": {
+            "median": 674,
+            "average": 2176,
+            "streams": 6
+        },
+        "11": {
+            "median": 3078,
+            "average": 6427,
+            "streams": 4
+        },
+        "12": {
+            "median": 1547,
+            "average": 2032,
+            "streams": 3
+        }
+    }
+}

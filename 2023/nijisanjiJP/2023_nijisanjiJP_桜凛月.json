@@ -1,0 +1,66 @@
+{
+    "Name": "桜凛月",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1508,
+            "average": 1708,
+            "streams": 33
+        },
+        "02": {
+            "median": 821,
+            "average": 963,
+            "streams": 21
+        },
+        "03": {
+            "median": 815,
+            "average": 848,
+            "streams": 26
+        },
+        "04": {
+            "median": 2440,
+            "average": 3063,
+            "streams": 33
+        },
+        "05": {
+            "median": 1070,
+            "average": 1151,
+            "streams": 28
+        },
+        "06": {
+            "median": 956,
+            "average": 1203,
+            "streams": 34
+        },
+        "07": {
+            "median": 1177,
+            "average": 1725,
+            "streams": 37
+        },
+        "08": {
+            "median": 880,
+            "average": 1010,
+            "streams": 24
+        },
+        "09": {
+            "median": 1017,
+            "average": 1057,
+            "streams": 20
+        },
+        "10": {
+            "median": 1122,
+            "average": 1173,
+            "streams": 35
+        },
+        "11": {
+            "median": 1083,
+            "average": 1101,
+            "streams": 28
+        },
+        "12": {
+            "median": 590,
+            "average": 688,
+            "streams": 27
+        }
+    }
+}

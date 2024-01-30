@@ -1,0 +1,66 @@
+{
+    "Name": "Xia Ekavira",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 115,
+            "average": 202,
+            "streams": 13
+        },
+        "02": {
+            "median": 76,
+            "average": 84,
+            "streams": 7
+        },
+        "03": {
+            "median": 146,
+            "average": 236,
+            "streams": 12
+        },
+        "04": {
+            "median": 159,
+            "average": 282,
+            "streams": 13
+        },
+        "05": {
+            "median": 94,
+            "average": 114,
+            "streams": 10
+        },
+        "06": {
+            "median": 132,
+            "average": 143,
+            "streams": 9
+        },
+        "07": {
+            "median": 104,
+            "average": 109,
+            "streams": 9
+        },
+        "08": {
+            "median": 110,
+            "average": 204,
+            "streams": 11
+        },
+        "09": {
+            "median": 106,
+            "average": 117,
+            "streams": 7
+        },
+        "10": {
+            "median": 120,
+            "average": 127,
+            "streams": 10
+        },
+        "11": {
+            "median": 163,
+            "average": 214,
+            "streams": 21
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "久我レオ",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 305,
+            "average": 353,
+            "streams": 39
+        },
+        "02": {
+            "median": 126,
+            "average": 165,
+            "streams": 43
+        },
+        "03": {
+            "median": 129,
+            "average": 151,
+            "streams": 38
+        },
+        "04": {
+            "median": 175,
+            "average": 210,
+            "streams": 27
+        },
+        "05": {
+            "median": 152,
+            "average": 179,
+            "streams": 13
+        },
+        "06": {
+            "median": 209,
+            "average": 242,
+            "streams": 17
+        },
+        "07": {
+            "median": 177,
+            "average": 211,
+            "streams": 26
+        },
+        "08": {
+            "median": 114,
+            "average": 168,
+            "streams": 15
+        },
+        "09": {
+            "median": 153,
+            "average": 147,
+            "streams": 23
+        },
+        "10": {
+            "median": 113,
+            "average": 130,
+            "streams": 17
+        },
+        "11": {
+            "median": 361,
+            "average": 479,
+            "streams": 17
+        },
+        "12": {
+            "median": 187,
+            "average": 252,
+            "streams": 6
+        }
+    }
+}

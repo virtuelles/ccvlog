@@ -1,0 +1,66 @@
+{
+    "Name": "郡道美玲",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2652,
+            "average": 3175,
+            "streams": 21
+        },
+        "02": {
+            "median": 1512,
+            "average": 1908,
+            "streams": 31
+        },
+        "03": {
+            "median": 2213,
+            "average": 2341,
+            "streams": 23
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "06": {
+            "median": 97059,
+            "average": 97059,
+            "streams": 1
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "渡会雲雀",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 2582,
+            "average": 5858,
+            "streams": 17
+        },
+        "02": {
+            "median": 2047,
+            "average": 3257,
+            "streams": 16
+        },
+        "03": {
+            "median": 1551,
+            "average": 1912,
+            "streams": 25
+        },
+        "04": {
+            "median": 2184,
+            "average": 2429,
+            "streams": 22
+        },
+        "05": {
+            "median": 3328,
+            "average": 10017,
+            "streams": 16
+        },
+        "06": {
+            "median": 1814,
+            "average": 2682,
+            "streams": 16
+        },
+        "07": {
+            "median": 6312,
+            "average": 17859,
+            "streams": 15
+        },
+        "08": {
+            "median": 3919,
+            "average": 6377,
+            "streams": 17
+        },
+        "09": {
+            "median": 3852,
+            "average": 5478,
+            "streams": 18
+        },
+        "10": {
+            "median": 2656,
+            "average": 2707,
+            "streams": 19
+        },
+        "11": {
+            "median": 2699,
+            "average": 2860,
+            "streams": 21
+        },
+        "12": {
+            "median": 2591,
+            "average": 3249,
+            "streams": 15
+        }
+    }
+}

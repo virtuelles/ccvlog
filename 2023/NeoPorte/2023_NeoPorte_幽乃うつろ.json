@@ -1,0 +1,66 @@
+{
+    "Name": "幽乃うつろ",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": 703,
+            "average": 1080,
+            "streams": 26
+        },
+        "06": {
+            "median": 615,
+            "average": 670,
+            "streams": 19
+        },
+        "07": {
+            "median": 382,
+            "average": 412,
+            "streams": 19
+        },
+        "08": {
+            "median": 345,
+            "average": 330,
+            "streams": 8
+        },
+        "09": {
+            "median": 451,
+            "average": 496,
+            "streams": 18
+        },
+        "10": {
+            "median": 400,
+            "average": 402,
+            "streams": 12
+        },
+        "11": {
+            "median": 366,
+            "average": 411,
+            "streams": 15
+        },
+        "12": {
+            "median": 331,
+            "average": 337,
+            "streams": 18
+        }
+    }
+}

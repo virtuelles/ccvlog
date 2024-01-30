@@ -1,0 +1,66 @@
+{
+    "Name": "Vantacrow Bringer",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": 4079,
+            "average": 8516,
+            "streams": 8
+        },
+        "07": {
+            "median": 1686,
+            "average": 1971,
+            "streams": 31
+        },
+        "08": {
+            "median": 1506,
+            "average": 1518,
+            "streams": 24
+        },
+        "09": {
+            "median": 1192,
+            "average": 1189,
+            "streams": 22
+        },
+        "10": {
+            "median": 1621,
+            "average": 1736,
+            "streams": 37
+        },
+        "11": {
+            "median": 1536,
+            "average": 1562,
+            "streams": 32
+        },
+        "12": {
+            "median": 1537,
+            "average": 1580,
+            "streams": 23
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "白雪レイド",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 6291,
+            "average": 6157,
+            "streams": 26
+        },
+        "02": {
+            "median": 6119,
+            "average": 6332,
+            "streams": 40
+        },
+        "03": {
+            "median": 6687,
+            "average": 6500,
+            "streams": 36
+        },
+        "04": {
+            "median": 6673,
+            "average": 7243,
+            "streams": 36
+        },
+        "05": {
+            "median": 6482,
+            "average": 6475,
+            "streams": 41
+        },
+        "06": {
+            "median": 6597,
+            "average": 7674,
+            "streams": 29
+        },
+        "07": {
+            "median": 4248,
+            "average": 5444,
+            "streams": 32
+        },
+        "08": {
+            "median": 5244,
+            "average": 5484,
+            "streams": 37
+        },
+        "09": {
+            "median": 4446,
+            "average": 4667,
+            "streams": 27
+        },
+        "10": {
+            "median": 4586,
+            "average": 4289,
+            "streams": 24
+        },
+        "11": {
+            "median": 3151,
+            "average": 3453,
+            "streams": 23
+        },
+        "12": {
+            "median": 3843,
+            "average": 3981,
+            "streams": 31
+        }
+    }
+}

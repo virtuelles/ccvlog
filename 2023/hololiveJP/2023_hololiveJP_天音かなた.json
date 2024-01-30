@@ -1,0 +1,66 @@
+{
+    "Name": "天音かなた",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 14125,
+            "average": 15619,
+            "streams": 25
+        },
+        "02": {
+            "median": 18751,
+            "average": 17208,
+            "streams": 21
+        },
+        "03": {
+            "median": 20464,
+            "average": 19603,
+            "streams": 25
+        },
+        "04": {
+            "median": 16438,
+            "average": 21490,
+            "streams": 23
+        },
+        "05": {
+            "median": 14010,
+            "average": 15603,
+            "streams": 16
+        },
+        "06": {
+            "median": 39475,
+            "average": 39475,
+            "streams": 2
+        },
+        "07": {
+            "median": 53087,
+            "average": 53087,
+            "streams": 1
+        },
+        "08": {
+            "median": 10061,
+            "average": 10061,
+            "streams": 1
+        },
+        "09": {
+            "median": 26813,
+            "average": 27893,
+            "streams": 7
+        },
+        "10": {
+            "median": 19213,
+            "average": 20299,
+            "streams": 6
+        },
+        "11": {
+            "median": 14790,
+            "average": 14968,
+            "streams": 8
+        },
+        "12": {
+            "median": 17115,
+            "average": 21002,
+            "streams": 16
+        }
+    }
+}

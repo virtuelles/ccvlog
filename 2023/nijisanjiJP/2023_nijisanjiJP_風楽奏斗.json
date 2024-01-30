@@ -1,0 +1,66 @@
+{
+    "Name": "風楽奏斗",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1146,
+            "average": 2032,
+            "streams": 23
+        },
+        "02": {
+            "median": 1156,
+            "average": 1263,
+            "streams": 20
+        },
+        "03": {
+            "median": 1389,
+            "average": 2025,
+            "streams": 21
+        },
+        "04": {
+            "median": 1354,
+            "average": 1556,
+            "streams": 20
+        },
+        "05": {
+            "median": 2355,
+            "average": 5817,
+            "streams": 20
+        },
+        "06": {
+            "median": 1910,
+            "average": 2110,
+            "streams": 16
+        },
+        "07": {
+            "median": 1703,
+            "average": 2195,
+            "streams": 19
+        },
+        "08": {
+            "median": 1911,
+            "average": 2229,
+            "streams": 18
+        },
+        "09": {
+            "median": 2003,
+            "average": 2103,
+            "streams": 16
+        },
+        "10": {
+            "median": 1807,
+            "average": 2083,
+            "streams": 15
+        },
+        "11": {
+            "median": 1958,
+            "average": 2283,
+            "streams": 22
+        },
+        "12": {
+            "median": 1926,
+            "average": 2054,
+            "streams": 20
+        }
+    }
+}

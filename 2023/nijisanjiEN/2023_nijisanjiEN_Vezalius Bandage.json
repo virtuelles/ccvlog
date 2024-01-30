@@ -1,0 +1,66 @@
+{
+    "Name": "Vezalius Bandage",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": 3760,
+            "average": 8556,
+            "streams": 7
+        },
+        "07": {
+            "median": 1534,
+            "average": 2095,
+            "streams": 31
+        },
+        "08": {
+            "median": 1114,
+            "average": 1478,
+            "streams": 22
+        },
+        "09": {
+            "median": 828,
+            "average": 1054,
+            "streams": 29
+        },
+        "10": {
+            "median": 775,
+            "average": 1008,
+            "streams": 28
+        },
+        "11": {
+            "median": 965,
+            "average": 1137,
+            "streams": 34
+        },
+        "12": {
+            "median": 909,
+            "average": 909,
+            "streams": 1
+        }
+    }
+}

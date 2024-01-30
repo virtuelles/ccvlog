@@ -1,0 +1,66 @@
+{
+    "Name": "Ike Eveland",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 5711,
+            "average": 5454,
+            "streams": 10
+        },
+        "02": {
+            "median": 4084,
+            "average": 4499,
+            "streams": 8
+        },
+        "03": {
+            "median": 2861,
+            "average": 3127,
+            "streams": 19
+        },
+        "04": {
+            "median": 3188,
+            "average": 14796,
+            "streams": 7
+        },
+        "05": {
+            "median": 3025,
+            "average": 4569,
+            "streams": 11
+        },
+        "06": {
+            "median": 4769,
+            "average": 5014,
+            "streams": 9
+        },
+        "07": {
+            "median": 2522,
+            "average": 5014,
+            "streams": 12
+        },
+        "08": {
+            "median": 3132,
+            "average": 3080,
+            "streams": 7
+        },
+        "09": {
+            "median": 3144,
+            "average": 3723,
+            "streams": 8
+        },
+        "10": {
+            "median": 2861,
+            "average": 3063,
+            "streams": 16
+        },
+        "11": {
+            "median": 2546,
+            "average": 2580,
+            "streams": 11
+        },
+        "12": {
+            "median": 3029,
+            "average": 4141,
+            "streams": 8
+        }
+    }
+}

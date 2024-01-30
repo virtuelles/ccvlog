@@ -1,0 +1,66 @@
+{
+    "Name": "藍沢エマ",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 5251,
+            "average": 6102,
+            "streams": 21
+        },
+        "02": {
+            "median": 9095,
+            "average": 9157,
+            "streams": 22
+        },
+        "03": {
+            "median": 7767,
+            "average": 7815,
+            "streams": 27
+        },
+        "04": {
+            "median": 3964,
+            "average": 4636,
+            "streams": 24
+        },
+        "05": {
+            "median": 6361,
+            "average": 11766,
+            "streams": 20
+        },
+        "06": {
+            "median": 5611,
+            "average": 6504,
+            "streams": 16
+        },
+        "07": {
+            "median": 4772,
+            "average": 6940,
+            "streams": 19
+        },
+        "08": {
+            "median": 4711,
+            "average": 4917,
+            "streams": 19
+        },
+        "09": {
+            "median": 5220,
+            "average": 6324,
+            "streams": 20
+        },
+        "10": {
+            "median": 4669,
+            "average": 4600,
+            "streams": 16
+        },
+        "11": {
+            "median": 5109,
+            "average": 4882,
+            "streams": 19
+        },
+        "12": {
+            "median": 5174,
+            "average": 6226,
+            "streams": 31
+        }
+    }
+}

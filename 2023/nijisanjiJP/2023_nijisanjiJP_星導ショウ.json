@@ -1,0 +1,66 @@
+{
+    "Name": "星導ショウ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 4432,
+            "average": 10875,
+            "streams": 3
+        },
+        "05": {
+            "median": 2107,
+            "average": 2287,
+            "streams": 27
+        },
+        "06": {
+            "median": 1851,
+            "average": 1940,
+            "streams": 27
+        },
+        "07": {
+            "median": 2206,
+            "average": 2211,
+            "streams": 24
+        },
+        "08": {
+            "median": 2897,
+            "average": 3040,
+            "streams": 27
+        },
+        "09": {
+            "median": 2972,
+            "average": 3480,
+            "streams": 31
+        },
+        "10": {
+            "median": 3253,
+            "average": 3573,
+            "streams": 26
+        },
+        "11": {
+            "median": 2884,
+            "average": 3093,
+            "streams": 24
+        },
+        "12": {
+            "median": 3340,
+            "average": 3508,
+            "streams": 29
+        }
+    }
+}

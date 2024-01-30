@@ -1,0 +1,66 @@
+{
+    "Name": "Josuiji Shinri",
+    "Group": "holostarsEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 1377,
+            "average": 1453,
+            "streams": 39
+        },
+        "03": {
+            "median": 1064,
+            "average": 1238,
+            "streams": 33
+        },
+        "04": {
+            "median": 1070,
+            "average": 1219,
+            "streams": 41
+        },
+        "05": {
+            "median": 948,
+            "average": 1006,
+            "streams": 26
+        },
+        "06": {
+            "median": 1172,
+            "average": 1400,
+            "streams": 25
+        },
+        "07": {
+            "median": 1016,
+            "average": 1004,
+            "streams": 21
+        },
+        "08": {
+            "median": 936,
+            "average": 1033,
+            "streams": 23
+        },
+        "09": {
+            "median": 931,
+            "average": 1084,
+            "streams": 19
+        },
+        "10": {
+            "median": 941,
+            "average": 913,
+            "streams": 25
+        },
+        "11": {
+            "median": 1227,
+            "average": 1789,
+            "streams": 14
+        },
+        "12": {
+            "median": 1656,
+            "average": 1668,
+            "streams": 22
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "アルランディス",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 562,
+            "average": 673,
+            "streams": 51
+        },
+        "02": {
+            "median": 501,
+            "average": 702,
+            "streams": 41
+        },
+        "03": {
+            "median": 413,
+            "average": 686,
+            "streams": 51
+        },
+        "04": {
+            "median": 453,
+            "average": 712,
+            "streams": 49
+        },
+        "05": {
+            "median": 456,
+            "average": 638,
+            "streams": 38
+        },
+        "06": {
+            "median": 421,
+            "average": 462,
+            "streams": 42
+        },
+        "07": {
+            "median": 467,
+            "average": 513,
+            "streams": 43
+        },
+        "08": {
+            "median": 402,
+            "average": 515,
+            "streams": 33
+        },
+        "09": {
+            "median": 363,
+            "average": 415,
+            "streams": 27
+        },
+        "10": {
+            "median": 404,
+            "average": 533,
+            "streams": 32
+        },
+        "11": {
+            "median": 593,
+            "average": 876,
+            "streams": 37
+        },
+        "12": {
+            "median": 1248,
+            "average": 1915,
+            "streams": 41
+        }
+    }
+}

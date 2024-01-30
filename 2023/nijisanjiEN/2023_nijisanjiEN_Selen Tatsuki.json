@@ -1,0 +1,66 @@
+{
+    "Name": "Selen Tatsuki",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 3719,
+            "average": 6348,
+            "streams": 23
+        },
+        "02": {
+            "median": 2994,
+            "average": 2893,
+            "streams": 20
+        },
+        "03": {
+            "median": 2784,
+            "average": 3277,
+            "streams": 23
+        },
+        "04": {
+            "median": 3389,
+            "average": 5377,
+            "streams": 25
+        },
+        "05": {
+            "median": 2027,
+            "average": 2681,
+            "streams": 25
+        },
+        "06": {
+            "median": 1906,
+            "average": 2215,
+            "streams": 19
+        },
+        "07": {
+            "median": 2359,
+            "average": 2625,
+            "streams": 22
+        },
+        "08": {
+            "median": 2175,
+            "average": 2254,
+            "streams": 21
+        },
+        "09": {
+            "median": 2111,
+            "average": 2750,
+            "streams": 20
+        },
+        "10": {
+            "median": 2284,
+            "average": 2166,
+            "streams": 15
+        },
+        "11": {
+            "median": 2700,
+            "average": 2750,
+            "streams": 13
+        },
+        "12": {
+            "median": 2687,
+            "average": 5546,
+            "streams": 19
+        }
+    }
+}

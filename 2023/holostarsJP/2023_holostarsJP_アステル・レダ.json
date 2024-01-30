@@ -1,0 +1,66 @@
+{
+    "Name": "アステル・レダ",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 817,
+            "average": 1053,
+            "streams": 43
+        },
+        "02": {
+            "median": 608,
+            "average": 865,
+            "streams": 28
+        },
+        "03": {
+            "median": 1364,
+            "average": 1478,
+            "streams": 30
+        },
+        "04": {
+            "median": 2696,
+            "average": 2808,
+            "streams": 38
+        },
+        "05": {
+            "median": 1901,
+            "average": 1898,
+            "streams": 19
+        },
+        "06": {
+            "median": 1372,
+            "average": 1832,
+            "streams": 20
+        },
+        "07": {
+            "median": 1362,
+            "average": 1256,
+            "streams": 13
+        },
+        "08": {
+            "median": 1034,
+            "average": 1154,
+            "streams": 14
+        },
+        "09": {
+            "median": 1120,
+            "average": 1084,
+            "streams": 8
+        },
+        "10": {
+            "median": 901,
+            "average": 976,
+            "streams": 13
+        },
+        "11": {
+            "median": 1005,
+            "average": 1127,
+            "streams": 16
+        },
+        "12": {
+            "median": 1229,
+            "average": 2094,
+            "streams": 15
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "轟京子",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 636,
+            "average": 1269,
+            "streams": 16
+        },
+        "02": {
+            "median": 317,
+            "average": 730,
+            "streams": 7
+        },
+        "03": {
+            "median": 341,
+            "average": 480,
+            "streams": 7
+        },
+        "04": {
+            "median": 343,
+            "average": 576,
+            "streams": 6
+        },
+        "05": {
+            "median": 491,
+            "average": 626,
+            "streams": 15
+        },
+        "06": {
+            "median": 220,
+            "average": 1192,
+            "streams": 5
+        },
+        "07": {
+            "median": 201,
+            "average": 237,
+            "streams": 6
+        },
+        "08": {
+            "median": 259,
+            "average": 318,
+            "streams": 3
+        },
+        "09": {
+            "median": 297,
+            "average": 459,
+            "streams": 9
+        },
+        "10": {
+            "median": 281,
+            "average": 372,
+            "streams": 11
+        },
+        "11": {
+            "median": 265,
+            "average": 460,
+            "streams": 10
+        },
+        "12": {
+            "median": 246,
+            "average": 287,
+            "streams": 11
+        }
+    }
+}

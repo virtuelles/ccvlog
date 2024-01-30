@@ -1,0 +1,66 @@
+{
+    "Name": "さくらみこ",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 33691,
+            "average": 37415,
+            "streams": 20
+        },
+        "02": {
+            "median": 28297,
+            "average": 28117,
+            "streams": 19
+        },
+        "03": {
+            "median": 33325,
+            "average": 37743,
+            "streams": 23
+        },
+        "04": {
+            "median": 30607,
+            "average": 37518,
+            "streams": 20
+        },
+        "05": {
+            "median": 45047,
+            "average": 45376,
+            "streams": 18
+        },
+        "06": {
+            "median": 31742,
+            "average": 31976,
+            "streams": 23
+        },
+        "07": {
+            "median": 28930,
+            "average": 32967,
+            "streams": 19
+        },
+        "08": {
+            "median": 40496,
+            "average": 45718,
+            "streams": 14
+        },
+        "09": {
+            "median": 36523,
+            "average": 40772,
+            "streams": 14
+        },
+        "10": {
+            "median": 33887,
+            "average": 40355,
+            "streams": 21
+        },
+        "11": {
+            "median": 34545,
+            "average": 38156,
+            "streams": 17
+        },
+        "12": {
+            "median": 38646,
+            "average": 42757,
+            "streams": 17
+        }
+    }
+}

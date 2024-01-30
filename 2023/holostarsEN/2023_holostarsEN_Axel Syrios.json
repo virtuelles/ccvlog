@@ -1,0 +1,66 @@
+{
+    "Name": "Axel Syrios",
+    "Group": "holostarsEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 1303,
+            "average": 1262,
+            "streams": 17
+        },
+        "03": {
+            "median": 1511,
+            "average": 2451,
+            "streams": 39
+        },
+        "04": {
+            "median": 1797,
+            "average": 2485,
+            "streams": 33
+        },
+        "05": {
+            "median": 686,
+            "average": 906,
+            "streams": 34
+        },
+        "06": {
+            "median": 618,
+            "average": 829,
+            "streams": 35
+        },
+        "07": {
+            "median": 1227,
+            "average": 1284,
+            "streams": 30
+        },
+        "08": {
+            "median": 862,
+            "average": 1586,
+            "streams": 16
+        },
+        "09": {
+            "median": 799,
+            "average": 1076,
+            "streams": 25
+        },
+        "10": {
+            "median": 711,
+            "average": 843,
+            "streams": 27
+        },
+        "11": {
+            "median": 972,
+            "average": 1135,
+            "streams": 21
+        },
+        "12": {
+            "median": 1005,
+            "average": 1170,
+            "streams": 19
+        }
+    }
+}

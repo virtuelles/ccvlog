@@ -1,0 +1,66 @@
+{
+    "Name": "渋谷ハジメ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 312,
+            "average": 439,
+            "streams": 47
+        },
+        "02": {
+            "median": 227,
+            "average": 281,
+            "streams": 42
+        },
+        "03": {
+            "median": 241,
+            "average": 262,
+            "streams": 16
+        },
+        "04": {
+            "median": 156,
+            "average": 211,
+            "streams": 17
+        },
+        "05": {
+            "median": 157,
+            "average": 383,
+            "streams": 21
+        },
+        "06": {
+            "median": 145,
+            "average": 145,
+            "streams": 27
+        },
+        "07": {
+            "median": 176,
+            "average": 170,
+            "streams": 39
+        },
+        "08": {
+            "median": 197,
+            "average": 195,
+            "streams": 48
+        },
+        "09": {
+            "median": 126,
+            "average": 127,
+            "streams": 24
+        },
+        "10": {
+            "median": 124,
+            "average": 156,
+            "streams": 20
+        },
+        "11": {
+            "median": 151,
+            "average": 163,
+            "streams": 36
+        },
+        "12": {
+            "median": 132,
+            "average": 138,
+            "streams": 34
+        }
+    }
+}

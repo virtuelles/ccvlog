@@ -1,0 +1,66 @@
+{
+    "Name": "Aster Arcadia",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 751,
+            "average": 1036,
+            "streams": 27
+        },
+        "02": {
+            "median": 679,
+            "average": 778,
+            "streams": 27
+        },
+        "03": {
+            "median": 529,
+            "average": 778,
+            "streams": 25
+        },
+        "04": {
+            "median": 547,
+            "average": 719,
+            "streams": 23
+        },
+        "05": {
+            "median": 478,
+            "average": 541,
+            "streams": 19
+        },
+        "06": {
+            "median": 485,
+            "average": 607,
+            "streams": 20
+        },
+        "07": {
+            "median": 728,
+            "average": 1207,
+            "streams": 17
+        },
+        "08": {
+            "median": 565,
+            "average": 640,
+            "streams": 22
+        },
+        "09": {
+            "median": 587,
+            "average": 710,
+            "streams": 26
+        },
+        "10": {
+            "median": 559,
+            "average": 608,
+            "streams": 17
+        },
+        "11": {
+            "median": 481,
+            "average": 458,
+            "streams": 21
+        },
+        "12": {
+            "median": 501,
+            "average": 545,
+            "streams": 25
+        }
+    }
+}

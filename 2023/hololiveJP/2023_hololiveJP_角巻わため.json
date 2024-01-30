@@ -1,0 +1,66 @@
+{
+    "Name": "角巻わため",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 10524,
+            "average": 12085,
+            "streams": 27
+        },
+        "02": {
+            "median": 13573,
+            "average": 13744,
+            "streams": 20
+        },
+        "03": {
+            "median": 12408,
+            "average": 12793,
+            "streams": 27
+        },
+        "04": {
+            "median": 12722,
+            "average": 13357,
+            "streams": 22
+        },
+        "05": {
+            "median": 13335,
+            "average": 13348,
+            "streams": 19
+        },
+        "06": {
+            "median": 13532,
+            "average": 18214,
+            "streams": 20
+        },
+        "07": {
+            "median": 12338,
+            "average": 14061,
+            "streams": 22
+        },
+        "08": {
+            "median": 11229,
+            "average": 11528,
+            "streams": 21
+        },
+        "09": {
+            "median": 14034,
+            "average": 12589,
+            "streams": 18
+        },
+        "10": {
+            "median": 12579,
+            "average": 15601,
+            "streams": 18
+        },
+        "11": {
+            "median": 11874,
+            "average": 13762,
+            "streams": 15
+        },
+        "12": {
+            "median": 10621,
+            "average": 16787,
+            "streams": 19
+        }
+    }
+}

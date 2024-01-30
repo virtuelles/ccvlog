@@ -1,0 +1,66 @@
+{
+    "Name": "宇佐美リト",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 1265,
+            "average": 3116,
+            "streams": 22
+        },
+        "05": {
+            "median": 1184,
+            "average": 1740,
+            "streams": 23
+        },
+        "06": {
+            "median": 1202,
+            "average": 1256,
+            "streams": 14
+        },
+        "07": {
+            "median": 1422,
+            "average": 1474,
+            "streams": 24
+        },
+        "08": {
+            "median": 1749,
+            "average": 2266,
+            "streams": 24
+        },
+        "09": {
+            "median": 1942,
+            "average": 2344,
+            "streams": 27
+        },
+        "10": {
+            "median": 2466,
+            "average": 2369,
+            "streams": 27
+        },
+        "11": {
+            "median": 1893,
+            "average": 2097,
+            "streams": 25
+        },
+        "12": {
+            "median": 1864,
+            "average": 1866,
+            "streams": 26
+        }
+    }
+}

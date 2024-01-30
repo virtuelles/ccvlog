@@ -1,0 +1,66 @@
+{
+    "Name": "凪夢夛",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 352,
+            "average": 415,
+            "streams": 16
+        },
+        "02": {
+            "median": 226,
+            "average": 253,
+            "streams": 15
+        },
+        "03": {
+            "median": 333,
+            "average": 587,
+            "streams": 16
+        },
+        "04": {
+            "median": 264,
+            "average": 245,
+            "streams": 5
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        }
+    }
+}

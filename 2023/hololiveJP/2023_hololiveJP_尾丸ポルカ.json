@@ -1,0 +1,66 @@
+{
+    "Name": "尾丸ポルカ",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 7494,
+            "average": 12170,
+            "streams": 10
+        },
+        "02": {
+            "median": 7733,
+            "average": 11509,
+            "streams": 12
+        },
+        "03": {
+            "median": 6263,
+            "average": 7860,
+            "streams": 10
+        },
+        "04": {
+            "median": 6384,
+            "average": 8703,
+            "streams": 13
+        },
+        "05": {
+            "median": 6964,
+            "average": 7834,
+            "streams": 12
+        },
+        "06": {
+            "median": 4928,
+            "average": 5276,
+            "streams": 18
+        },
+        "07": {
+            "median": 7197,
+            "average": 13742,
+            "streams": 15
+        },
+        "08": {
+            "median": 6087,
+            "average": 8913,
+            "streams": 16
+        },
+        "09": {
+            "median": 7419,
+            "average": 7538,
+            "streams": 21
+        },
+        "10": {
+            "median": 4762,
+            "average": 6937,
+            "streams": 16
+        },
+        "11": {
+            "median": 7110,
+            "average": 14188,
+            "streams": 12
+        },
+        "12": {
+            "median": 7230,
+            "average": 8980,
+            "streams": 12
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Kobo Kanaeru",
+    "Group": "hololiveID",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 6559,
+            "average": 9816,
+            "streams": 14
+        },
+        "03": {
+            "median": 7171,
+            "average": 6734,
+            "streams": 15
+        },
+        "04": {
+            "median": 5205,
+            "average": 6504,
+            "streams": 15
+        },
+        "05": {
+            "median": 4985,
+            "average": 5126,
+            "streams": 15
+        },
+        "06": {
+            "median": 5582,
+            "average": 7311,
+            "streams": 3
+        },
+        "07": {
+            "median": 4630,
+            "average": 5454,
+            "streams": 12
+        },
+        "08": {
+            "median": 5480,
+            "average": 7903,
+            "streams": 16
+        },
+        "09": {
+            "median": 4515,
+            "average": 4928,
+            "streams": 17
+        },
+        "10": {
+            "median": 5524,
+            "average": 14059,
+            "streams": 11
+        },
+        "11": {
+            "median": 7231,
+            "average": 8168,
+            "streams": 5
+        },
+        "12": {
+            "median": 5964,
+            "average": 6323,
+            "streams": 11
+        }
+    }
+}

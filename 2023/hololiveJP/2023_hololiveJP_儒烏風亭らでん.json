@@ -1,0 +1,66 @@
+{
+    "Name": "儒烏風亭らでん",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": 21139,
+            "average": 29274,
+            "streams": 21
+        },
+        "10": {
+            "median": 10164,
+            "average": 11346,
+            "streams": 34
+        },
+        "11": {
+            "median": 9502,
+            "average": 12056,
+            "streams": 11
+        },
+        "12": {
+            "median": 6671,
+            "average": 7260,
+            "streams": 22
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Luca Kaneshiro",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 8881,
+            "average": 7930,
+            "streams": 7
+        },
+        "02": {
+            "median": 5273,
+            "average": 5574,
+            "streams": 11
+        },
+        "03": {
+            "median": 4696,
+            "average": 5051,
+            "streams": 18
+        },
+        "04": {
+            "median": 4937,
+            "average": 9242,
+            "streams": 19
+        },
+        "05": {
+            "median": 4160,
+            "average": 4564,
+            "streams": 13
+        },
+        "06": {
+            "median": 4138,
+            "average": 4573,
+            "streams": 13
+        },
+        "07": {
+            "median": 5821,
+            "average": 7151,
+            "streams": 12
+        },
+        "08": {
+            "median": 5288,
+            "average": 7838,
+            "streams": 15
+        },
+        "09": {
+            "median": 5181,
+            "average": 8241,
+            "streams": 11
+        },
+        "10": {
+            "median": 3829,
+            "average": 4233,
+            "streams": 13
+        },
+        "11": {
+            "median": 2842,
+            "average": 3619,
+            "streams": 10
+        },
+        "12": {
+            "median": 3033,
+            "average": 4349,
+            "streams": 10
+        }
+    }
+}

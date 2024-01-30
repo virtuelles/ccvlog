@@ -1,0 +1,66 @@
+{
+    "Name": "Ban Hada",
+    "Group": "nijisanjiKR",
+    "data": {
+        "01": {
+            "median": 525,
+            "average": 525,
+            "streams": 1
+        },
+        "02": {
+            "median": 620,
+            "average": 620,
+            "streams": 1
+        },
+        "03": {
+            "median": 266,
+            "average": 266,
+            "streams": 1
+        },
+        "04": {
+            "median": 295,
+            "average": 295,
+            "streams": 2
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "07": {
+            "median": 404,
+            "average": 404,
+            "streams": 1
+        },
+        "08": {
+            "median": 347,
+            "average": 439,
+            "streams": 6
+        },
+        "09": {
+            "median": 252,
+            "average": 252,
+            "streams": 2
+        },
+        "10": {
+            "median": 221,
+            "average": 221,
+            "streams": 1
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": 332,
+            "average": 332,
+            "streams": 1
+        }
+    }
+}

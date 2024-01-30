@@ -1,0 +1,66 @@
+{
+    "Name": "ドーラ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1608,
+            "average": 1997,
+            "streams": 14
+        },
+        "02": {
+            "median": 897,
+            "average": 1342,
+            "streams": 13
+        },
+        "03": {
+            "median": 1025,
+            "average": 1149,
+            "streams": 11
+        },
+        "04": {
+            "median": 693,
+            "average": 757,
+            "streams": 6
+        },
+        "05": {
+            "median": 1078,
+            "average": 1141,
+            "streams": 5
+        },
+        "06": {
+            "median": 854,
+            "average": 1461,
+            "streams": 6
+        },
+        "07": {
+            "median": 828,
+            "average": 1012,
+            "streams": 17
+        },
+        "08": {
+            "median": 851,
+            "average": 893,
+            "streams": 14
+        },
+        "09": {
+            "median": 1005,
+            "average": 1351,
+            "streams": 15
+        },
+        "10": {
+            "median": 654,
+            "average": 673,
+            "streams": 9
+        },
+        "11": {
+            "median": 869,
+            "average": 860,
+            "streams": 9
+        },
+        "12": {
+            "median": 758,
+            "average": 828,
+            "streams": 10
+        }
+    }
+}

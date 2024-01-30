@@ -1,0 +1,66 @@
+{
+    "Name": "八雲べに",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 3982,
+            "average": 4361,
+            "streams": 28
+        },
+        "02": {
+            "median": 3844,
+            "average": 4323,
+            "streams": 22
+        },
+        "03": {
+            "median": 4093,
+            "average": 4991,
+            "streams": 31
+        },
+        "04": {
+            "median": 2220,
+            "average": 2761,
+            "streams": 24
+        },
+        "05": {
+            "median": 4641,
+            "average": 5058,
+            "streams": 20
+        },
+        "06": {
+            "median": 4984,
+            "average": 9321,
+            "streams": 25
+        },
+        "07": {
+            "median": 5167,
+            "average": 5745,
+            "streams": 37
+        },
+        "08": {
+            "median": 5445,
+            "average": 5827,
+            "streams": 41
+        },
+        "09": {
+            "median": 3270,
+            "average": 3608,
+            "streams": 24
+        },
+        "10": {
+            "median": 3418,
+            "average": 5328,
+            "streams": 28
+        },
+        "11": {
+            "median": 2944,
+            "average": 3787,
+            "streams": 22
+        },
+        "12": {
+            "median": 4287,
+            "average": 4828,
+            "streams": 23
+        }
+    }
+}

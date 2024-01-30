@@ -1,0 +1,66 @@
+{
+    "Name": "博衣こより",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": 15914,
+            "average": 16835,
+            "streams": 57
+        },
+        "02": {
+            "median": 12800,
+            "average": 12555,
+            "streams": 53
+        },
+        "03": {
+            "median": 12983,
+            "average": 15803,
+            "streams": 47
+        },
+        "04": {
+            "median": 13982,
+            "average": 15197,
+            "streams": 44
+        },
+        "05": {
+            "median": 13188,
+            "average": 17918,
+            "streams": 48
+        },
+        "06": {
+            "median": 14559,
+            "average": 14911,
+            "streams": 46
+        },
+        "07": {
+            "median": 13364,
+            "average": 15441,
+            "streams": 46
+        },
+        "08": {
+            "median": 13731,
+            "average": 14389,
+            "streams": 57
+        },
+        "09": {
+            "median": 14935,
+            "average": 15459,
+            "streams": 51
+        },
+        "10": {
+            "median": 14297,
+            "average": 15911,
+            "streams": 48
+        },
+        "11": {
+            "median": 13680,
+            "average": 17995,
+            "streams": 33
+        },
+        "12": {
+            "median": 10545,
+            "average": 11705,
+            "streams": 51
+        }
+    }
+}

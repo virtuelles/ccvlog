@@ -1,0 +1,66 @@
+{
+    "Name": "水無世燐央",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 635,
+            "average": 901,
+            "streams": 17
+        },
+        "02": {
+            "median": 579,
+            "average": 803,
+            "streams": 17
+        },
+        "03": {
+            "median": 470,
+            "average": 1884,
+            "streams": 11
+        },
+        "04": {
+            "median": 523,
+            "average": 628,
+            "streams": 14
+        },
+        "05": {
+            "median": 426,
+            "average": 557,
+            "streams": 16
+        },
+        "06": {
+            "median": 399,
+            "average": 488,
+            "streams": 26
+        },
+        "07": {
+            "median": 494,
+            "average": 555,
+            "streams": 18
+        },
+        "08": {
+            "median": 426,
+            "average": 490,
+            "streams": 20
+        },
+        "09": {
+            "median": 364,
+            "average": 425,
+            "streams": 14
+        },
+        "10": {
+            "median": 402,
+            "average": 444,
+            "streams": 10
+        },
+        "11": {
+            "median": 412,
+            "average": 775,
+            "streams": 19
+        },
+        "12": {
+            "median": 607,
+            "average": 775,
+            "streams": 24
+        }
+    }
+}

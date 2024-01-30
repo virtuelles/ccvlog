@@ -1,0 +1,66 @@
+{
+    "Name": "成瀬鳴",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 276,
+            "average": 517,
+            "streams": 13
+        },
+        "02": {
+            "median": 371,
+            "average": 1213,
+            "streams": 14
+        },
+        "03": {
+            "median": 282,
+            "average": 329,
+            "streams": 13
+        },
+        "04": {
+            "median": 281,
+            "average": 333,
+            "streams": 16
+        },
+        "05": {
+            "median": 335,
+            "average": 319,
+            "streams": 7
+        },
+        "06": {
+            "median": 434,
+            "average": 629,
+            "streams": 8
+        },
+        "07": {
+            "median": 258,
+            "average": 240,
+            "streams": 11
+        },
+        "08": {
+            "median": 204,
+            "average": 235,
+            "streams": 9
+        },
+        "09": {
+            "median": 169,
+            "average": 259,
+            "streams": 11
+        },
+        "10": {
+            "median": 141,
+            "average": 173,
+            "streams": 18
+        },
+        "11": {
+            "median": 220,
+            "average": 180,
+            "streams": 15
+        },
+        "12": {
+            "median": 225,
+            "average": 279,
+            "streams": 11
+        }
+    }
+}

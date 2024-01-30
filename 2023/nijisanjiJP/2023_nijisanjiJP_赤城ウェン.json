@@ -1,0 +1,66 @@
+{
+    "Name": "赤城ウェン",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": 522,
+            "average": 1589,
+            "streams": 31
+        },
+        "05": {
+            "median": 464,
+            "average": 552,
+            "streams": 25
+        },
+        "06": {
+            "median": 366,
+            "average": 416,
+            "streams": 24
+        },
+        "07": {
+            "median": 480,
+            "average": 534,
+            "streams": 27
+        },
+        "08": {
+            "median": 540,
+            "average": 807,
+            "streams": 28
+        },
+        "09": {
+            "median": 836,
+            "average": 957,
+            "streams": 27
+        },
+        "10": {
+            "median": 973,
+            "average": 1117,
+            "streams": 25
+        },
+        "11": {
+            "median": 1080,
+            "average": 1674,
+            "streams": 19
+        },
+        "12": {
+            "median": 1046,
+            "average": 1651,
+            "streams": 23
+        }
+    }
+}

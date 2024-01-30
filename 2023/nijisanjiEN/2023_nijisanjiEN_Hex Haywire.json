@@ -1,0 +1,66 @@
+{
+    "Name": "Hex Haywire",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 2461,
+            "average": 2464,
+            "streams": 25
+        },
+        "02": {
+            "median": 1800,
+            "average": 1924,
+            "streams": 23
+        },
+        "03": {
+            "median": 1520,
+            "average": 1696,
+            "streams": 24
+        },
+        "04": {
+            "median": 1499,
+            "average": 1556,
+            "streams": 19
+        },
+        "05": {
+            "median": 1429,
+            "average": 1656,
+            "streams": 20
+        },
+        "06": {
+            "median": 1254,
+            "average": 1322,
+            "streams": 19
+        },
+        "07": {
+            "median": 1270,
+            "average": 1343,
+            "streams": 23
+        },
+        "08": {
+            "median": 1304,
+            "average": 1329,
+            "streams": 22
+        },
+        "09": {
+            "median": 1286,
+            "average": 1365,
+            "streams": 21
+        },
+        "10": {
+            "median": 1586,
+            "average": 2032,
+            "streams": 5
+        },
+        "11": {
+            "median": 1195,
+            "average": 1347,
+            "streams": 18
+        },
+        "12": {
+            "median": 1196,
+            "average": 1474,
+            "streams": 16
+        }
+    }
+}

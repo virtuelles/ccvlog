@@ -1,0 +1,66 @@
+{
+    "Name": "FUWAMOCO",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": 79399,
+            "average": 79399,
+            "streams": 2
+        },
+        "08": {
+            "median": 13559,
+            "average": 15348,
+            "streams": 50
+        },
+        "09": {
+            "median": 9431,
+            "average": 10207,
+            "streams": 40
+        },
+        "10": {
+            "median": 8190,
+            "average": 9660,
+            "streams": 43
+        },
+        "11": {
+            "median": 7933,
+            "average": 9183,
+            "streams": 36
+        },
+        "12": {
+            "median": 13813,
+            "average": 14569,
+            "streams": 40
+        }
+    }
+}

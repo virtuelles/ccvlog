@@ -1,0 +1,66 @@
+{
+    "Name": "鈴木勝",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1423,
+            "average": 1639,
+            "streams": 17
+        },
+        "02": {
+            "median": 756,
+            "average": 1454,
+            "streams": 12
+        },
+        "03": {
+            "median": 1028,
+            "average": 1474,
+            "streams": 13
+        },
+        "04": {
+            "median": 459,
+            "average": 718,
+            "streams": 31
+        },
+        "05": {
+            "median": 459,
+            "average": 814,
+            "streams": 33
+        },
+        "06": {
+            "median": 661,
+            "average": 949,
+            "streams": 15
+        },
+        "07": {
+            "median": 789,
+            "average": 1019,
+            "streams": 13
+        },
+        "08": {
+            "median": 710,
+            "average": 890,
+            "streams": 13
+        },
+        "09": {
+            "median": 616,
+            "average": 809,
+            "streams": 11
+        },
+        "10": {
+            "median": 1867,
+            "average": 3064,
+            "streams": 7
+        },
+        "11": {
+            "median": 882,
+            "average": 1071,
+            "streams": 10
+        },
+        "12": {
+            "median": 680,
+            "average": 901,
+            "streams": 16
+        }
+    }
+}

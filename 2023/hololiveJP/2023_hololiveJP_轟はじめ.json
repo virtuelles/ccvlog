@@ -1,0 +1,66 @@
+{
+    "Name": "轟はじめ",
+    "Group": "hololiveJP",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": 21166,
+            "average": 29954,
+            "streams": 19
+        },
+        "10": {
+            "median": 9650,
+            "average": 10618,
+            "streams": 24
+        },
+        "11": {
+            "median": 5397,
+            "average": 6904,
+            "streams": 13
+        },
+        "12": {
+            "median": 9046,
+            "average": 10056,
+            "streams": 22
+        }
+    }
+}

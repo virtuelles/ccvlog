@@ -1,0 +1,66 @@
+{
+    "Name": "Vox Akuma",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 5807,
+            "average": 6698,
+            "streams": 21
+        },
+        "02": {
+            "median": 5206,
+            "average": 5296,
+            "streams": 8
+        },
+        "03": {
+            "median": 4989,
+            "average": 6233,
+            "streams": 24
+        },
+        "04": {
+            "median": 4530,
+            "average": 9093,
+            "streams": 20
+        },
+        "05": {
+            "median": 3124,
+            "average": 3859,
+            "streams": 25
+        },
+        "06": {
+            "median": 4311,
+            "average": 3956,
+            "streams": 7
+        },
+        "07": {
+            "median": 3776,
+            "average": 3620,
+            "streams": 15
+        },
+        "08": {
+            "median": 3660,
+            "average": 4130,
+            "streams": 12
+        },
+        "09": {
+            "median": 3491,
+            "average": 4158,
+            "streams": 7
+        },
+        "10": {
+            "median": 7287,
+            "average": 8597,
+            "streams": 5
+        },
+        "11": {
+            "median": 2919,
+            "average": 3747,
+            "streams": 16
+        },
+        "12": {
+            "median": 2376,
+            "average": 5462,
+            "streams": 11
+        }
+    }
+}

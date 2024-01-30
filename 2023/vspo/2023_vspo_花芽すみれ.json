@@ -1,0 +1,66 @@
+{
+    "Name": "花芽すみれ",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 4152,
+            "average": 4101,
+            "streams": 16
+        },
+        "02": {
+            "median": 4713,
+            "average": 6210,
+            "streams": 18
+        },
+        "03": {
+            "median": 2950,
+            "average": 4176,
+            "streams": 10
+        },
+        "04": {
+            "median": 6221,
+            "average": 6525,
+            "streams": 20
+        },
+        "05": {
+            "median": 4735,
+            "average": 11964,
+            "streams": 15
+        },
+        "06": {
+            "median": 4996,
+            "average": 7417,
+            "streams": 12
+        },
+        "07": {
+            "median": 2908,
+            "average": 3667,
+            "streams": 14
+        },
+        "08": {
+            "median": 3026,
+            "average": 3479,
+            "streams": 11
+        },
+        "09": {
+            "median": 4202,
+            "average": 4136,
+            "streams": 9
+        },
+        "10": {
+            "median": 8012,
+            "average": 8713,
+            "streams": 15
+        },
+        "11": {
+            "median": 5909,
+            "average": 5467,
+            "streams": 12
+        },
+        "12": {
+            "median": 4377,
+            "average": 5137,
+            "streams": 8
+        }
+    }
+}

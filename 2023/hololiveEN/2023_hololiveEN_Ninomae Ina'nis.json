@@ -1,0 +1,66 @@
+{
+    "Name": "Ninomae Ina'nis",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": 8366,
+            "average": 13338,
+            "streams": 11
+        },
+        "03": {
+            "median": 8656,
+            "average": 9254,
+            "streams": 5
+        },
+        "04": {
+            "median": 11070,
+            "average": 14283,
+            "streams": 8
+        },
+        "05": {
+            "median": 7651,
+            "average": 8581,
+            "streams": 17
+        },
+        "06": {
+            "median": 7290,
+            "average": 7777,
+            "streams": 11
+        },
+        "07": {
+            "median": 8294,
+            "average": 9364,
+            "streams": 13
+        },
+        "08": {
+            "median": 7370,
+            "average": 8286,
+            "streams": 14
+        },
+        "09": {
+            "median": 7075,
+            "average": 8724,
+            "streams": 14
+        },
+        "10": {
+            "median": 6901,
+            "average": 6765,
+            "streams": 8
+        },
+        "11": {
+            "median": 5553,
+            "average": 5883,
+            "streams": 11
+        },
+        "12": {
+            "median": 8194,
+            "average": 10318,
+            "streams": 15
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "ソフィア・ヴァレンタイン",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4263,
+            "average": 8354,
+            "streams": 14
+        },
+        "02": {
+            "median": 2463,
+            "average": 2822,
+            "streams": 30
+        },
+        "03": {
+            "median": 2018,
+            "average": 2179,
+            "streams": 32
+        },
+        "04": {
+            "median": 1612,
+            "average": 1872,
+            "streams": 36
+        },
+        "05": {
+            "median": 1360,
+            "average": 1505,
+            "streams": 24
+        },
+        "06": {
+            "median": 1306,
+            "average": 1414,
+            "streams": 24
+        },
+        "07": {
+            "median": 1292,
+            "average": 1616,
+            "streams": 20
+        },
+        "08": {
+            "median": 1607,
+            "average": 3054,
+            "streams": 22
+        },
+        "09": {
+            "median": 1705,
+            "average": 1946,
+            "streams": 19
+        },
+        "10": {
+            "median": 1440,
+            "average": 1402,
+            "streams": 24
+        },
+        "11": {
+            "median": 1998,
+            "average": 2960,
+            "streams": 28
+        },
+        "12": {
+            "median": 2050,
+            "average": 3121,
+            "streams": 25
+        }
+    }
+}

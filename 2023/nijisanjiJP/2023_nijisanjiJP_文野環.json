@@ -1,0 +1,66 @@
+{
+    "Name": "文野環",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1478,
+            "average": 1814,
+            "streams": 8
+        },
+        "02": {
+            "median": 1346,
+            "average": 1345,
+            "streams": 8
+        },
+        "03": {
+            "median": 1500,
+            "average": 4337,
+            "streams": 11
+        },
+        "04": {
+            "median": 1362,
+            "average": 1369,
+            "streams": 10
+        },
+        "05": {
+            "median": 2144,
+            "average": 2144,
+            "streams": 2
+        },
+        "06": {
+            "median": 1875,
+            "average": 1999,
+            "streams": 3
+        },
+        "07": {
+            "median": 1192,
+            "average": 5670,
+            "streams": 4
+        },
+        "08": {
+            "median": 1541,
+            "average": 1915,
+            "streams": 10
+        },
+        "09": {
+            "median": 1905,
+            "average": 1780,
+            "streams": 5
+        },
+        "10": {
+            "median": 2012,
+            "average": 2114,
+            "streams": 8
+        },
+        "11": {
+            "median": 1255,
+            "average": 1255,
+            "streams": 1
+        },
+        "12": {
+            "median": 1478,
+            "average": 1447,
+            "streams": 6
+        }
+    }
+}

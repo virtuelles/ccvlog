@@ -1,0 +1,66 @@
+{
+    "Name": "Bonnivier Pranaja",
+    "Group": "nijisanjiID",
+    "data": {
+        "01": {
+            "median": 700,
+            "average": 559,
+            "streams": 3
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "03": {
+            "median": 270,
+            "average": 270,
+            "streams": 2
+        },
+        "04": {
+            "median": 350,
+            "average": 350,
+            "streams": 2
+        },
+        "05": {
+            "median": 320,
+            "average": 317,
+            "streams": 3
+        },
+        "06": {
+            "median": 322,
+            "average": 552,
+            "streams": 4
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "08": {
+            "median": 534,
+            "average": 552,
+            "streams": 4
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": 0
+        },
+        "12": {
+            "median": 629,
+            "average": 629,
+            "streams": 2
+        }
+    }
+}

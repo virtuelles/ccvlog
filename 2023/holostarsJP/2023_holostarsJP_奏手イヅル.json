@@ -1,0 +1,66 @@
+{
+    "Name": "奏手イヅル",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 545,
+            "average": 774,
+            "streams": 6
+        },
+        "02": {
+            "median": 401,
+            "average": 684,
+            "streams": 9
+        },
+        "03": {
+            "median": 362,
+            "average": 579,
+            "streams": 11
+        },
+        "04": {
+            "median": 763,
+            "average": 728,
+            "streams": 5
+        },
+        "05": {
+            "median": 777,
+            "average": 802,
+            "streams": 20
+        },
+        "06": {
+            "median": 645,
+            "average": 979,
+            "streams": 16
+        },
+        "07": {
+            "median": 440,
+            "average": 589,
+            "streams": 11
+        },
+        "08": {
+            "median": 703,
+            "average": 692,
+            "streams": 20
+        },
+        "09": {
+            "median": 529,
+            "average": 660,
+            "streams": 8
+        },
+        "10": {
+            "median": 525,
+            "average": 688,
+            "streams": 12
+        },
+        "11": {
+            "median": 984,
+            "average": 1397,
+            "streams": 14
+        },
+        "12": {
+            "median": 578,
+            "average": 633,
+            "streams": 12
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "フミ",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1021,
+            "average": 1461,
+            "streams": 17
+        },
+        "02": {
+            "median": 953,
+            "average": 1023,
+            "streams": 15
+        },
+        "03": {
+            "median": 757,
+            "average": 1086,
+            "streams": 21
+        },
+        "04": {
+            "median": 959,
+            "average": 1295,
+            "streams": 22
+        },
+        "05": {
+            "median": 1204,
+            "average": 1628,
+            "streams": 18
+        },
+        "06": {
+            "median": 1962,
+            "average": 2181,
+            "streams": 16
+        },
+        "07": {
+            "median": 900,
+            "average": 1766,
+            "streams": 13
+        },
+        "08": {
+            "median": 1164,
+            "average": 1344,
+            "streams": 12
+        },
+        "09": {
+            "median": 794,
+            "average": 1030,
+            "streams": 11
+        },
+        "10": {
+            "median": 781,
+            "average": 1675,
+            "streams": 15
+        },
+        "11": {
+            "median": 1362,
+            "average": 1953,
+            "streams": 20
+        },
+        "12": {
+            "median": 774,
+            "average": 1390,
+            "streams": 20
+        }
+    }
+}

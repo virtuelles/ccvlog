@@ -1,0 +1,66 @@
+{
+    "Name": "伏見ガク",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4828,
+            "average": 7104,
+            "streams": 15
+        },
+        "02": {
+            "median": 5968,
+            "average": 15425,
+            "streams": 12
+        },
+        "03": {
+            "median": 3674,
+            "average": 4992,
+            "streams": 20
+        },
+        "04": {
+            "median": 3588,
+            "average": 4102,
+            "streams": 17
+        },
+        "05": {
+            "median": 3376,
+            "average": 4960,
+            "streams": 14
+        },
+        "06": {
+            "median": 3362,
+            "average": 3668,
+            "streams": 14
+        },
+        "07": {
+            "median": 2824,
+            "average": 2916,
+            "streams": 17
+        },
+        "08": {
+            "median": 3014,
+            "average": 4637,
+            "streams": 13
+        },
+        "09": {
+            "median": 3258,
+            "average": 3572,
+            "streams": 8
+        },
+        "10": {
+            "median": 3390,
+            "average": 3604,
+            "streams": 17
+        },
+        "11": {
+            "median": 2671,
+            "average": 3518,
+            "streams": 16
+        },
+        "12": {
+            "median": 3464,
+            "average": 3613,
+            "streams": 19
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "瀬尾カザリ",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": 504,
+            "average": 838,
+            "streams": 27
+        },
+        "06": {
+            "median": 233,
+            "average": 293,
+            "streams": 20
+        },
+        "07": {
+            "median": 176,
+            "average": 200,
+            "streams": 18
+        },
+        "08": {
+            "median": 149,
+            "average": 148,
+            "streams": 14
+        },
+        "09": {
+            "median": 149,
+            "average": 172,
+            "streams": 29
+        },
+        "10": {
+            "median": 99,
+            "average": 113,
+            "streams": 17
+        },
+        "11": {
+            "median": 249,
+            "average": 467,
+            "streams": 23
+        },
+        "12": {
+            "median": 115,
+            "average": 154,
+            "streams": 11
+        }
+    }
+}

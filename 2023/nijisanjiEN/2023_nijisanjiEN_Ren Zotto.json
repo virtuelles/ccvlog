@@ -1,0 +1,66 @@
+{
+    "Name": "Ren Zotto",
+    "Group": "nijisanjiEN",
+    "data": {
+        "01": {
+            "median": 1540,
+            "average": 1766,
+            "streams": 17
+        },
+        "02": {
+            "median": 1196,
+            "average": 1469,
+            "streams": 11
+        },
+        "03": {
+            "median": 2144,
+            "average": 3335,
+            "streams": 12
+        },
+        "04": {
+            "median": 2090,
+            "average": 2403,
+            "streams": 20
+        },
+        "05": {
+            "median": 1379,
+            "average": 1400,
+            "streams": 16
+        },
+        "06": {
+            "median": 1361,
+            "average": 2338,
+            "streams": 15
+        },
+        "07": {
+            "median": 1782,
+            "average": 3413,
+            "streams": 18
+        },
+        "08": {
+            "median": 1879,
+            "average": 1967,
+            "streams": 13
+        },
+        "09": {
+            "median": 1675,
+            "average": 2347,
+            "streams": 15
+        },
+        "10": {
+            "median": 1810,
+            "average": 2533,
+            "streams": 9
+        },
+        "11": {
+            "median": 1334,
+            "average": 1599,
+            "streams": 12
+        },
+        "12": {
+            "median": 1357,
+            "average": 1423,
+            "streams": 17
+        }
+    }
+}

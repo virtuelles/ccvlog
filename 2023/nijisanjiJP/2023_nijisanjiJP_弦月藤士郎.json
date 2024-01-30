@@ -1,0 +1,66 @@
+{
+    "Name": "弦月藤士郎",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1514,
+            "average": 1560,
+            "streams": 14
+        },
+        "02": {
+            "median": 1367,
+            "average": 1314,
+            "streams": 15
+        },
+        "03": {
+            "median": 795,
+            "average": 1622,
+            "streams": 14
+        },
+        "04": {
+            "median": 520,
+            "average": 1048,
+            "streams": 12
+        },
+        "05": {
+            "median": 757,
+            "average": 868,
+            "streams": 10
+        },
+        "06": {
+            "median": 1287,
+            "average": 1436,
+            "streams": 7
+        },
+        "07": {
+            "median": 718,
+            "average": 1169,
+            "streams": 14
+        },
+        "08": {
+            "median": 703,
+            "average": 1023,
+            "streams": 7
+        },
+        "09": {
+            "median": 1426,
+            "average": 1698,
+            "streams": 7
+        },
+        "10": {
+            "median": 648,
+            "average": 2022,
+            "streams": 8
+        },
+        "11": {
+            "median": 914,
+            "average": 2014,
+            "streams": 12
+        },
+        "12": {
+            "median": 462,
+            "average": 584,
+            "streams": 7
+        }
+    }
+}

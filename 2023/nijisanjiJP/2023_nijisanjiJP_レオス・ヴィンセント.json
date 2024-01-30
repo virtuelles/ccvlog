@@ -1,0 +1,66 @@
+{
+    "Name": "レオス・ヴィンセント",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 4639,
+            "average": 4887,
+            "streams": 18
+        },
+        "02": {
+            "median": 4355,
+            "average": 6692,
+            "streams": 20
+        },
+        "03": {
+            "median": 4212,
+            "average": 5041,
+            "streams": 13
+        },
+        "04": {
+            "median": 3766,
+            "average": 4131,
+            "streams": 21
+        },
+        "05": {
+            "median": 2379,
+            "average": 2874,
+            "streams": 18
+        },
+        "06": {
+            "median": 3130,
+            "average": 3492,
+            "streams": 16
+        },
+        "07": {
+            "median": 29768,
+            "average": 31420,
+            "streams": 13
+        },
+        "08": {
+            "median": 8223,
+            "average": 12350,
+            "streams": 14
+        },
+        "09": {
+            "median": 3216,
+            "average": 5497,
+            "streams": 22
+        },
+        "10": {
+            "median": 3722,
+            "average": 7991,
+            "streams": 17
+        },
+        "11": {
+            "median": 4008,
+            "average": 4022,
+            "streams": 14
+        },
+        "12": {
+            "median": 3374,
+            "average": 3444,
+            "streams": 22
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "ベルモンド・バンデラス",
+    "Group": "nijisanjiJP",
+    "data": {
+        "01": {
+            "median": 1831,
+            "average": 3325,
+            "streams": 13
+        },
+        "02": {
+            "median": 1274,
+            "average": 1380,
+            "streams": 16
+        },
+        "03": {
+            "median": 1365,
+            "average": 1599,
+            "streams": 15
+        },
+        "04": {
+            "median": 1702,
+            "average": 1743,
+            "streams": 21
+        },
+        "05": {
+            "median": 1274,
+            "average": 1380,
+            "streams": 32
+        },
+        "06": {
+            "median": 1168,
+            "average": 1315,
+            "streams": 18
+        },
+        "07": {
+            "median": 1443,
+            "average": 2204,
+            "streams": 17
+        },
+        "08": {
+            "median": 1748,
+            "average": 4243,
+            "streams": 15
+        },
+        "09": {
+            "median": 1691,
+            "average": 1781,
+            "streams": 12
+        },
+        "10": {
+            "median": 1356,
+            "average": 1569,
+            "streams": 18
+        },
+        "11": {
+            "median": 1213,
+            "average": 2036,
+            "streams": 18
+        },
+        "12": {
+            "median": 1327,
+            "average": 1725,
+            "streams": 26
+        }
+    }
+}

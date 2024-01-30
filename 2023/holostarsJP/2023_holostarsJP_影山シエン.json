@@ -1,0 +1,66 @@
+{
+    "Name": "影山シエン",
+    "Group": "holostarsJP",
+    "data": {
+        "01": {
+            "median": 632,
+            "average": 710,
+            "streams": 13
+        },
+        "02": {
+            "median": 795,
+            "average": 1082,
+            "streams": 11
+        },
+        "03": {
+            "median": 464,
+            "average": 465,
+            "streams": 10
+        },
+        "04": {
+            "median": 553,
+            "average": 884,
+            "streams": 11
+        },
+        "05": {
+            "median": 459,
+            "average": 508,
+            "streams": 14
+        },
+        "06": {
+            "median": 455,
+            "average": 554,
+            "streams": 18
+        },
+        "07": {
+            "median": 621,
+            "average": 679,
+            "streams": 12
+        },
+        "08": {
+            "median": 1018,
+            "average": 1085,
+            "streams": 6
+        },
+        "09": {
+            "median": 694,
+            "average": 741,
+            "streams": 7
+        },
+        "10": {
+            "median": 361,
+            "average": 564,
+            "streams": 9
+        },
+        "11": {
+            "median": 510,
+            "average": 624,
+            "streams": 12
+        },
+        "12": {
+            "median": 577,
+            "average": 586,
+            "streams": 5
+        }
+    }
+}

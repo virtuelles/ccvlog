@@ -1,0 +1,66 @@
+{
+    "Name": "Nerissa Ravencroft",
+    "Group": "hololiveEN",
+    "data": {
+        "01": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": 107398,
+            "average": 107398,
+            "streams": 1
+        },
+        "08": {
+            "median": 10084,
+            "average": 11763,
+            "streams": 32
+        },
+        "09": {
+            "median": 6033,
+            "average": 6508,
+            "streams": 19
+        },
+        "10": {
+            "median": 6663,
+            "average": 7296,
+            "streams": 22
+        },
+        "11": {
+            "median": 5130,
+            "average": 6698,
+            "streams": 19
+        },
+        "12": {
+            "median": 6859,
+            "average": 7996,
+            "streams": 21
+        }
+    }
+}

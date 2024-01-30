@@ -1,0 +1,66 @@
+{
+    "Name": "兎咲ミミ",
+    "Group": "vspo",
+    "data": {
+        "01": {
+            "median": 4606,
+            "average": 4992,
+            "streams": 31
+        },
+        "02": {
+            "median": 3776,
+            "average": 4148,
+            "streams": 28
+        },
+        "03": {
+            "median": 4075,
+            "average": 5206,
+            "streams": 28
+        },
+        "04": {
+            "median": 5663,
+            "average": 5471,
+            "streams": 29
+        },
+        "05": {
+            "median": 4926,
+            "average": 5077,
+            "streams": 32
+        },
+        "06": {
+            "median": 7032,
+            "average": 9538,
+            "streams": 28
+        },
+        "07": {
+            "median": 5806,
+            "average": 6108,
+            "streams": 28
+        },
+        "08": {
+            "median": 4433,
+            "average": 6086,
+            "streams": 23
+        },
+        "09": {
+            "median": 4144,
+            "average": 4407,
+            "streams": 26
+        },
+        "10": {
+            "median": 5451,
+            "average": 5932,
+            "streams": 35
+        },
+        "11": {
+            "median": 3569,
+            "average": 4894,
+            "streams": 22
+        },
+        "12": {
+            "median": 5030,
+            "average": 5502,
+            "streams": 37
+        }
+    }
+}
