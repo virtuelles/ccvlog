@@ -112,10 +112,23 @@ max-height: 0;
     max-height: 2000px;  /* 設定一個足夠大的值，以便子菜單完全展開 */
 }
 .centered-content {
-    text-align: center;  /* 文字置中 */
-    margin-top: 50px;   /* 上方邊距，根據需要調整 */
-    font-size: 24px;    /* 文字大小，根據需要調整 */
-    color: #333;        /* 文字顏色，可以根據需求調整 */
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+.centered-content h1, .centered-content h2, .centered-content h3 {
+    color: #007bff; /* 设置标题颜色 */
+}
+
+.centered-content p {
+    margin-bottom: 15px;
 }
 #toggle {
     position: absolute;
