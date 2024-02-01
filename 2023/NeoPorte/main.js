@@ -90,7 +90,7 @@ async function main() {
 
                     // 使用 switch 語句來根據數值範圍設定背景顏色
                     switch (true) {
-                        case dataValue >= 0 && dataValue <= 499:
+                        case dataValue >= 1 && dataValue <= 499:
                             dataCell.style.backgroundColor = '#d0cece';
                             break;
                         case dataValue >= 500 && dataValue <= 999:
