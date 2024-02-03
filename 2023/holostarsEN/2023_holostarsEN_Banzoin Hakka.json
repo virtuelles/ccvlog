@@ -3,9 +3,9 @@
     "Group": "holostarsEN",
     "data": {
         "01": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 2340,
+            "average": 3610,
+            "streams": 27
         },
         "02": {
             "median": 1411,

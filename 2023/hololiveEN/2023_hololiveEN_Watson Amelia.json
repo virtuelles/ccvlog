@@ -3,9 +3,9 @@
     "Group": "hololiveEN",
     "data": {
         "01": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 7451,
+            "average": 9794,
+            "streams": 10
         },
         "02": {
             "median": 6368,

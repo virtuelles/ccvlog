@@ -5,7 +5,7 @@
         "01": {
             "median": null,
             "average": null,
-            "streams": null
+            "streams": 0
         },
         "02": {
             "median": 39694,

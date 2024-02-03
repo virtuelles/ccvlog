@@ -3,9 +3,9 @@
     "Group": "hololiveID",
     "data": {
         "01": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 1347,
+            "average": 1728,
+            "streams": 30
         },
         "02": {
             "median": 1782,
