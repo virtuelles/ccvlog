@@ -1,0 +1,66 @@
+{
+    "Name": "心白てと",
+    "Group": "NeoPorte",
+    "data": {
+        "01": {
+            "median": 210,
+            "average": 269,
+            "streams": 27
+        },
+        "02": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "03": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "04": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "05": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "06": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "07": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "08": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "11": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "12": {
+            "median": null,
+            "average": null,
+            "streams": null
+        }
+    }
+}
