@@ -91,7 +91,22 @@ def process_excel_file(file_path, namelist_path):
     
     return results
 
-# 假設您有一個名為"hololive.xlsx"的檔案和namelist.json的路徑
-file_path = input("請輸入檔名路徑(不要副檔名,須先建立name_list)(e.g.:2022//2022_)：")
-namelist_path = file_path + "_name_list.json"
-process_excel_file(file_path, namelist_path)
+# List of file paths
+file_paths = [
+    "2024/hololiveEN/2024_hololiveEN",
+    "2024/hololiveID/2024_hololiveID",
+    "2024/hololiveJP/2024_hololiveJP",
+    "2024/holostarsEN/2024_holostarsEN",
+    "2024/holostarsJP/2024_holostarsJP",
+    "2024/NeoPorte/2024_NeoPorte",
+    "2024/nijisanjiEN/2024_nijisanjiEN",
+    "2024/nijisanjiID/2024_nijisanjiID",
+    "2024/nijisanjiJP/2024_nijisanjiJP",
+    "2024/nijisanjiKR/2024_nijisanjiKR",
+    "2024/vspo/2024_vspo"
+]
+
+# Process each file path
+for path in file_paths:
+    namelist_path = path + "_name_list.json"
+    process_excel_file(path, namelist_path)
