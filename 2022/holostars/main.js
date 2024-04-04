@@ -258,7 +258,7 @@ async function main() {
                 };
                 // 初始化 DataTable
                 $('#dataTable').DataTable({
-                    fixedHeader: true,
+                    fixedHeader: false,
                     paging: false,
                     // responsive: true, // Enable responsiveness
                     scrollX: true,
