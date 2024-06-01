@@ -4,7 +4,7 @@ const config = {
 };
 
 // 在這裡初始化 title、nameListUrl 和 jsonDataUrl
-config.title = `${config.dataType} ${config.year} Median CCV Log`; // 標題
+config.title = `${config.dataType} hololive DEV_IS ${config.year} Median CCV Log`; // 標題
 config.nameListUrl = `${config.year}_${config.dataType}_name_list.json`; // 名稱列表 JSON 的 URL
 config.jsonDataUrl = `${config.year}_${config.dataType}.json`; // 數據 JSON 的 URL
 // config.jsonDataUrl = `${config.year}_${config.dataType}.json`; // 數據 JSON 的 URL
