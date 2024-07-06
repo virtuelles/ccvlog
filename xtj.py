@@ -103,7 +103,8 @@ file_paths = [
     "2024/nijisanjiID/2024_nijisanjiID",
     "2024/nijisanjiJP/2024_nijisanjiJP",
     "2024/nijisanjiKR/2024_nijisanjiKR",
-    "2024/vspo/2024_vspo"
+    "2024/vspo/2024_vspo",
+    "2024/vspoEN/2024_vspoEN"
 ]
 
 # Process each file path
