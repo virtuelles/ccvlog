@@ -1,51 +1,51 @@
 {
-    "Name": "紫咲シオン",
-    "Group": "hololiveJP",
+    "Name": "早乙女ベリー",
+    "Group": "nijisanjiJP",
     "data": {
         "01": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "02": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "03": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "04": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "05": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "06": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "07": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "08": {
-            "median": 49665,
-            "average": 46345,
-            "streams": 7
+            "median": 1405,
+            "average": 4502,
+            "streams": 15
         },
         "09": {
-            "median": 25272,
-            "average": 25544,
-            "streams": 3
+            "median": 894,
+            "average": 1262,
+            "streams": 29
         },
         "10": {
             "median": null,
