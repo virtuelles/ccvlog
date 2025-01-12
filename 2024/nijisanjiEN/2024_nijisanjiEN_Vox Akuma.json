@@ -58,9 +58,9 @@
             "streams": 9
         },
         "12": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 1300,
+            "average": 1564,
+            "streams": 4
         }
     }
 }
