@@ -261,10 +261,10 @@ async function main() {
                     fixedHeader: false,
                     paging: false,
                     // responsive: true, // Enable responsiveness
-                    scrollX: true,
-                    fixedColumns: {  // Add fixedColumns option
-                        leftColumns: 2,  // Number of columns to fix on the left (0-based index)
-                    },
+                    // scrollX: true,
+                    // fixedColumns: {  // Add fixedColumns option
+                    //     leftColumns: 2,  // Number of columns to fix on the left (0-based index)
+                    // },
                     info: false, // 移除資訊列
                     columnDefs: [{
                         targets: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], // 假設你有12個月份的列，從索引3開始
