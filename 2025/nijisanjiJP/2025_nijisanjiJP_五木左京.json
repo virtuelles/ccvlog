@@ -1,26 +1,26 @@
 {
-    "Name": "Yu Q. Wilson",
-    "Group": "nijisanjiEN",
+    "Name": "五木左京",
+    "Group": "nijisanjiJP",
     "data": {
         "01": {
-            "median": 977,
-            "average": 1202,
-            "streams": 14
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "02": {
-            "median": 974,
-            "average": 1258,
-            "streams": 5
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "03": {
-            "median": 9069,
-            "average": 9637,
-            "streams": 22
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "04": {
-            "median": 4131,
-            "average": 5297,
-            "streams": 16
+            "median": 3185,
+            "average": 9709,
+            "streams": 19
         },
         "05": {
             "median": null,
