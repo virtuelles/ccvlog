@@ -1,36 +1,36 @@
 {
-    "Name": "立伝都々",
-    "Group": "nijisanjiJP",
+    "Name": "光葉エニ",
+    "Group": "NeoPorte",
     "data": {
         "01": {
-            "median": 1641,
-            "average": 1752,
-            "streams": 33
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "02": {
-            "median": 1616,
-            "average": 1841,
-            "streams": 23
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "03": {
-            "median": 1278,
-            "average": 1708,
-            "streams": 29
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "04": {
-            "median": 1131,
-            "average": 2274,
-            "streams": 15
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "05": {
-            "median": 1580,
-            "average": 4816,
-            "streams": 28
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "06": {
-            "median": 1554,
-            "average": 1532,
-            "streams": 24
+            "median": 299,
+            "average": 334,
+            "streams": 10
         },
         "07": {
             "median": null,
