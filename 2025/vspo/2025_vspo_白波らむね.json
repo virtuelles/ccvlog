@@ -35,12 +35,12 @@
         "07": {
             "median": null,
             "average": null,
-            "streams": null
+            "streams": 0
         },
         "08": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 4009,
+            "average": 4009,
+            "streams": 1
         },
         "09": {
             "median": null,
