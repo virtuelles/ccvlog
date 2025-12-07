@@ -1,61 +1,61 @@
 {
-    "Name": "柊ツルギ",
-    "Group": "NeoPorte",
+    "Name": "Eris Suzukami",
+    "Group": "vspoEN",
     "data": {
         "01": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "02": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "03": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "04": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "05": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "06": {
-            "median": 15011,
-            "average": 15011,
-            "streams": 1
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "07": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "08": {
-            "median": 6520,
-            "average": 6520,
-            "streams": 1
-        },
-        "09": {
-            "median": 42095,
-            "average": 42095,
-            "streams": 1
-        },
-        "10": {
-            "median": 834,
-            "average": 834,
-            "streams": 1
-        },
-        "11": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
+        },
+        "09": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "10": {
+            "median": null,
+            "average": null,
+            "streams": null
+        },
+        "11": {
+            "median": 1227,
+            "average": 1566,
+            "streams": 8
         },
         "12": {
             "median": null,
