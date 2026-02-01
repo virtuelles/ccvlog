@@ -1,3 +1,14 @@
+/* Median data range legend (home page) */
+.range1 { background-color: #d0cece; } /* 0~499 */
+.range2 { background-color: #d9e1f2; } /* 500~999 */
+.range3 { background-color: #ddebf7; } /* 1000~4999 */
+.range4 { background-color: #e2efda; } /* 5000~9999 */
+.range5 { background-color: #c6e0b4; } /* 10000~19999 */
+.range6 { background-color: #fff2cc; } /* 20000~29999 */
+.range7 { background-color: #fce4d6; } /* 30000~39999 */
+.range8 { background-color: #f8cbad; } /* 40000~49999 */
+.range9 { background-color: #f4b084; } /* 50000~ */
+
 .triangle {
     margin-left: 5px;
 }

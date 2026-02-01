@@ -93,18 +93,18 @@ def process_excel_file(file_path, namelist_path):
 
 # List of file paths
 file_paths = [
-    "2025/hololiveEN/2025_hololiveEN",
-    "2025/hololiveID/2025_hololiveID",
-    "2025/hololiveJP/2025_hololiveJP",
-    "2025/holostarsEN/2025_holostarsEN",
-    "2025/holostarsJP/2025_holostarsJP",
-    "2025/NeoPorte/2025_NeoPorte",
-    "2025/nijisanjiEN/2025_nijisanjiEN",
-    "2025/nijisanjiID/2025_nijisanjiID",
-    "2025/nijisanjiJP/2025_nijisanjiJP",
-    "2025/nijisanjiKR/2025_nijisanjiKR",
-    "2025/vspo/2025_vspo",
-    "2025/vspoEN/2025_vspoEN"
+    "2026/hololiveEN/2026_hololiveEN",
+    "2026/hololiveID/2026_hololiveID",
+    "2026/hololiveJP/2026_hololiveJP",
+    "2026/holostarsEN/2026_holostarsEN",
+    "2026/holostarsJP/2026_holostarsJP",
+    "2026/NeoPorte/2026_NeoPorte",
+    "2026/nijisanjiEN/2026_nijisanjiEN",
+    "2026/nijisanjiID/2026_nijisanjiID",
+    "2026/nijisanjiJP/2026_nijisanjiJP",
+    "2026/nijisanjiKR/2026_nijisanjiKR",
+    "2026/vspo/2026_vspo",
+    "2026/vspoEN/2026_vspoEN"
 ]
 
 # Process each file path

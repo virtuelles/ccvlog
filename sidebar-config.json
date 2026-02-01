@@ -1,0 +1,7 @@
+{
+  "2022": ["hololive", "holostars", "NeoPorte", "nijisanjiEN", "nijisanjiID", "nijisanjiJP", "nijisanjiKR", "vspo"],
+  "2023": ["hololiveEN", "hololiveID", "hololiveJP", "holostarsEN", "holostarsJP", "NeoPorte", "nijisanjiEN", "nijisanjiID", "nijisanjiJP", "nijisanjiKR", "vspo"],
+  "2024": ["hololiveEN", "hololiveID", "hololiveJP", "holostarsEN", "holostarsJP", "NeoPorte", "nijisanjiEN", "nijisanjiID", "nijisanjiJP", "nijisanjiKR", "vspo", "vspoEN"],
+  "2025": ["hololiveEN", "hololiveID", "hololiveJP", "holostarsEN", "holostarsJP", "NeoPorte", "nijisanjiEN", "nijisanjiID", "nijisanjiJP", "nijisanjiKR", "vspo", "vspoEN"],
+  "2026": ["hololiveEN", "hololiveID", "hololiveJP", "holostarsEN", "holostarsJP", "NeoPorte", "nijisanjiEN", "nijisanjiID", "nijisanjiJP", "nijisanjiKR", "vspo", "vspoEN"]
+}

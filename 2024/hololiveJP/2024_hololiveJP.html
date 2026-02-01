@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <title> </title> -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
@@ -12,159 +11,43 @@
     <link href="https://cdn.datatables.net/fixedheader/3.4.0/css/fixedHeader.dataTables.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css" rel="stylesheet">
     <link href="../../styles.css" rel="stylesheet">
-    
 </head>
 <body>
-    <!-- 側邊欄 -->
-    <div id="mySidebar" class="sidebar">
-        <a class="menu__item" href="../../home.html">回到首頁</a>
-        <a href="#" onclick="toggleSubmenu('submenu2022')">2022</a>
-        <ul id="submenu2022" class="sidebar-ul">
-            <li><a class="menu__item" href="../../2022/hololive/2022_hololive.html">hololive</a></li>
-            <li><a class="menu__item" href="../../2022/holostars/2022_holostars.html">holostars</a></li>
-            <li><a class="menu__item" href="../../2022/NeoPorte/2022_NeoPorte.html">NeoPorte</a></li>
-            <li><a class="menu__item" href="../../2022/nijisanjiEN/2022_nijisanjiEN.html">NijisanjiEN</a></li>
-            <li><a class="menu__item" href="../../2022/nijisanjiID/2022_nijisanjiID.html">NijisanjiID</a></li>
-            <li><a class="menu__item" href="../../2022/nijisanjiJP/2022_nijisanjiJP.html">NijisanjiJP</a></li>
-            <li><a class="menu__item" href="../../2022/nijisanjiKR/2022_nijisanjiKR.html">NijisanjiKR</a></li>
-            <li><a class="menu__item" href="../../2022/vspo/2022_vspo.html">vspo</a></li>
-            <!-- 以下是您原來的項目，保持不變 -->
-        </ul>
-        <a href="#" onclick="toggleSubmenu('submenu2023')">2023</a>
-        <ul id="submenu2023" class="sidebar-ul">
-            <li><a class="menu__item" href="../../2023/hololiveEN/2023_hololiveEN.html">hololiveEN</a></li>
-            <li><a class="menu__item" href="../../2023/hololiveID/2023_hololiveID.html">hololiveID</a></li>
-            <li><a class="menu__item" href="../../2023/hololiveJP/2023_hololiveJP.html">hololiveJP</a></li>
-            <li><a class="menu__item" href="../../2023/holostarsEN/2023_holostarsEN.html">holostarsEN</a></li>
-            <li><a class="menu__item" href="../../2023/holostarsJP/2023_holostarsJP.html">holostarsJP</a></li>
-            <li><a class="menu__item" href="../../2023/NeoPorte/2023_NeoPorte.html">NeoPorte</a></li>
-            <li><a class="menu__item" href="../../2023/nijisanjiEN/2023_nijisanjiEN.html">NijisanjiEN</a></li>
-            <li><a class="menu__item" href="../../2023/nijisanjiID/2023_nijisanjiID.html">NijisanjiID</a></li>
-            <li><a class="menu__item" href="../../2023/nijisanjiJP/2023_nijisanjiJP.html">NijisanjiJP</a></li>
-            <li><a class="menu__item" href="../../2023/nijisanjiKR/2023_nijisanjiKR.html">NijisanjiKR</a></li>
-            <li><a class="menu__item" href="../../2023/vspo/2023_vspo.html">vspo</a></li>
-        </ul>
-        <a href="#" onclick="toggleSubmenu('submenu2024')">2024</a>
-        <ul id="submenu2024" class="sidebar-ul">
-            <li><a class="menu__item" href="../hololiveEN/2024_hololiveEN.html">hololiveEN</a></li>
-            <li><a class="menu__item" href="../hololiveID/2024_hololiveID.html">hololiveID</a></li>
-            <li><a class="menu__item">hololiveJP</a></li>
-            <li><a class="menu__item" href="../holostarsEN/2024_holostarsEN.html">holostarsEN</a></li>
-            <li><a class="menu__item" href="../holostarsJP/2024_holostarsJP.html">holostarsJP</a></li>
-            <li><a class="menu__item" href="../NeoPorte/2024_NeoPorte.html">NeoPorte</a></li>
-            <li><a class="menu__item" href="../nijisanjiEN/2024_nijisanjiEN.html">NijisanjiEN</a></li>
-            <li><a class="menu__item" href="../nijisanjiID/2024_nijisanjiID.html">NijisanjiID</a></li>
-            <li><a class="menu__item" href="../nijisanjiJP/2024_nijisanjiJP.html">NijisanjiJP</a></li>
-            <li><a class="menu__item" href="../nijisanjiKR/2024_nijisanjiKR.html">NijisanjiKR</a></li>
-            <li><a class="menu__item" href="../vspo/2024_vspo.html">vspo</a></li>
-            <li><a class="menu__item" href="../vspoEN/2024_vspoEN.html">vspoEN</a></li>
-        </ul>
-        <a href="#" onclick="toggleSubmenu('submenu2025')">2025</a>
-        <ul id="submenu2025" class="sidebar-ul">
-            <li><a class="menu__item" href="../../2025/hololiveEN/2025_hololiveEN.html">hololiveEN</a></li>
-            <li><a class="menu__item" href="../../2025/hololiveID/2025_hololiveID.html">hololiveID</a></li>
-            <li><a class="menu__item" href="../../2025/hololiveJP/2025_hololiveJP.html">hololiveJP</a></li>
-            <li><a class="menu__item" href="../../2025/holostarsEN/2025_holostarsEN.html">holostarsEN</a></li>
-            <li><a class="menu__item" href="../../2025/holostarsJP/2025_holostarsJP.html">holostarsJP</a></li>
-            <li><a class="menu__item" href="../../2025/NeoPorte/2025_NeoPorte.html">NeoPorte</a></li>
-            <li><a class="menu__item" href="../../2025/nijisanjiEN/2025_nijisanjiEN.html">NijisanjiEN</a></li>
-            <li><a class="menu__item" href="../../2025/nijisanjiID/2025_nijisanjiID.html">NijisanjiID</a></li>
-            <li><a class="menu__item" href="../../2025/nijisanjiJP/2025_nijisanjiJP.html">NijisanjiJP</a></li>
-            <li><a class="menu__item" href="../../2025/nijisanjiKR/2025_nijisanjiKR.html">NijisanjiKR</a></li>
-            <li><a class="menu__item" href="../../2025/vspo/2025_vspo.html">vspo</a></li>
-            <li><a class="menu__item" href="../../2025/vspoEN/2025_vspoEN.html">vspoEN</a></li>
-        </ul>
-        <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
-    </div>
-    
-    <!-- 遮罩背景 -->
+<script>window.CCVLOG_CONFIG = { year: "2024", dataType: "hololiveJP" };</script>
+    <div id="mySidebar" class="sidebar" data-base-path="../../" data-current-year="2024" data-current-group="hololiveJP"></div>
     <div class="overlay" onclick="closeSidebar()"></div>
-
-    <!-- 主要內容 -->
     <div id="main">
-        <!-- 使用FontAwesome的漢堡包圖標來替換按鈕 -->
         <button class="open-sidebar-btn" onclick="openSidebar()">
-            <i class="fas fa-bars"></i> <!-- FontAwesome的漢堡包圖標 -->
-            <span class="toggle-text">頁面切換</span> <!-- 新增的文字元素 -->
+            <i class="fas fa-bars"></i>
+            <span class="toggle-text">頁面切換</span>
         </button>
-        <!-- 新增的置中內容區域
-        <div class="centered-content">
-            test
-        </div> -->
         <button id="toggle">
             <i class="fa-solid fa-filter"></i>
             <span class="toggle-text">反向選取</span>
         </button>
     </div>
-    <!-- Highcharts Line Chart Container -->
     <canvas id="container" style="width: 100%; height: 700px; border: 1px solid #000;"></canvas>
-    
-    <!-- Bootstrap Table Container -->
     <div class="container mt-5">
         <table id="dataTable" class="table table-hover table-bordered" style="width:100%">
             <thead>
                 <tr>
                     <th>ID</th>
                     <th>Name</th>
-                    <!-- ... Dynamic header columns ... -->
                 </tr>
             </thead>
             <tbody>
-                <!-- ... Dynamic data rows ... -->
             </tbody>
         </table>
     </div>
-</div>
-
-<!-- Scripts -->
-<!-- <script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.highcharts.com/modules/exporting.js"></script>
-<script src="https://code.highcharts.com/modules/export-data.js"></script>
-<script src="https://code.highcharts.com/modules/accessibility.js"></script> -->
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.8/js/dataTables.bootstrap5.min.js"></script>
 <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
 <script src="https://cdn.datatables.net/fixedcolumns/4.3.0/js/dataTables.fixedColumns.min.js"></script>
 <script src="https://cdn.datatables.net/fixedheader/3.4.0/js/dataTables.fixedHeader.min.js"></script>
-<script type="module" src="./config.js"></script>
-<script type="module" src="./main.js"></script>
-<script type="module">
-    import config from './config.js';
-    document.title = config.title;
-</script>
-<script >
-    function openSidebar() {
-        document.getElementById("mySidebar").style.transform = "translateX(250px)";
-        document.querySelector(".overlay").classList.add("active");
-        }
-
-    function closeSidebar() {
-        document.getElementById("mySidebar").style.transform = "translateX(0px)";
-        document.querySelector(".overlay").classList.remove("active");
-    }
-
-    function toggleSubmenu(id) {
-        const submenu = document.getElementById(id);
-        if (submenu.style.maxHeight) {
-            submenu.style.maxHeight = null; // 移除最大高度以收回
-        } else {
-            submenu.style.maxHeight = submenu.scrollHeight + "px"; // 設置最大高度以展開
-        }
-    }
-    async function updateMainContent(url) {
-        try {
-            const response = await fetch(url);  // 使用 fetch 進行網絡請求
-            if (!response.ok) {  // 確認網絡請求是否成功
-                throw new Error(`資料讀取失敗: ${response.statusText}`);
-            }
-            const data = await response.text();  // 解析 response 為文本
-            document.getElementById('main').innerHTML = data;  // 更新 main 的內容
-        } catch (error) {
-            console.error(error);  // 處理錯誤，並在控制台中打印錯誤信息
-        }
-    }
-</script>
+<script src="../../js/common.js"></script>
+<script src="../../js/sidebar.js"></script>
+<script src="../../js/main.js"></script>
 <footer>
     <p>本資料來源: <a href="https://vrabi.net">vrabi.net</a>，僅供參考。如發現資料錯誤或 Bug 請至 Github 發 issue : <a href="https://github.com/virtuelles/ccvlog">github.com/virtuelles/ccvlog</a></p>
 </footer>
