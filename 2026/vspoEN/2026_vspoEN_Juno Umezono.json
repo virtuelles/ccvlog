@@ -1,21 +1,21 @@
 {
-    "Name": "小雀とと",
-    "Group": "vspo",
+    "Name": "Juno Umezono",
+    "Group": "vspoEN",
     "data": {
         "01": {
-            "median": 1291,
-            "average": 1515,
-            "streams": 12
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "02": {
-            "median": 1546,
-            "average": 1595,
-            "streams": 13
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "03": {
-            "median": 1201,
-            "average": 1327,
-            "streams": 16
+            "median": null,
+            "average": null,
+            "streams": 0
         },
         "04": {
             "median": null,
