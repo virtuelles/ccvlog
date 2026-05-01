@@ -10,7 +10,6 @@
 <body>
 
     <div id="mySidebar" class="sidebar" data-base-path="." data-current-year="" data-current-group=""></div>
-
     <div class="overlay" onclick="closeSidebar()"></div>
 
     <div id="main">
@@ -19,25 +18,87 @@
             <span class="toggle-text">頁面切換</span>
         </button>
         <div class="centered-content">
-            <ul>
-                <li>本網站使用爬取vrabi.net獲得的資料整理製作中位數據圖表</li>
-                <li>資料只包含於YouTube直播的數據，不包含Twitch直播的數據</li>
-                <li>使用左上角選單切換資料</li>
-                <li>折線圖部分使用Chart.js製作，可使用右上角的反向選取功能與點選折線名稱顯示與隱藏資料</li>
-                <li>表格部分使用DatTables製作，可點選標題進行正向與反向排序，並以顏色區分中位數據區間</li>
-                <div class="range9">50000~</div>
-                <div class="range8">40000~49999</div>
-                <div class="range7">30000~39999</div>
-                <div class="range6">20000~29999</div>
-                <div class="range5">10000~19999</div>
-                <div class="range4">5000~9999</div>
-                <div class="range3">1000~4999</div>
-                <div class="range2">500~999</div>
-                <div class="range1">1~499</div>
-                <li>台數<=5時以<font color="blue">藍色</font>標示</li>
-                <li>折線圖顏色來源為wiki與官網</li>
-                <li>推薦使用電腦檢視，手機太窄了</li>
-            </ul>
+            <h1 class="home-title">Concurrent Viewer Log</h1>
+
+            <section class="home-section">
+                <h2>關於本網站</h2>
+                <ul>
+                    <li>本網站使用爬取 vrabi.net 獲得的資料整理製作中位數據圖表</li>
+                    <li>資料只包含於 YouTube 直播的數據，不包含 Twitch 直播的數據</li>
+                    <li>使用左上角選單切換資料</li>
+                    <li>推薦使用電腦檢視，手機太窄了</li>
+                </ul>
+            </section>
+
+            <section class="home-section">
+                <h2>折線圖</h2>
+                <ul>
+                    <li>使用 Chart.js 製作，折線圖顏色來源為 wiki 與官網</li>
+                    <li>可點選右上角<b>反向選取</b>或點選圖例名稱顯示 / 隱藏資料</li>
+                </ul>
+            </section>
+
+            <section class="home-section">
+                <h2>資料表格</h2>
+                <ul>
+                    <li>使用 DataTables 製作，可點選標題進行正向與反向排序</li>
+                </ul>
+
+                <h3>背景色說明（依 Median 區間）</h3>
+                <div class="color-range-legend">
+                    <div class="range-item range9">50,000 ~</div>
+                    <div class="range-item range8">40,000 ~ 49,999</div>
+                    <div class="range-item range7">30,000 ~ 39,999</div>
+                    <div class="range-item range6">20,000 ~ 29,999</div>
+                    <div class="range-item range5">10,000 ~ 19,999</div>
+                    <div class="range-item range4">5,000 ~ 9,999</div>
+                    <div class="range-item range3">1,000 ~ 4,999</div>
+                    <div class="range-item range2">500 ~ 999</div>
+                    <div class="range-item range1">1 ~ 499</div>
+                </div>
+
+                <h3>儲存格結構</h3>
+                <div class="cell-structure-demo">
+                    <div class="demo-cell range6">
+                        <div class="demo-row">22,000</div>
+                        <div class="demo-row"><span style="color:red">▲</span>(+8.50%)</div>
+                        <div class="demo-row" style="font-size:0.85em">Avg: 28,500 <span style="color:darkorange">(+29.5%)</span></div>
+                        <div class="demo-row">Streams: 18</div>
+                    </div>
+                    <div class="demo-labels">
+                        <div class="demo-label-row">Median — 主要數值，背景色依此決定</div>
+                        <div class="demo-label-row">月成長率（<span style="color:red">▲紅色</span> 上升 / <span style="color:green">▼綠色</span> 下降）</div>
+                        <div class="demo-label-row">Average 與偏態指標</div>
+                        <div class="demo-label-row">直播台數（≤ 5 場時以<span style="color:blue">藍色</span>標示）</div>
+                    </div>
+                </div>
+
+                <h3>偏態指標說明</h3>
+                <p class="skew-formula">偏態指標 = (Average − Median) / Median，反映該月觀看數分布是否均勻</p>
+                <div class="skew-legend">
+                    <div class="skew-item">
+                        <div class="skew-swatch" style="background:darkorange"></div>
+                        <div class="skew-text">
+                            <b style="color:darkorange">橘色 &gt; +20%</b>：Average 顯著高於 Median
+                            <div class="skew-desc">該月存在高觀看數異常場次（3D live、生日、週年紀念或大型活動等拉高平均）</div>
+                        </div>
+                    </div>
+                    <div class="skew-item">
+                        <div class="skew-swatch" style="background:#1a56e8"></div>
+                        <div class="skew-text">
+                            <b style="color:#1a56e8">藍色 &lt; −20%</b>：Average 顯著低於 Median
+                            <div class="skew-desc">該月存在低觀看數異常場次（測試台、平台或網路不穩等特殊情況拉低平均）</div>
+                        </div>
+                    </div>
+                    <div class="skew-item">
+                        <div class="skew-swatch" style="background:#aaa"></div>
+                        <div class="skew-text">
+                            <b style="color:#666">灰色 ±20% 以內</b>：觀看數分布均勻
+                            <div class="skew-desc">無明顯極端場次</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </div>
 

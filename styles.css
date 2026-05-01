@@ -41,35 +41,44 @@ body {
 /* 側邊欄樣式 */
 .sidebar {
     position: fixed;
-    left: -250px; /* Start with the sidebar off-screen to the left */
+    left: -260px;
     top: 0;
-    height: 90vh;
-    width: 250px;
+    height: 100vh;
+    width: 260px;
     background-color: #ECEFF1;
-    overflow-x: hidden;
-    overflow-y: auto;
-    transition: transform 0.3s; /* Use transform for animation */
-    padding-top: 60px;
+    overflow: hidden;
+    transition: transform 0.3s;
+    padding-top: 0;
     z-index: 1000;
+    display: flex;
+    flex-direction: column;
 }
 .sidebar a {
-    padding: 12px 24px;
+    padding: 10px 20px;
     text-decoration: none;
-    font-size: 20px;
-    color: #333;
+    font-size: 14px;
+    color: #37474F;
     display: block;
-    transition: 0.3s;
+    transition: background-color 0.2s;
 }
 .sidebar a:hover {
     background-color: #CFD8DC;
 }
 .sidebar .close-btn {
-    position: absolute;
-    top: 5px;
-    left: 50px;
-    font-size: 30px;
-    margin-left: 50px;
+    position: static;
+    background: none;
+    border: none;
     cursor: pointer;
+    font-size: 15px;
+    color: #546E7A;
+    padding: 6px 9px;
+    border-radius: 4px;
+    margin: 0;
+    line-height: 1;
+    transition: background-color 0.2s;
+}
+.sidebar .close-btn:hover {
+    background-color: rgba(0, 0, 0, 0.12);
 }
 .open-sidebar-btn {
     font-size: 24px;
@@ -174,4 +183,234 @@ footer a {
 
 footer a:hover {
     text-decoration: underline; /* Add underline on hover */
+}
+
+/* ── Home page layout ─────────────────────────────────── */
+.home-title {
+    font-size: 1.9em;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.home-section {
+    margin-bottom: 28px;
+}
+
+.centered-content h2 {
+    font-size: 1.25em;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.centered-content h3 {
+    font-size: 1.05em;
+    margin-top: 18px;
+    margin-bottom: 8px;
+}
+
+/* Color range legend */
+.color-range-legend {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin: 8px 0 4px;
+    max-width: 280px;
+}
+
+.range-item {
+    padding: 5px 12px;
+    border-radius: 3px;
+    font-size: 0.9em;
+    border: 1px solid rgba(0, 0, 0, 0.07);
+}
+
+/* Cell structure demo */
+.cell-structure-demo {
+    display: flex;
+    align-items: stretch;
+    gap: 20px;
+    margin: 10px 0 4px;
+}
+
+.demo-cell {
+    min-width: 160px;
+    padding: 8px 14px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 0.95em;
+}
+
+.demo-row {
+    min-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.demo-labels {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 0.9em;
+    color: #444;
+}
+
+.demo-label-row {
+    min-height: 28px;
+    display: flex;
+    align-items: center;
+}
+
+.demo-label-row::before {
+    content: "← ";
+    color: #aaa;
+    margin-right: 2px;
+}
+
+/* Skew indicator legend */
+.skew-formula {
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.skew-legend {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 4px 0;
+}
+
+.skew-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.skew-swatch {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    flex-shrink: 0;
+    margin-top: 4px;
+}
+
+.skew-text {
+    font-size: 0.95em;
+    line-height: 1.5;
+}
+
+.skew-desc {
+    font-size: 0.88em;
+    color: #666;
+}
+
+/* ── Sidebar redesign ─────────────────────────────────── */
+.sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 14px;
+    background-color: #CFD8DC;
+    border-bottom: 1px solid #B0BEC5;
+    flex-shrink: 0;
+}
+
+.sidebar-title {
+    font-size: 11px;
+    font-weight: 700;
+    color: #455A64;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+}
+
+.sidebar-nav {
+    overflow-y: auto;
+    flex: 1;
+    padding-bottom: 12px;
+    scrollbar-width: thin;
+    scrollbar-color: #B0BEC5 transparent;
+}
+
+.sidebar-nav::-webkit-scrollbar {
+    width: 5px;
+}
+
+.sidebar-nav::-webkit-scrollbar-thumb {
+    background-color: #B0BEC5;
+    border-radius: 3px;
+}
+
+.sidebar a.home-link {
+    padding: 12px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #37474F;
+    border-bottom: 1px solid #CFD8DC;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.sidebar a.home-link:hover {
+    background-color: #CFD8DC;
+}
+
+.sidebar a.year-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 9px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #455A64;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    background-color: #E0E7EC;
+    border-bottom: 1px solid #CFD8DC;
+}
+
+.sidebar a.year-toggle:hover {
+    background-color: #CFD8DC;
+    color: #263238;
+}
+
+.year-arrow {
+    font-size: 11px;
+    transition: transform 0.25s ease;
+    display: inline-flex;
+    align-items: center;
+    color: #78909C;
+}
+
+.year-toggle.open .year-arrow {
+    transform: rotate(90deg);
+}
+
+.sidebar-ul li {
+    list-style: none;
+}
+
+.sidebar-ul li a {
+    padding: 8px 12px 8px 24px;
+    font-size: 13px;
+    color: #455A64;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.sidebar-ul li a:hover {
+    background-color: #CFD8DC;
+    color: #263238;
+}
+
+.sidebar-ul li a.current-page {
+    background-color: #B0BEC5;
+    color: #1A237E;
+    font-weight: 700;
+    cursor: default;
+    pointer-events: none;
+    border-left: 3px solid #546E7A;
+    padding-left: 21px;
 }

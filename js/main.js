@@ -115,6 +115,7 @@ async function main() {
 
                 months.forEach(function (month) {
                     var dataValue = series.data[month];
+                    var avgValue = series.averageData ? series.averageData[month] : null;
                     var streamsValue = series.streams[month];
                     var dataCell = document.createElement("td");
                     var streamsSpan = document.createElement("span");
@@ -138,14 +139,32 @@ async function main() {
                             dataCell.appendChild(document.createElement("br"));
                             dataCell.appendChild(triangle);
                             dataCell.appendChild(document.createTextNode("(" + growthRate.toFixed(2) + "%)"));
-                            dataCell.appendChild(document.createElement("br"));
-                            dataCell.appendChild(streamsSpan);
                         } else {
                             dataCell.textContent = dataValue;
-                            dataCell.appendChild(document.createElement("br"));
                             streamsSpan.style.whiteSpace = "nowrap";
-                            dataCell.appendChild(streamsSpan);
                         }
+                        if (avgValue !== null && avgValue !== undefined) {
+                            var avgSpan = document.createElement("span");
+                            avgSpan.style.fontSize = "0.85em";
+                            avgSpan.textContent = "Avg: " + avgValue;
+                            if (dataValue !== 0) {
+                                var skewPct = ((avgValue - dataValue) / dataValue) * 100;
+                                var skewSpan = document.createElement("span");
+                                skewSpan.textContent = " (" + (skewPct >= 0 ? "+" : "") + skewPct.toFixed(1) + "%)";
+                                if (skewPct > 20) {
+                                    skewSpan.style.color = "darkorange";
+                                } else if (skewPct < -20) {
+                                    skewSpan.style.color = "#1a56e8";
+                                } else {
+                                    skewSpan.style.color = "#888";
+                                }
+                                avgSpan.appendChild(skewSpan);
+                            }
+                            dataCell.appendChild(document.createElement("br"));
+                            dataCell.appendChild(avgSpan);
+                        }
+                        dataCell.appendChild(document.createElement("br"));
+                        dataCell.appendChild(streamsSpan);
                     }
                     previousValue = dataValue;
 
@@ -202,16 +221,18 @@ async function main() {
                         .map(function (entry) {
                             var month = entry[0];
                             var values = entry[1];
-                            return { month: month, median: values.median, streams: values.streams };
+                            return { month: month, median: values.median, average: values.average, streams: values.streams };
                         });
 
                     var medianData = seriesDataForMonths.map(function (item) { return item.median; });
+                    var averageData = seriesDataForMonths.map(function (item) { return item.average; });
                     var streamsData = seriesDataForMonths.map(function (item) { return item.streams; });
 
                     var series = {
                         id: id,
                         name: name,
                         data: medianData,
+                        averageData: averageData,
                         streams: streamsData
                     };
 

@@ -1,5 +1,5 @@
 function openSidebar() {
-    document.getElementById("mySidebar").style.transform = "translateX(250px)";
+    document.getElementById("mySidebar").style.transform = "translateX(260px)";
     document.querySelector(".overlay").classList.add("active");
 }
 
@@ -9,12 +9,11 @@ function closeSidebar() {
 }
 
 function toggleSubmenu(id) {
-    const submenu = document.getElementById(id);
-    if (submenu.style.maxHeight) {
-        submenu.style.maxHeight = null;
-    } else {
-        submenu.style.maxHeight = submenu.scrollHeight + "px";
-    }
+    var submenu = document.getElementById(id);
+    var isOpen = !!submenu.style.maxHeight;
+    submenu.style.maxHeight = isOpen ? null : submenu.scrollHeight + "px";
+    var yearLink = document.getElementById("year-" + id);
+    if (yearLink) yearLink.classList.toggle("open", !isOpen);
 }
 
 async function updateMainContent(url) {
