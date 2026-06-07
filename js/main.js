@@ -35,13 +35,41 @@ function loadScript(url) {
 }
 
 function doExportDataTableAsJpg(tableElement) {
-    html2canvas(tableElement, {
+    var rows = Array.from(tableElement.querySelectorAll("tbody tr"));
+    var useDoubleCol = rows.length > 80;
+
+    function makeHalfTable(startIdx, endIdx) {
+        var tbl = tableElement.cloneNode(false);
+        tbl.style.fontSize = "0.82em";
+        tbl.appendChild(tableElement.querySelector("thead").cloneNode(true));
+        var tbody = document.createElement("tbody");
+        for (var i = startIdx; i < endIdx && i < rows.length; i++) {
+            tbody.appendChild(rows[i].cloneNode(true));
+        }
+        tbl.appendChild(tbody);
+        return tbl;
+    }
+
+    var captureTarget;
+    if (useDoubleCol) {
+        var half = Math.ceil(rows.length / 2);
+        captureTarget = document.createElement("div");
+        captureTarget.style.cssText = "display:flex;gap:6px;background:#fff;padding:8px;position:absolute;left:-9999px;top:0;";
+        captureTarget.appendChild(makeHalfTable(0, half));
+        captureTarget.appendChild(makeHalfTable(half, rows.length));
+        document.body.appendChild(captureTarget);
+    } else {
+        captureTarget = tableElement;
+    }
+
+    html2canvas(captureTarget, {
         useCORS: true,
         scale: 1,
         backgroundColor: "#ffffff",
         logging: false
     }).then(function (canvas) {
-        var maxWidth = 1200;
+        if (useDoubleCol) document.body.removeChild(captureTarget);
+        var maxWidth = 2400;
         var ratio = canvas.width > maxWidth ? maxWidth / canvas.width : 1;
         var w = Math.round(canvas.width * ratio);
         var h = Math.round(canvas.height * ratio);
@@ -58,6 +86,7 @@ function doExportDataTableAsJpg(tableElement) {
         link.href = canvas.toDataURL("image/jpeg", 0.8);
         link.click();
     }).catch(function (err) {
+        if (useDoubleCol && captureTarget.parentNode) document.body.removeChild(captureTarget);
         console.error("匯出 JPG 失敗:", err);
     });
 }
