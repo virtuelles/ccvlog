@@ -23,9 +23,9 @@
             "streams": 40
         },
         "05": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 183,
+            "average": 193,
+            "streams": 39
         },
         "06": {
             "median": null,
