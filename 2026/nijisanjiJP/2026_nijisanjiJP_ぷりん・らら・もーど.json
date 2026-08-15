@@ -1,41 +1,41 @@
 {
-    "Name": "Jiyu Oh",
-    "Group": "nijisanjiKR",
+    "Name": "ぷりん・らら・もーど",
+    "Group": "nijisanjiJP",
     "data": {
         "01": {
-            "median": 86,
-            "average": 95,
-            "streams": 13
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "02": {
-            "median": 41,
-            "average": 40,
-            "streams": 5
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "03": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "04": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "05": {
-            "median": 82,
-            "average": 85,
-            "streams": 4
+            "median": null,
+            "average": null,
+            "streams": null
         },
         "06": {
             "median": null,
             "average": null,
-            "streams": 0
+            "streams": null
         },
         "07": {
-            "median": 59,
-            "average": 60,
-            "streams": 9
+            "median": 1574,
+            "average": 1578,
+            "streams": 6
         },
         "08": {
             "median": null,

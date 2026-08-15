@@ -28,14 +28,14 @@
             "streams": 21
         },
         "06": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 142,
+            "average": 251,
+            "streams": 26
         },
         "07": {
-            "median": null,
-            "average": null,
-            "streams": null
+            "median": 176,
+            "average": 624,
+            "streams": 21
         },
         "08": {
             "median": null,
